@@ -1,1 +1,2 @@
  - [Waterdeep Dragon Heist](waterdeep-diari.md)
+ - [Astro Log](astro-visual-log.md)
