@@ -1,5 +1,11 @@
 # Waterdeep diari
 
+### 20200310 ###
+
+Maten a tot esser vivent al celler, inclos el cofre assassi que entrete al
+Jordi i al Paco. El Albert i el Bernat pugen per la escala i veuen un kenku
+fugir, presumiblement amb la pedra. Comenca la persecucio.
+
 ### 20200302 ###
 
 Partida cancel·lada
