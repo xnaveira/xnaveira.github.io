@@ -63,6 +63,6 @@ M34 ~ Cluster
 Zuma?
 alfOri?(Betelguese)
 r crb? (low in horizon in feb)
-
+T CrB?
 
 C/2019 Y4 bright commet in ursa major 20200229
