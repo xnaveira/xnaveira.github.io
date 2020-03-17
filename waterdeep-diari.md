@@ -1,5 +1,16 @@
 # Waterdeep diari
 
+### 20200317 ###
+
+Persegueixen al kenku fugitiu fins a un pati entre cases, desapareix a una
+torre. Entren a la torre on el Kenku ha segrestat un nen. Convencen al kenku
+per alliberar el nen i canviar la Pedra de Golorr per 10mo, quan sembla que
+ténen la pedra a les seves mans 3 gazers els ataquen i intenten fer-se amb la
+pedra usant telequinèsia. Lluiten amb els gazers i aconsegueixen vèncer-los
+recuperant la pedra. La pedra sembla posseïr certa malignitat i propietats
+màgiques.
+
+
 ### 20200310 ###
 
 Maten a tot esser vivent (i no vivent) al celler, inclos el cofre assassi que entrete al
