@@ -1,5 +1,33 @@
 # Waterdeep diari
 
+### 20200331 ###
+
+En Saeth i en Barnibus van a veure als aventurers. Els expliquen que han
+investigat l'encontre que van tenir darerament amb els kobolds, el bugbear i
+els gazer. Han trobat el devorador de intelectes i la pedra! Sembla ser que el
+tresor de'n Neverember es va crear estafant la ciutat. Per protegir la
+integritat del govern es va destituïr el lord Dagult Neverember i en el seu lloc es va
+posar la reina Laeral Silverhand. Laeral és una maga veterana, es diu que en
+els seus dies de juventut va ser reina de un petit país del nord. Després de
+moltes aventures es va establir a Waterdeep i va ser la parella de l'aleshores
+vara negra, en Khelen Arunsun. En Khelen va morir defensant la ciutat dels
+poders del mal amb la ajuda de la Vajra que ara ocupa el lloc de la Vara Negra.
+Avui en dia la relació entre la Laeral i la Vagra és distant. En Barnibus deixa
+entreveure que la ciutat vol trobar el tresor però degut a que mai ha reconegut
+que existeix no s'hi pot barrejar. També insinua que si els aventurers
+recuperéssin el tresor la Laeral estaria disposada a negociar un percentatge
+per ells. Reben la pedra d'en Golorr.
+Van al Portal Badallador per informar-se sobre la pedra, parlen amb en Volo. En
+Volo els diu que la sincronització la pot fer qualsevol persona capaç de
+llençar un conjur i que la pedra amaga el secret de la localització de la Volta
+del tresor. Detecten una presència malèfica, un aboleth està connectat d'alguna
+manera a la presència de la pedra.
+Aprofiten que estan allà per preguntar per en Meloon doncs la Vajra volia
+informació del seu estat. El troben meditant, intentant sincronitzar-se amb la
+seva destral màgica Azur que el rebutja doncs ha estat posseit per un Devorador
+Intelectual en la seva darrera missió al Inframón. Aconsegueixen expulsar el
+devorador i es posen d'acord per anar a veure a la Vajra plegats.
+
 ### 20200325 ###
 
 Surten al pati interior darrera de la torre. Pateixen una emboscada per part de
