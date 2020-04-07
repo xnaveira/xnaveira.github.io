@@ -1,5 +1,20 @@
 # Waterdeep diari
 
+### 20200407 ###
+
+Van a parlar amb la Vajra. Retornen en Meloon i reben missio del mind flayer.
+La Vajra li dona un collaret amb un encanteri de "Recado" per poder enviar-li
+un missatge. El bernat li dona el llibre del hobbit nigromant al Jaume. El
+Jordi es sincronitza amb la pedra i descobreix que la pedra esta al teatre Pink
+Flumph. Van a investigar al port i despres es colen al teatre a intentar trobar
+el tresor. 
+Van a parlar amb la Vajra. Retornen en Meloon i reben missio del mind flayer.
+La Vajra li dona un collaret amb un encanteri de "Recado" per poder enviar-li
+un missatge. El bernat li dona el llibre del hobbit nigromant al Jaume. El
+Jordi es sincronitza amb la pedra i descobreix que la pedra esta al teatre Pink
+Flumph. Van a investigar al port i despres es colen al teatre a intentar trobar
+el tresor. 
+
 ### 20200331 ###
 
 En Saeth i en Barnibus van a veure als aventurers. Els expliquen que han
