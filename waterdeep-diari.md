@@ -2,6 +2,28 @@
 
 # Waterdeep: Diari dels aventurers 
 
+### 20200422 ###
+
+Descobreixen la trampilla al camerino entren, amaguen la trampilla amb una
+manta i deixen la trampilla oberta. En baixar troben un grup de goblins i un
+bugbear, els derroten. Interrogen un dels goblins, els ha enviat en Xanathar a
+investigar com obrir la cambra del tresor. Maten al goblin. La cambra té una
+gran porta de pedra tancada sense juntes amb una gran inscripció MOSTREU LES
+TRES CLAUS. El jordi parla amb el Aboleth i li explica que darrera la porta
+està el tresor vigilat per l'Aurinax. També explica quines claus han de portar:
+
+Primera:
+Performance of "Your Beardy Face"
+Es una cançó d'amor dels nans que es canta amb companyia de dos gaites i dos
+cantants.
+
+Segona:
+Bronze dragon scale - Escata de un drac de bronze
+
+Tercera:
+Un parell de orelles de bugbear.
+
+
 ### 20200407 ###
 
 Van a parlar amb la Vajra. Retornen en Meloon i reben missio d'eliminar el mind
