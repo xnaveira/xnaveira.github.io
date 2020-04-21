@@ -1,4 +1,4 @@
-# Waterdeep diari
+# Waterdeep diari [![Roll20](https://app.roll20.net/v2/images/roll20-logo.png?v=2)](https://app.roll20.net/wishlist/40307)
 
 ### 20200407 ###
 
