@@ -2,6 +2,16 @@
 
 # Waterdeep: Diari dels aventurers 
 
+### 20200429 ###
+
+Van a descansar, despres s'encaminen al port a buscar la escata de drac de
+bronze que els hi falta. Van a trobar a la Grinda i els hi deixa el submari per
+anar a buscar el drac, troben el drac. A canvi de l'escata els demana que
+l'ajudin a obrir un cofre màgic que conté la pedra de la família del drac que
+li falicitarà trobar l'assentament familiar. Després de no poques dificultats
+troben la paraula màgica per obrir el cofre i el drac pot obtenir la pedra. A
+canvi reben la escata com promès.
+
 ### 20200422 ###
 
 Descobreixen la trampilla al camerino entren, amaguen la trampilla amb una
