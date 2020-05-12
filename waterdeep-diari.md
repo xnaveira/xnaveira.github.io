@@ -2,6 +2,18 @@
 
 # Waterdeep: Diari dels aventurers 
 
+### 20200512 ###
+
+L'Albert destrossa el fresc que havia encisat en Bernat i ell queda alliberat.
+Pugen al pis de dalt i troben un mosaic amb unes esquerdes on s'amagava un
+Black Pudding, després d'un combat aferrissat derroten al black pudding. Troben
+tres ponts, intenten creuar-los i el Bernat i l'Albert cauen dels ponts. El
+Jordi i el Paco s'encallen intentant obrir una de les portes. El Bernat i
+l'Albert tornen a pujar i obren una altra de les portes i troben una sala amb
+una estatua de un nan i una trampilla amb una anells, intenten estirar-la i
+pateixen ferides de foc dels raigos de foc que surten del nan. L'Albert queda
+inconscient.
+
 ### 20200505 ###
 
 Arriben al teatre i hi ha funcio, el Wishes els posa en un palc fins que
