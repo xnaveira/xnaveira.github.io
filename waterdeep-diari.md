@@ -2,6 +2,17 @@
 
 # Waterdeep: Diari dels aventurers 
 
+### 20200519 ###
+
+Miren un altre cop d'obrir la trampilla i en Jordi es xamusca altre cop. En
+Bernat usa la "Wand of Secrets" per mirar de trobar una entrada secreta sense
+exit. Entren a la següent sala i descobreixen una escala secreta mitjançant
+explicar un secret mai explicat. Arriben a una sala al final de la escala amb
+columnes i troben a un nan que els explica que és el guardià del tresor del
+Neverember. El nan es nega a parlar o entregar el tresor si no és en presència
+de un Neverember.
+
+
 ### 20200512 ###
 
 L'Albert destrossa el fresc que havia encisat en Bernat i ell queda alliberat.
