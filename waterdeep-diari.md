@@ -2,6 +2,14 @@
 
 # Waterdeep: Diari dels aventurers 
 
+### 20200525 ###
+
+Guanyen 10 punts de vida temporals picant el martell a la enclusa. L'Albert es
+queda el martell. En Bernat cau del pont intentant saltar. Cauen en una
+emboscada dels esbirros dels Xanathar. En Jordi, Albert i Paco estan
+inconscients, en Bernat està lluitant i té el segÑuent torn a la lluita. Usa el
+collaret de la Vajra per enviar un missatge demanant ajuda.
+
 ### 20200519 ###
 
 Miren un altre cop d'obrir la trampilla i en Jordi es xamusca altre cop. En
