@@ -2,6 +2,45 @@
 
 # Waterdeep: Diari dels aventurers 
 
+### 202006020 ###
+
+El Bernat lluita valentment amb els Xanathar i en aquell moment es revela el
+veritable cervell de la expedició el drow Nar'l Xibrindas que acaba decantant
+el combat i són fets presoners. Es desperten a unes cel·les en el que sembla
+ser un complex soterrani, el cau d'en Xanathar mateix. Descobreixen que no
+estan sols a les cel·les, dos presoners més hi son captius, un drow anomenat
+Zaibon i un capità de la guàrdia de la ciutat amb el que s'havien trobat
+anteriorment quan enfrentant-se als Xanathar, en Hyustus. Mentre estan
+intentant de trobar una manera d'escapar-se una comitiva formada pel mateix
+Nar'l, el mindflayer Nihiloor i una guàrdia de Kuo-toas i Grells, entren al
+recinte de les cel·les. En Nar'l interroga en Zaibon sobre les accions de la
+seva família dirigides a fer-se amb el control de la ciutat de Skullport.
+Sembla que els Xanathar volen encoratjar la guerra entre les dos cases
+dominants, Auvryndar i Freth, per treure'n profit. El interrogatori no arriba
+massa lluny i en Nar'l li demana a en Nihiloor preparar-se per implantar un
+devorador intel·lectual en el drow i se l'emporten.
+Un cop el recinte de les cel·les és buit un altre cop passen vàries coses, en
+Hyustus explica que ha estat capturat mentre investigava els Xanathar i que tem
+que li volen implantar un devorador intel·lectual a ell per tal d'espiar la
+guàrdia de la ciutat. També declara saber on els captors guarden les
+pertinences dels presoners. Paral·lelament l'Albert Pitjafora troba una clau
+amagada que li permet obrir les cel·les. Recuperen les seves pertinències i
+escapen de les cel·les. Surten a petar a una gran sala plena de restes i ossos
+on un grup the Kuo-toa estan venerant el ritual de implantació de un devorador
+intel·lectual a en Zaibon per part de un mindflayer. Aconsegueiexen
+esmunyir-se per anar a parar a una sala amb una escala que baixa i un misteriós
+dibuix al terra que recorda a un dibuix semblant que van trobar al cau dels
+Xanathar on van trobar-se en Nihiloor per primer cop. Continuen i entren en una
+nova sala corba amb columnes plenes d'ulls, troben una gran porta i en mirar de
+veure què hi ha a l'altre costat troben una estranya escena on en Xanathar
+mateix i els seus esbirros es troben immersos en una mena de ritual enmig de
+una ambientació quasi psicodèlica. Mentre estan intentant decidir quin és el
+següent pas senten unes passes. Tothom s'amaga, tanmateix el causant de les
+passes descobreix en Max voltant per la sala. En adonar-se que en Max és un
+presoner fugit, el nan, que no és un altre que en Ahmaergo, la mà dreta d'en
+Xanathar, que estava fent una ronda rutinària. Sense dubtar en Ahmaergo mata en
+Max i segueix la seva ronda...
+
 ### 20200525 ###
 
 Guanyen 10 punts de vida temporals picant el martell a la enclusa. L'Albert es
