@@ -2,7 +2,27 @@
 
 # Waterdeep: Diari dels aventurers 
 
-### 202006020 ###
+### 20200609 ###
+
+Després del desafortunat encontre amb Ahmaergo que va acabar amb en paco
+insconscient, els seus companys l'ajuden a recuperar-se. En el seu afany per
+escapar del Cau de'n Xanathar els aventurers troben una mena d'amfiteatre amb
+una grada lleugerament elevada sobre l'arena inferior, plena de marques fruit
+del combat, taques de sang ressseca etc. Seguint la seva cerca per una sortida,
+instats per en Hyustus, es topen amb una habitació ocupada per un Beholder
+Zombie i 4 cries de Beholder. Enceten una lluita contra la bèstia que acaba amb
+en Jorard desintegrat i convertit en una pila de polsim gris. Un cop derrotat
+el Beholder, en Bharash, impulsat sens dubte pel seu sentit del bé i la
+justícia, emprèn una purga de les cries de Beholder, arriscant-se a ser
+infectat per les espores alliberades. Finalment el Paco és infectat, fet que és
+ràpidament sol·lucionat per les dots sagrades del paladí. En paco recull en un
+recipient la pols que un cop va ser el clèric Jorard. Un cop superades les
+dificultats segueixen endavant, trobant una nova sala que desnemboca a la
+avantsala de les columnes on van trobar-se en Ahmaergo. L'Albert Pitjafora
+troba una porta lateral i quan l'obren descobreixen una escala de cargol
+ascendent...
+
+### 20200602 ###
 
 El Bernat lluita valentment amb els Xanathar i en aquell moment es revela el
 veritable cervell de la expedició el drow Nar'l Xibrindas que acaba decantant
