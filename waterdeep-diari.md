@@ -1,6 +1,21 @@
 [![Roll20](https://app.roll20.net/v2/images/roll20-logo.png?v=2)](https://app.roll20.net/wishlist/40307)
 
-# Waterdeep: Diari dels aventurers 
+# Waterdeep: Diari dels aventurers
+
+### 20200616 ###
+
+Quan descobreixen la sortida del Cau del Xanathar es troben allà en Meloon i en
+Rastlin que venien a intentar rescatar-los.  En Meloon suggereix que per mirar
+de ressucitar el Jorard busquin un Nigromant al sotamón i els diu que al Portal
+Badallador sempre hi ha personatges buscant contractar aventurers per mirar de
+trobar els tresors i objectes màgics que estan disseminats pel sotamón. 
+La Laeral visita als aventurers i els proposa recuperar el tresor del
+Neverember a canvi del 10%. 
+Emmek ha obert una taverna al mateix carrer, sembla que està escampant
+rumors sobre la Taverna de la Calavera del Troll, en concret que hi ha rates.
+Van a la taverna del pou badallador i es troben en Volo, en Floon i en Raener.
+Sembla que estan celebrant que se'n van d'expedició (en Volo i en Floon)
+L'Albert va de compres i es reequipa.
 
 ### 20200609 ###
 
