@@ -36,7 +36,7 @@ objectes i llibres màgics del sotamón per a estudiar-los.
 | 6,7               | 250pp      |
 | 8,9               | 500pp      |
 
-Van al Portal Badallador (convidats per en Floon/Renaer/Davil/Volo). Veuen un
+Van al Portal Badallador. Veuen un
 grup d'aventurers pipiolos vinguts de Neverwinter, en un moment donat comencen
 a alçar la veu i se'ls veu tajats. Comencen a demanar a en Durnan que expliqui
 la història del portal:
