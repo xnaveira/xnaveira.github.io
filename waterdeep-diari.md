@@ -2,6 +2,44 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200630 ###
+
+Obtenen les 50000 po de recompensa en 5 comptes de 10000. El compte d'en Jorard
+es repartirà entre ells en 1 any.
+
+En Jelenn Umbrusk els demana 10000 po en préstec. A canvi els ofereix
+influència en la noblesa de Waterdeep. Els jugadors li demanen a veure si els
+pot posar en contacte amb un druïda d'alt nivell.
+
+Van de compres a la botiga de màgia, compren pocions i boles amb encanteri de
+bola de foc.
+
+En Volo els demana un préstec de 5000 po per finançar una expedició al
+continent del Sud, a canvi s'ofereix a introduïr-los la Obaya Uday, una
+sacerdotissa de Chult, al continent del Sud. En Volo planeja compartir el
+vaixell que l'ha portada fins a Waterdeep. El motiu del seu viatge des de Port
+Nyanzaru és una missió encarregada pel mag Wakanga O'tamu que vol aconseguir
+objectes i llibres màgics del sotamón per a estudiar-los.
+
+| Objecte   | Recompensa |
+|-----------|------------|
+| Common    | 10pp       |
+| Uncommon  | 50pp       |
+| Rare      | 500pp      |
+| Very Rare | 5000pp     |
+
+| Max nivell llibre | Recompensa |
+| ----------------- | ---------- |
+| 1                 | 5pp        |
+| 2,3               | 25pp       |
+| 4,5               | 100pp      |
+| 6,7               | 250pp      |
+| 8,9               | 500pp      |
+
+
+Un troll emergeix del pou que porta al sotamón i se'l carreguen, aquest cop sense ajuda d'en Durnan.
+
+
 ### 20200622 ###
 
 Decideixen anar a recuperar el tresor amb en Reaner. Arriben sense problema a
