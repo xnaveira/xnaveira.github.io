@@ -36,6 +36,60 @@ objectes i llibres màgics del sotamón per a estudiar-los.
 | 6,7               | 250pp      |
 | 8,9               | 500pp      |
 
+Van al Portal Badallador (convidats per en Floon/Renaer/Davil/Volo). Veuen un
+grup d'aventurers pipiolos vinguts de Neverwinter, en un moment donat comencen
+a alçar la veu i se'ls veu tajats. Comencen a demanar a en Durnan que expliqui
+la història del portal:
+
+*"Fa més de 1000 anys el gran mac Halaster Blackcloack va viatjar des de terres
+llunyanes fins a la base de la muntanya de Waterdeep. Alguns diuen que venia de
+les Cradlelands, on els humans vivien antigament quan van venir del que ara es
+coneix com les Planes de la pols púrpura, un desert nascut de un conflicte
+entre els Déus. Altres diuen que en Halaster no és tant vell i que segurament
+és un dels primers mags de Netheril o fins i tot hi ha qui afirma que venia de
+una nació càlida del sud ara ja desapareguda. En tot cas és un fet confirmat
+que va venir a Waterdeep amb 7 aprenents.*
+
+*Amb els 7 protegint-lo, en Halaster va usar el seu immens poder per invocar
+éssers vinguts dels altres plans d'existència per ajudar-lo a construïr una
+torre màgica, una torre que faria petites totes les altres torres màgiques en
+comparació. Però les estacions passaven i els 7 veien al mag menys i menys
+sovint, en Halaster va continuar usant criatures vingudes de plans llunyants i
+per excavar túnnels i construïr cambres a sota de la torre i
+mantenia en secret el que feia per als 7. El temps passà i en Halaster va
+trobar els grans Salons deixats pels nans, un complex de túnnels i cambres al
+voltant de una antiga mina de Mithril a sota de la muntanya de Waterdeep. Els
+arquitectes d'aquest complex nan, el clan Melairkyn, feia temps que havien
+desaparegut, morts o a contrades llunyanes i els temibles duergar i també drow
+l'havien ocupat. Els duergar, tossuts, van excavar fins que es van endur fins
+la última resta de Mithril i van deixar el complex, deixant als drow
+encarregar-se de lluitar amb en Halaster i les seves criatures
+interdimensionals. El Mag Boig, perquè així és com se'l coneixia ara, va acabar
+amb els elfs foscos, usant els seus cossos i ànimes pels seus experiments i
+després va seguir cavant més i més profund a la muntanya, seguint la seva
+obsessió.*
+
+*Usant el complex soterrani com a base en Halaster va visitar plans i països
+propers i llunyans, recollint extranyes i perilloses criatures per viure amb
+ell als passadissos del Sotamón com a presoners, servidors i guàrdies. Defensar
+el sotamón esdevingué la nova obsessió del Mag Boig. Alguns dels aprenents va
+deixar al mag però alguns es van quedar, dedicant més i més temps i recursos a
+les seves obsessions particulars i deixant que la follia s'apoderés lentament
+de les seves ments i ànimes.*
+
+*Durant els anys que en halaster visità altres plans la magnificent
+torre que havia construït va caure i es va convertir en una pila de runa. Amb
+el temps, la ciutat coneguda com a Waterdeep es va desenvolupar a la ombra de
+la Muntanya de Waterdeep i es va extendre fins al mar. Mentre la ciutat creixia
+al voltant de les runes, el Sotamón era conegut i temut pels seus habitants, i
+sovint hi enviaven els criminals com a càstig per les seves malifetes. I així
+van anar passant els anys fins que un intrèpid aventurer, de nom Durnan, es va
+endinsar al laberint a sota de la torre i per sorpresa de tothom, en va tornar
+viu, carregat de riqueses i històries increïbles. En Durnan va usar les
+riqueses per enderrocar el que quedava de la torre i construïr una taverna a
+sobre del pou que va usar per entrar al Sotamón i fins al dia d'avui n'és el
+seu propietari, servint als clients i convidant a valents i folls per igual a
+provar el seu coratge a les Coves del Mac Boig."*
 
 Un troll emergeix del pou que porta al sotamón i se'l carreguen, aquest cop sense ajuda d'en Durnan.
 
