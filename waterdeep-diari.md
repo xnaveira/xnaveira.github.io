@@ -2,6 +2,20 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200722 ###
+
+Decideixen baixar al sotamón.
+
+En Rastlin deixa una moneda d'or per passatge de pujada. Els altres també ho
+fan. 
+Baixen al sotamón, troben una sala secreta amb una estàtua de un sahuagin i una
+massa amorfa grisa ataca a l'Albert. El Max la mata.
+
+Arriben a una sala amb pilars, un dels pilars té un esquelet gegant de una boa.
+Són atacats per dos bugbears. Els maten i del cap de un d'ells surt un
+devorador intelectual.
+
+
 ### 20200630 ###
 
 Obtenen les 50000 po de recompensa en 5 comptes de 10000. El compte d'en Jorard
