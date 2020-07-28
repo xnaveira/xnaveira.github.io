@@ -2,6 +2,10 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200728 ###
+
+Continuen explorant el sotamón, creuen una sala plena de miralls i derroten dos
+
 ### 20200722 ###
 
 Decideixen baixar al sotamón.
