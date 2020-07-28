@@ -4,7 +4,8 @@
 
 ### 20200728 ###
 
-Continuen explorant el sotamón, creuen una sala plena de miralls i derroten dos
+Continuen explorant el sotamón, rebenten dos devoradors intelectuals, passen per 
+una sala de miralls i són atacats per dos ducplicadors i un cuc als quals derroten.
 
 ### 20200722 ###
 
