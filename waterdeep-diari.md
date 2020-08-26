@@ -2,6 +2,14 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200825 ###
+
+Tots els aventurers estan afectats per una apatia misteriosa que els paralitza
+els membres i les ments, restant totalment immòbils al passadis amb els miralls
+misteriosos on es trobaven. Tots? No! En Bharash i en Max semblen immunes a
+aquesta dolencia misteriosa i mentre esperen que els seus companys es recuperin
+investiguen els voltants i troben una màscara de bronze en un racó...
+
 ### 20200728 ###
 
 Continuen explorant el sotamón, rebenten dos devoradors intelectuals, passen per 
