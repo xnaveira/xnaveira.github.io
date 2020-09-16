@@ -19,6 +19,7 @@ sorpresa.
 #### Resum dels jugadors ####
 
 **Jordi**:
+
 Fem un descans llarg per a què en Raistlin pugui recuperar-se.
 
 En la darrera guardia l'Albert sent un soroll com d'un ésser arrossegant-se, unes passes pesants i metàl·liques.
