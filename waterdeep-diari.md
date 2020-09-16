@@ -2,6 +2,20 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200916 ###
+
+Un Shield Guardian entra a la sala on estaven descansant i comença a fer gests
+màgics. L'ataquen i el maten. El Jordi s'apunta la runa del casc del Shield
+Guardian. Continuen explorant passadissos, arriben a la sala de les columnes on
+havien estat abans. Continuen nord i troben una sala on hi ha un suport per
+armadures fet de fusta amb una espasa clavada. El Jordi agafa l'espasa i
+s'adona que esta maleïda i que no la pot deixar anar. La espasa desprèn un
+resplandor tènue de 10 peus de radi. La sala té una porta secreta que dóna al
+passadís dels dimonis. Tornen enrera i continuen explorant un passadís a l'est.
+Sorprenen a un vampir mirant per un forat a una porta secreta que dóna a la
+sala on van descendir des del portal badallador. Maten al vampir atacant-lo per
+sorpresa.
+
 ### 20200901 ###
 
 Derroten a un grup de goblins i els dos bugbears que els comandaven. Albert un
