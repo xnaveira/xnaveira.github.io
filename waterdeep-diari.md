@@ -2,6 +2,34 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200922 ###
+
+En **Raistlin** sent com es tanca una porta darrera seu. 
+Obrim la porta i ens trobem davant d'una petita habitació tancada. En Barash i en Dwarf troben una porta amagada tancada que duu a una sala amb tres estàtues de nobles de Waterdeep.
+A cada base hi ha una inscripció grabada a la pedra amb el nom del noble.
+ - Elyndraun (south statue)
+ - Ruathyndar (central statue)
+ - Onthalass (north statue)
+Els noms estan tatxats amb pintura blanca i posant noms poca-soltes.
+A la estàtua del mig hi ha un cadàver amb un bastó trencat, en **Olwë** guarda el bastó.
+
+Arriben 4 vampirs: "Com heu passat en Amoc, heu pagat la taxa?" L'**Amoc** resulta que era el vampir que vam matar.
+El capità identifica l'espasa  maleïda i volen fer un pacte per vendre'ns el pergamí que treu la maldició. 
+En **Raistlin** encanta el líder i aquest accedeix a mostrar-lis el pergamí. Intentant convèncer de que ens doni el pergamí arriba la **Harria**, que sembla ser qui mana. Els vampirs (uns 20) estan enfrontats amb els goblins i els hobgoblins, que són *Xanathar*. 
+Ens expliquen que el *Shield Guardian* pertanyia a un mag que va morir.
+
+**Harria** cansada crida a **Fleck** (golem de carn) "el cobrador de la taxa". Finalment en Barash paga amb dues peces precioses valorades amb 200 monedes d'or (**Barash**) pel pergamí.
+
+Ens encaminem fins a una sala on trobem l'esquelet de un *wivern* (criatura semblant a un drac amb agulló). En Jorard agafa l'agulló i se'l guarda.
+Hi ha un tron fet de ossos. **Olwë** explica que en **Halester** (mag que va crear el sota món) li agradava tancar criatures exòtiques en boles de vidre.
+
+Parlem amb un membre del clan de vampirs i ens adonem que va maquillat, li preguntem qui és realment i què fa amb els vampirs. Sentim unes passes i ensamaguem a una sala. Allà descobreixen que realment no són vampirs sino huumans disfressats per causar por als viatgers. La sala està plena d'estàtues (38) d'humans guerrers, al sostre de està ple de teles d'aranya. I hi ha un parell de cadàvers d'aranya gengant. L'**Olwë** guarda les glàndules de verí.
+
+**Olwë** llança el conjur de treure malediccó i es desampallega de l'espasa maleïda.
+
+Al final de la sala hi ha una doble porta que intentem obrir i s'activa una runa del mateix mag Halester que deixa inconscients al **Barash** i en **Dwarf**, i moren instantàniament l'**Olwë** i en **Raistlin**.
+La **Màxima** que s'havia mantingut a distància no es veu afectada i aconsegueix arribar a temps per estabilitzar i ajudar a en **Barash** i al **Dwarf**.
+
 ### 20200915 ###
 
 Un Shield Guardian entra a la sala on estaven descansant i comença a fer gests
