@@ -13,7 +13,7 @@ A cada base hi ha una inscripció grabada a la pedra amb el nom del noble.
 Els noms estan tatxats amb pintura blanca i posant noms poca-soltes.
 A la estàtua del mig hi ha un cadàver amb un bastó trencat, en **Olwë** guarda el bastó.
 
-Arriben 4 vampirs: "Com heu passat en Amoc, heu pagat la taxa?" L'**Amoc** resulta que era el vampir que vam matar.
+Arriben 4 vampirs: "Com heu passat en Amok, heu pagat la taxa?" L'**Amok** resulta que era el vampir que vam matar.
 El capità identifica l'espasa  maleïda i volen fer un pacte per vendre'ns el pergamí que treu la maldició. 
 En **Raistlin** encanta el líder i aquest accedeix a mostrar-lis el pergamí. Intentant convèncer de que ens doni el pergamí arriba la **Harria**, que sembla ser qui mana. Els vampirs (uns 20) estan enfrontats amb els goblins i els hobgoblins, que són *Xanathar*. 
 Ens expliquen que el *Shield Guardian* pertanyia a un mag que va morir.
