@@ -20,7 +20,7 @@ Ens expliquen que el *Shield Guardian* pertanyia a un mag que va morir.
 
 **Harria** cansada crida a **Fleck** (golem de carn) "el cobrador de la taxa". Finalment en Barash paga amb dues peces precioses valorades amb 200 monedes d'or (**Barash**) pel pergamí.
 
-Ens encaminem fins a una sala on trobem l'esquelet de un *wivern* (criatura semblant a un drac amb agulló). En Jorard agafa l'agulló i se'l guarda.
+Ens encaminem fins a una sala on trobem l'esquelet de un *wyvern* (criatura semblant a un drac amb agulló). En Jorard agafa l'agulló i se'l guarda.
 Hi ha un tron fet de ossos. **Olwë** explica que en **Halester** (mag que va crear el sota món) li agradava tancar criatures exòtiques en boles de vidre.
 
 Parlem amb un membre del clan de vampirs i ens adonem que va maquillat, li preguntem qui és realment i què fa amb els vampirs. Sentim unes passes i ensamaguem a una sala. Allà descobreixen que realment no són vampirs sino huumans disfressats per causar por als viatgers. La sala està plena d'estàtues (38) d'humans guerrers, al sostre de està ple de teles d'aranya. I hi ha un parell de cadàvers d'aranya gengant. L'**Olwë** guarda les glàndules de verí.
