@@ -2,6 +2,34 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20200929 ###
+
+En **Barash** i la **Màxima** buscan ajuda de la **Harria** per a poder tornar a la vida als seus companys de viatge **Olwë** i **Raistlin**. La **Harria** ofereix un pacte: *captureu l'**Uctal** i els seus companys en vida per entregar-los als **Xanathar** i jo us entregaré el pergamí que podrà ajudar els vostres amics!*
+Curen una mica en **Dwarf** i porten els cossos fins el cau dels "vampirs", on el nostres aventurers fan un descans llarg.
+
+Ja recuperats els tres supervivents de la runa cabrona s'apropen al cau de l'**Uktarl**, on el troben jugant a daus la resta de la seva banda. Aquest cop el sigil no els acompanya i aviat són descoberts però la Màxima els distreu amb un espectable meravellós de gladiadora que deixa embadalits els cinc bandits.
+Aquest moment de distracció l'aprofita en Barash per llançar un alè de foc sobre la banda de **Uktarl**. Cau el primer bandit i el capitost enrabiat al creure que volen fer mal a la diva galdiadora torna l'atac a en **Barash**. Enmig del desconcert inicial un dels bandits es retira i torna al seu estat natural: es tracta d'un *Doppelganger*. En **Dwarf** intercanvia cops amb un dels bandits mentre La Maxima aprofita el caos regnant per posar-se darrera l'Uctal i clavar-li l'espasa per l'esquena.
+El doppelganger ataca a la **Màxima** amb un parell de bofetades, mentre **Dwarf** amb un cop de la Gran destral tomba el bandit.
+En **Uktarl** intenta escapar empentant en **Barash** però no el fa retrocedir ni un pam, el draconià se'l mira fredament, agafa la morningstar i li dóna una forta garrotada! S'afegeix al combat un bandit fortament ferit pel foc (li direm el socarrimat) s'encara al nan causant-li una lleugera ferida.
+Tot passa com un llamp, en els següents segons el cambia-pells segueix abufetajant la **Màxima**, en **Dwarf** deixa inconscient el socarrimat i en **Barash** segueix intercanviant atacs amb l'**Uktarl**. Finalment la **Màxima** s'afegeix al combat deixant inconscient al cap dels bandits.
+Desesperat el doppelganger es converteix en una noia i intenta engatussar els aventurers, però no ho aconsegueix i entre els tres li fan un caga tió fins que resta inconscient!
+
+La victòria ha estat merescuda, registren les pertinences i el nan bàrbar agafa les armes de l'**Uktarl** (cimitarra i dagues). 
+Sobre la taula, on jugaven a cartes, en **Dwarf** troba un anell de plata amb inscripcions de runes nanes referents a la fertilitat i la potència sexual (25mo), i 220mc 91mp i 85 monedes d'or. Els lladres porten un total de 8mo en les seves bosses.
+
+Entreguen els bandits a la **Harria**, aquesta els recompensa amb un pergamí amb l'encanteri *Raise Dead*.
+
+En **Barash** imposa les seves mans sobre el cos inert d'**Olwë** mentre recita l'encanteri del pergamí, un aura envolta el cos del mag i el torna a la vida. Exhaust per aquesta experiència traumàtica el mag demana descansar i l'acompanyen a l'antic cau de l'**Uktarl** portant també el cos del finat **Raistlin**. La resta d'aventurers segueixen explorant els passadissos.
+
+Propera parada **Skullport**, per poder ressuscitar en **Raistlin**! 
+
+> **Botí a repartir** (Barash, Màxima, Dwarf)
+> - Monedes d'or    : 93 (31 per cap)
+> - Monedes de plata: 91 (31 Barash, 30 Màxima i Dwarf)
+> - Monedes de coure: 220 (70 Barash, 80 Màxima, 70 Dwarf)
+> - Altres objectes : Cimitarra i dagues del **Uktarl**, Anell de plata (Tot s'ho ha quedat en **Dwarf**) 
+
+
 ### 20200922 ###
 
 En **Raistlin** sent com es tanca una porta darrera seu. 
