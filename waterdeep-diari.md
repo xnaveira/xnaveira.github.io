@@ -4,7 +4,7 @@
 
 ### 20200929 ###
 
-En **Barash** i la **Màxima** buscan ajuda de la **Harria** per a poder tornar a la vida als seus companys de viatge **Olwë** i **Raistlin**. La **Harria** ofereix un pacte: *captureu l'**Uctal** i els seus companys en vida per entregar-los als **Xanathar** i jo us entregaré el pergamí que podrà ajudar els vostres amics!*
+En **Barash** i la **Màxima** buscan ajuda de la **Harria** per a poder tornar a la vida als seus companys de viatge **Olwë** i **Raistlin**. La **Harria** ofereix un pacte: *captureu l'**Uktarl** i els seus companys en vida per entregar-los als **Xanathar** i jo us entregaré el pergamí que podrà ajudar els vostres amics!*
 Curen una mica en **Dwarf** i porten els cossos fins el cau dels "vampirs", on el nostres aventurers fan un descans llarg.
 
 Ja recuperats els tres supervivents de la runa cabrona s'apropen al cau de l'**Uktarl**, on el troben jugant a daus la resta de la seva banda. Aquest cop el sigil no els acompanya i aviat són descoberts però la Màxima els distreu amb un espectable meravellós de gladiadora que deixa embadalits els cinc bandits.
