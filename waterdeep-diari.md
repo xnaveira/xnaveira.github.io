@@ -2,6 +2,23 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201007 ###
+
+Abans de seguir els aventures van a buscar l'**Olwë** per a que se'ls uneixi.
+
+Arriben a una sala amb cinc columnes fetes d'ossos humans prensats i enfosquits.
+Pel fons apareixen dos *grels*, en **Barash** i la **Màxima** no els veuen venir i els *grels* avançan ràpidament contra ells!
+En **Dwarf** els intercepta abans puguin atacar, i l'**Olwë** des d'una posició endarrerida allarga la mà d'on surten tres dards lluminosos.
+La **Màxima** reaacciona i llença un parell de fletjes, en **Dwarf** després d'assestar un cop de destral és atacat per un *grel* i atrapat pels tentacles. L'altre *grel* enverina en **Barash** deixant-lo paralitzat.
+L'**Olwë** veient que els companys en problemes llença 4 dards màgis i mata el *grel*. La **Màxima** s'avança i ataca a l'altre *grel*. En **Dwarf** llença una virot i després, deixant la llança a terra, agafa la destral i ataca amb gran força el *grel*. Un cop alliberat en **Barash** assesta un ventall de cops que acaben amb el seu enemic.
+
+Sembla que aquesta habitació era el cau dels *grels*.
+
+Segueixen explorant fins que arribem davant de dues portes, a l'altra costat tot està realment net.
+De cop tots menys l'**Olwë** topen amb un cub de gelatina transparent, la **Màxima** i en **Dwarf** queden atrapats dins d'ell.
+Finalment ataquem el cub de gelatina, en **Barash** amb una bola de foc, l'**Olwë** amb projectils màgics i **Dwarf** amb la javelina acaben fonent el cub de gelatina. El cos sense força de la **Màxima** queda al terra. Un cop estabilitzat, tots plegats es refugien en un racó per fer un descans llarg.
+
+
 ### 20200929 ###
 
 En **Barash** i la **Màxima** buscan ajuda de la **Harria** per a poder tornar a la vida als seus companys de viatge **Olwë** i **Raistlin**. La **Harria** ofereix un pacte: *captureu l'**Uktarl** i els seus companys en vida per entregar-los als **Xanathar** i jo us entregaré el pergamí que podrà ajudar els vostres amics!*
