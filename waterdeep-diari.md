@@ -6,17 +6,23 @@
 
 Abans de seguir els aventures van a buscar l'**Olwë** per a que se'ls uneixi.
 
-Arriben a una sala amb cinc columnes fetes d'ossos humans prensats i enfosquits.
-Pel fons apareixen dos *grels*, en **Barash** i la **Màxima** no els veuen venir i els *grels* avançan ràpidament contra ells!
+Arriben a una sala amb cinc columnes fetes d'ossos humans premsats i enfosquits.
+Pel fons apareixen dos *grells*, en **Barash** i la **Màxima** no els veuen
+venir i els *grells* avancen ràpidament contra ells!
 En **Dwarf** els intercepta abans puguin atacar, i l'**Olwë** des d'una posició endarrerida allarga la mà d'on surten tres dards lluminosos.
-La **Màxima** reaacciona i llença un parell de fletjes, en **Dwarf** després d'assestar un cop de destral és atacat per un *grel* i atrapat pels tentacles. L'altre *grel* enverina en **Barash** deixant-lo paralitzat.
-L'**Olwë** veient que els companys en problemes llença 4 dards màgis i mata el *grel*. La **Màxima** s'avança i ataca a l'altre *grel*. En **Dwarf** llença una virot i després, deixant la llança a terra, agafa la destral i ataca amb gran força el *grel*. Un cop alliberat en **Barash** assesta un ventall de cops que acaben amb el seu enemic.
+La **Màxima** reacciona i llença un parell de fletxes, en **Dwarf** després
+d'assestar un cop de destral és atacat per un *grell* i atrapat pels tentacles.
+L'altre *grell* enverina en **Barash** deixant-lo paralitzat.
+L'**Olwë** veient que els companys en problemes llença 4 dards màgics i mata el
+*gre;l*. La **Màxima** s'avança i ataca a l'altre *gre;l*. En **Dwarf** llença
+una virot i després, deixant la llança a terra, agafa la destral i ataca amb
+gran força el *grell*. Un cop alliberat en **Barash** assesta un ventall de cops que acaben amb el seu enemic.
 
-Sembla que aquesta habitació era el cau dels *grels*.
+Sembla que aquesta habitació era el cau dels *grells*.
 
-Segueixen explorant fins que arribem davant de dues portes, a l'altra costat tot està realment net.
+Segueixen explorant fins que arriben davant de dues portes, a l'altre costat tot està realment net.
 De cop tots menys l'**Olwë** topen amb un cub de gelatina transparent, la **Màxima** i en **Dwarf** queden atrapats dins d'ell.
-Finalment ataquem el cub de gelatina, en **Barash** amb una bola de foc, l'**Olwë** amb projectils màgics i **Dwarf** amb la javelina acaben fonent el cub de gelatina. El cos sense força de la **Màxima** queda al terra. Un cop estabilitzat, tots plegats es refugien en un racó per fer un descans llarg.
+Finalment ataquen el cub de gelatina, en **Barash** amb una bola de foc, l'**Olwë** amb projectils màgics i **Dwarf** amb la javelina acaben fonent el cub de gelatina. El cos sense força de la **Màxima** queda al terra. Un cop estabilitzat, tots plegats es refugien en un racó per fer un descans llarg.
 
 
 ### 20200929 ###
