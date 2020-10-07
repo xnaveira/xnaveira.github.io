@@ -2,7 +2,7 @@
 
 # Waterdeep: Diari dels aventurers
 
-### 20201007 ###
+### 20201006 ###
 
 Abans de seguir els aventures van a buscar l'**Olwë** per a que se'ls uneixi.
 
