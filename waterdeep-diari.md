@@ -2,6 +2,39 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201013 ###
+
+Després d'un llarg descans els aventurers segueixen explorant els el submón, en el gir d'un passadís del sostre cauen tres __Carrion Crawler__. __"Són peluts!"__ s'exclama en Dwarf mentre el primer ataca l'**Olwë** causant-li un parell de ferides. El mag es sobreposa a la sorpresa i contrataca amb una fletja de foc, tot seguit es teletransporta darrera els companys. Els cucs avancen implacablement i ataquen en **Dwarf** i la **Màxima**. Amb quatre estocades la **Màxima** i en **Barash** maten el primer __Carrion Crawler__. Sense cap mena de por en **Dwarf** clava un cop de destral i seguit per dos atacs de la **Màxima** el cuc queda mig mort, finalment és rematat pels misils màgics que surten dels dits de l'elf.
+El darrer cuc torna a atacar a la **Màxima** ferint-la lleugerament, el nan i el draconià li claven vàries estocades i per últim la halfling, amb dos estocades de baix a amunt, desventra l'últim engendre del submón.
+
+Al final d'un passadís troben un gran mirall. El mag fa un ritual per detectar màgia detectant un gran poder en ell. I després de que l'Albert toqui el mirall amb la punta de la polla, l'Olwë s'hi acosta (al mirall) i llença el conjur d'identificar. En aquest moment l'Olwë sent una veu dins la seva ment:
+
+__"No esteu preparats, sóc la **Jhesiyra Kestellharp** una antiga aprenent d'en Halaster, us ajudare a derrotar-lo. Encara no esteu preparats per aquesta porta. Us puc advertir dels perills del sotamon, desafortunadament la meva forma incorpòrea no dóna per molt més, en Halaster es va assegurar."__
+
+Davant d'aquestes paraules l'**Olwë** avisa als companys que és millor que deixin aquest mirall i els aventurers segueixen investigant. Més endavant trobem una escultura d'un home tocant l'arpa, al terra hi ha una poste trencat. A l'instrument hi ha una inscripció: __"mira'm amb visió de bronze i els secrets et revelaré"__, la **Màxima** recorda que porta una màscara de bronze que van trobar a la sala dels miralls. 
+Davant de la indecisió de la resta d'aventurers l'**Olwë** es posa la màscara i veu una mena de portal darrera la estàtua, l'atravessa i s'endinsa dins una habitacoió secreta.
+
+A l'habitació hi ha un quadre del mag **Halester** penjat cap per avall, i una imatge del mateig mag assegut en una cadira al mig de l'habitació. En **Halester** diu: 
+
+__"Dos veritats i una mentida et diré:__
+__- El tresor més preuat del sotamon és al nivell 23__
+__- Em trobareu al nivell 23__
+__- A skull port arribareu a través del nivell 3"__
+
+Tot seguit el que semblava una imatge es desfa (cadira inclosa) deixant uns detritus bastant fastigosos.
+
+Més tard arriben a una sala més gran, on hi ha un gran mapa del sotamon gravat a la pedra, just davant hi ha un forat que s'emfonsa tres metres. Dins el forat hi ha una mena de zombie, el seu nom **Halleth Garke**, un clergue del déu **Waukeen**. Els seus companys el van traïr, matar i tirar dins el forat. Per alguna raó que desconeix la promesa de venjança el va mantenir en una espècie de no-vida.
+
+En **Dwarf** descobreix que els tres relleus són en realitat botons, al preme'ls es sent una veu que diu que la porta de skullport està desactivada, que l'accés a la porta estelar és al nivell 16 i l'accés a la torre del mag és al nivell 23.
+
+- 3  hi ha una calevera flamejant
+- 16 nivell hi ha la imatge d'un cometa (porta estelar)
+- 23 relleu d'una torra amb una runa gravada a la torra (en Olwë s'escriu la runa)
+
+En **Halleth** no para de comentar que hi havia una porta secreta, mentre la **Màxima**, en **Dwarf** i l'**Olwë** juguen amb el mapa de relleus en **Barash** activa la vara de secrets i descobreix una porta amagada.
+Darrera d'aquesta hi ha un passadís que acaba en un atzucac, on **Olwë** descobreix una una porta secreta que duu fins a una sala amb una estàtua i unes escales. L'estàtua representa un rei dels nans sobre un pedestal, sortint del coll del nan hi ha una mena de cap. El rei porta una diadema i a les seves mans hi ha un martell de guerra de pedra. El martell es pot girar obrint un compartiment secret on troben una diadema màgica que es queda en Dwarf (un cop el dia li permet llançar l'encanteri scorching ray amb una tirada 1d20+5 per impactar)
+
+
 ### 20201006 ###
 
 Abans de seguir els aventures van a buscar l'**Olwë** per a que se'ls uneixi.
