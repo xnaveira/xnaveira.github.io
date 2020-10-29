@@ -2,6 +2,27 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201027 ###
+
+Els aventures exploren la sala a fons, en **Barash** va amunt i avall esperant trobar alguna cosa o secret que no arriba a revelar-se.
+Esgotats del combat fan un descans llarg per recuperar les forces. 
+Just abans de deixar la sala el mag elf decideix encendre la forja amb un conjur de foc amb l'esperança d'encendre un foc màgic que activi la forja, sorprès veu que alguna cosa s'encén: són uns sacs amb monedes:
+
+- 1.400 mc
+- 350 mp
+- 120 lingots de ferro (500g i 5 mp per lingot) tenen la marca d'un martell en un cantó i enclusa a l'altre.
+
+Es reparteixen les monedes de plata i deixen la resta, l'**Olwë** es queda un dels lingots i apunta les runes del martell gegant a les seves notes.
+
+Obren la porta del sud de la sala, trobant un passadís. A l'inici hi ha dues estàtues a banda i banda que representen humans amb casc i llança, al final del passadís hi ha una altra estàtua igual amb una lleugera brillantor. Sembla que la llança és d'or.
+
+Quan en **Dwarf**, incapaç de véncer la seva cobdícia, agafa la llança la part de dalt es transforma en un ser amorf que ataca el nan sense èxit. Un seguit de cops magistrals de la **Màxima** ajudada per en **Barash** acaben amb al criatura que havia creat la il·lusió de l'estàtua i la llança d'or per atreure incauts exploradors.
+
+Més cautelosos després d'aquest ensurt surten per la porta de l'est on troben uns passadissos que menan cap a una sala plena de pics i pales, com si s'hagués estat excavant, hi ha dues carretes i molta runa, penjats dels sostre hi ha una munió de __Stirge__.
+
+La **Màxima** llença un parell de fletjes, matant un dels __Stirge__ que els havia detectat. L'**Olwë** invoca tres raigs abrasadors matant dos ocellots més. En **Dwarf** aconsegueix encertar amb la jabalina fent caure un dels éssers voladors. Però n'hi ha molts i els __Stirge__ baixen en picat enganxant-se a en **Dwarf** i la **Màxima**. Cada cop són més i va arrapant-se als cossos dels aventurers, sols en **Haleth** fora de la sala i l'**Olwë** que s'ha mantingut fora del seu abast resten il·lesos.
+Els __Stirges__ enganxades van xuclant la sang dels exploradores debilitant-los. En **Barash** llença l'alè de foc matant quatre de cop. El mag mata dos més amb el raig abrasador. Poc a poc, i gràcies a la gran habilitat d'en **Barash** en la lluita amb dues armes, van matant un a un fins que no en queda cap
+
 ### 20201020 ###
 
 En **Haleth** intueix que els seus __"amics"__ están seguint les escales que baixen. Però entre en **Barash** i l'**Olwë** li fan entendre que han de fer un descans llarg i que abans s'ha d'assegurar que no hi ha presència d'enemics.
