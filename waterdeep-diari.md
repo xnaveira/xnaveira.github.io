@@ -4,7 +4,7 @@
 
 ### 20201110 ###
 
-Els explorador segueixen cap al nord fins que escolten el rumor d'una conversa llunyana. La **Màxima** avança poc a poc seguida de l'**Olwë** (que no es cansa mai d'anar a la vanguarda) però sense adonar-se'n activen una trampa, quatre dards enverinats surten de la paret, dos impacten en la **Màxima** i els altres dos en el malaurat mag que queda molt mal ferit. La halfling ignorant el dolor, gràcies a la seva gran resistència als verins, avança assedegada de sang buscant als bugbears o goblins propietaris de les veus. En un segon descuit activa una segona trampa rebent l'impacte de tres dards més.
+Els exploradors segueixen cap al nord fins que escolten el rumor d'una conversa llunyana. La **Màxima** avança poc a poc seguida de l'**Olwë** (que no es cansa mai d'anar a la vanguarda) però sense adonar-se'n activen una trampa, quatre dards enverinats surten de la paret, dos impacten en la **Màxima** i els altres dos en el malaurat mag que queda molt mal ferit. La halfling ignorant el dolor, gràcies a la seva gran resistència als verins, avança assedegada de sang buscant als bugbears o goblins propietaris de les veus. En un segon descuit activa una segona trampa rebent l'impacte de tres dards més.
 
 En **Dwarf**, al veure la seva companya buscant la glòria del combat tota sola, s'avança sense reflexionar activant novament la trampa. Una ràfega de dards cau sobre el nan (sembla que hi ha stock infinit). 
 
