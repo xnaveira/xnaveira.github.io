@@ -2,6 +2,44 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201110 ###
+
+Els explorador segueixen cap al nord fins que escolten el rumor d'una conversa llunyana. La **Màxima** avança poc a poc seguida de l'**Olwë** (que no es cansa mai d'anar a la vanguarda) però sense adonar-se'n activen una trampa, quatre dards enverinats surten de la paret, dos impacten en la **Màxima** i els altres dos en el malaurat mag que queda molt mal ferit. La halfling ignorant el dolor, gràcies a la seva gran resistència als verins, avança assedegada de sang buscant als bugbears o goblins propietaris de les veus. En un segon descuit activa una segona trampa rebent l'impacte de tres dards més.
+
+En **Dwarf**, al veure la seva companya buscant la glòria del combat tota sola, s'avança sense reflexionar activant novament la trampa. Una ràfega de dards cau sobre el nan (sembla que hi ha stock infinit). 
+
+En la llunyania les veus no deixen de preguntar en veu alta __"Quants ulls té en Xanathar?!"__, en **Dwarf** respon amb veu atronadora __"Té tots els que vol!"__... per resposta reben un contundent __"Morireu tots, gireu cua!"__
+
+Unes passes s'apropen cap a la posició de la **Màxima**, lluny encara de la seva visió. De cop i volta, de la foscor surten dues javelines dirigides a la gladiadora. Sota la pluja de projectils en **Dwarf** arriba junt a la **Màxima**, gràcies a la vista del nan des d'aquesta posició ja veu els bugbears, salta per sobre d'on suposa que hi ha la darrera trampa i llança una javelina errant el seu objectiu. La gladiadora salta al costat del nan, i dispara la seva ballesta perforant l'armadura d'un dels bugbears.
+
+L'**Olwë** i en **Barash** es van apropant a la zona de combat, el draconià davant i l'elf malferit més endarrerit. Amb els seus poderosos músculs en **Barash** llança dues javelines matant un dels bugbear.
+
+La **Màxima** activa per tercer cop una altra trampa (es veu que encara en quedava una) i és impactada per tres dards. A pesar de la seva fortalesa queda força malferida, tanmateix això no li impedeix atacar al darrer bugbear ferint-lo greument. Aquest veient que no pot escapar li torna l'atac, sense saber que serà l'últim que farà en la seva miserable vida ja que amb un poderós salt en **Dwarf** li clava un cop de destral que gairebé li separa el cap del cos.
+
+Després d'aquest petit combat els aventurers arriben a un passadís mig enderrocat, el van seguint cap al sud fins que veuen un grup d'homes. És un grup de set humans ben equipats, també hi ha una figura entre ells semblant a un humà transformat en una aranya. 
+Aquest grup estrany els detecta i els convida a apropar-shi. L'aràcnid es diu **Shunn Shurreth** i és un servidor de __Xanathar__.
+Els interpela què fan per allà, i la conversa s'acaba dirigint cap als __Zhentarim__, en aquest moment se'ls demana que li recuperin la clau que el drow Zhentarim els hi va robar. La recompensa oferta és de 25 mo, després de regatejar amb en **Barash** al final ho puja 35 mo.
+
+Davant de la vacil·lació dels aventurers en **Shunn** els espeta __"Si no voleu acceptar la missió entorneu-vos-en i no em feu perdre el temps."__
+
+En **Barash** retrocedeix i dissimuladament sana les ferides del mag, després declara solemnement __"Saps que passa?... que cada cop que sento el nom de Xanathar se'm regira l'estòmac i em venen ganes de matar"__ Amb un moviment ràpid conjura una bola de foc dirigida al bell mig dels __xanathar__ seguit d'una escopinada de foc, amb aquests dos atacs ignis el draconià mata a quatre dels homes que acompanyen a **Shunn** i malfereix la resta. 
+A través del fum apareix la **Màxima** matant un enemic amb una sageta i un segon d'un cop d'espasa. En **Dwarf** aprofita el caos del moment i li carda dos cops de destral a l'home aranya.
+
+Els enemic sobrepassats pel fort envit comencen a fugir demanant ajuda i l'**Olwë** els intenta acertar amb uns raigs abrasadors sense massa fortuna.
+
+Comença una cursa per no deixar escapar els __Xanathar__: la **Màxima**, més ràpida que ningú, atrapa el líder impedint-li la retrirada. Mentre en **Barash** acaba amb el darrer home i amb el **Shunn Shurreth**.
+
+Els aventurers escolten les botes pesades del que sembla un grup de bugbears que s'apropa atrets pels crits i el soroll de lluita, l'**Olwë** amb un encanteri aixeca un mantell màgic que el disfressa d'home aranya i a corre-cuita tapa el cos de **Shunn Shurreth** amb la capa.
+
+Amb el gust acre de l'adrenalina encara a la boca els nostres aventurers esperen expectants el que els hi depararà el futur dins del submón.
+
+- Quants bugbears s'acosten?
+- Podrà l'**Olwë** enganyar l'enemic?
+- Els bugbears morts tenien fills i dona esperant-los a les seves llars?
+- Tindrà prou javelines en **Barash**?
+- A la **Màxima** li ha anat bé l'acupuntura?
+- i en **Dwarf** seguirà tan absent?
+
 ### 20201103 ###
 
 Després de derrotar les __stirges__ els exploradors apilen els nombrosos cadàvers en un racó i fan un descans llarg a fi de restablir-se de les ferides.
