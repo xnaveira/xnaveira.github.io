@@ -2,6 +2,54 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201117 ###
+
+Arriben vuit bugbears i es sorprenen al veure la carnisseria. L'**Olwë**, disfressat de **Shunn**, els increpa indicant que persegueixin els atacants que han marxat cap al nord. Però no cola, no cola! (era una bona idea fins que els daus han decidit el contrari) Els bugbears es miren entre ells. Un silenci incòmode s'estén per la sala trencat per alguns murmuris __"voleu dir que és en Shunn?"__, __"qui és aquest paio?"__ o __"voleu dir que en Shunn no tenia tres ulls més?"__, finalment el bugbear més gros de tots fa un crit __"ataqueu, no és en Shunn!!!"__
+
+En **Dwarf** s'interposa entre els enemics i el mag protegint-lo dels possibles atacs, mentre la **Màxima** i en **Barash** carreguen contra la primera fila de bugbears. La **Màxima** malfereix el seu oponent i en **Barash** mata el primer i deixa un segon molt malferit!
+Els bugbears es distribueixen per la sala envoltant els aventurers i poder-los atacar des de diferents direccions. L'**Olwë** conjura un esfera d'un color verdós i llença un atac d'àcid contra dos bugbears que estan assentjant la **Màxima**.
+
+En nan i el draconià maten els seus oponents amb cops de gran destresa. La halfling es veu rodejada i li plouen atacs per tots costats que va fintant amb gran habilitat fins que el darrer impacta al seu petit cos ferint-la lleument.
+L'**Olwë** ignorant el bugbear que l'està atacant, alça els seus braços i a l'instant tres raigs abrasadors surten dels dits de la mà dreta seguits de tres raigs menors creats amb l'esquerra que acaben amb la vida de dos dels bugbears que acorralaven la gladiadora. En **Dwarf**, amd dos certers cops de destral, deixa molt mal ferit el seu oponent però sense aconseguir abatre'l. El paladí, situat al flanc est de la batalla, invoca el favor diví i mata un dels seus rivals amb un sol cop, posteriorment fereix l'altre fent-lo retrocedir. 
+
+Però els bugbears també han vingut a jugar, fereixen l'**Olwë** i deixen la **Màxima** a un pas de la inconsciència.
+
+En **Barash** veient a la seva amiga en perill mata amb rapidesa el seu oponent i córrer a ajudar-la matant-ne un altre. L'elf concentra els seus esforços en ajudar els seus companys i mata el bugbear enfrontat a en **Dwarf**. En retorn , el nan, avança i mata el darrer dels enemics que pretenia acabar amb el mag.
+
+| Aventurer | # Bugbears finats |
+|-----------|-------------------|
+| Barash    |          4        |
+| Olwë      |          3        |
+| Dwarf     |          1        |
+| Màxima    |          0        |
+
+__(a tenir en compte al assignar punts)__
+
+L'**Olwë** registra l'engendre aranya i troba una clau de plata en un collaret. La raça original era un drow, i no era un home sinó una dona. La conversió en una aranya era deguda a una maledicció. Un tatuatge dels Xanathar ratifica la pertinença a aquesta facció criminal.
+
+A la sala del costat hi ha un bagul que obren amb al clau trobada pel mag, on trobem 100 mo (__ja repartides, 25 per cap__). Registrant la resta de cossos troben 14 mo (__ja repartides 4 per cap i 2 per Dwarf__)
+
+Fan un descans llarg per recuperar les ferides. Mentre tots dormen el mag identifica quins poders conté la diadema que li van robar a en **Yeck**
+
+>Cercle de la perfecció humana
+>
+>Article meravellós, poc comú (50 pp)
+>
+>Només els humanoides poden sintonitzar-s'hi. S'ha de crear una afinitat amb l'objecte per a que faci efecte. El cercle transforma el seu portador  en un atractiu humà d’alçada i >pes mitjà. El cercle tria les característiques físiques de la forma, com ara l’edat, el gènere, el color de la pell, el color dels cabells i la veu. Llevat de la mida, les >estadístiques del portador i els trets racials no canvien, ni els objectes que el porten o porten. L'eliminació del cercle finalitza l'efecte.
+
+Els aventurers, ja recuperats, segueixen endavant fins trobar una porta. Dins hi ha una bola de vidre suspesa amb una calavera dins.
+L'**Olwë** i la **Màxima** s'endinsen, la halfling percep una barrera invisible i s'atura, en canvi el maldestre del mag de cop i volta es troba suspès dins d'un cub d'àcid. La gladiadora amb rapidesa aconsegueix treure l'elf i s'enretiren tots dos cap al passadís.
+
+En **Dwarf** llença una javelina i el cub es parteix en dos de més petits, després dispara una fletxa i torna a dividir-se. El cub ara pot passar per la porta i els ataca. L'**Olwë** fuig i va a buscar una altra entrada. La resta d'aventurers, esperonats per en **Barash**, van lluitant contra els cubs que cada cop que són colpejats es divideixen o queden destruïts. Poc a poc acaben amb tots ells.
+
+Ja reunits dins la sala, troben la calavera dins de la esfera vidre, en **Barash** li dóna a l'**Olwë**.
+
+- **Olwë**: una de freda i una de calenta, espavila!
+- **Dwarf**: protector i executor, fa dies que no la treu a passejar.
+- **Barash**: sobradíssim, si deixéssim algú viu s'estaria fent un nom al submón.
+- **Màxima**: ni quantitat ni qualitat, què t'està passant?! 
+
+
 ### 20201110 ###
 
 Els exploradors segueixen cap al nord fins que escolten el rumor d'una conversa llunyana. La **Màxima** avança poc a poc seguida de l'**Olwë** (que no es cansa mai d'anar a la vanguarda) però sense adonar-se'n activen una trampa, quatre dards enverinats surten de la paret, dos impacten en la **Màxima** i els altres dos en el malaurat mag que queda molt mal ferit. La halfling ignorant el dolor, gràcies a la seva gran resistència als verins, avança assedegada de sang buscant als bugbears o goblins propietaris de les veus. En un segon descuit activa una segona trampa rebent l'impacte de tres dards més.
