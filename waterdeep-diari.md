@@ -2,6 +2,40 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201124 ###
+
+Els aventurers es troben a la sala després de destruïr els cubs.
+
+En **Haleth** intueix la presència d'un dels seus ex-companys dels __Bons Homes de Daggleford__ i ara acèrrim enemic. Pas a pas els guia cap al sud a través de passadissos. 
+
+Una veu que els arriba des d'una sala els fa aturar. La **Màxima**, posseïdora del mític sigil dels mitjans, s'acosta a la cantonada sense ser vista. Des del seu amagatall veu una àmplia sala amb unes ostentoses butaques, parets amb estants curulls de llibres, un escriptori i una taula allargada. Al bell mig de la sala hi ha una dona vestida com una sacerdotesa que porta dos símbols sagrats penjant del coll.
+
+Amb la boca serrada en **Haleth** murmura que la dona que hi ha dins és una de les males bèsties que el van matar. Per la descripció n'**Olwë** dedueix que els símbols sagrats són de __Waukeen__ (déu del comerç) i possiblement de __Shar__ (déu de la fosccor i la pèrdua), en **Haleth** els explica que el símbol de __Waukeen__ era seu. En **Barash** el convenç per a que es quedi amagat mentre la **Màxima** i l'**Olwë** entren dins la sala intentant esbrinar què els pot oferir la sacerdotessa. 
+
+Al entrar veuen que la taula està parada per a dotze comensals i està presidida per un gran quadre d'en **Halester** penjat a la paret. El nom de la sacerdotessa és **Midna Tauberth**. Els tracta amb supèrbia i els demana que marxin, que allà molesten. L'**Olwë** intenta portar la conversa cap la disputa entre __Xanathar__ i __Zhentarim__ sense gaire fortuna. De la foscor els hi arriba la veu rovellada d'un nan (__Dwarf__) exclamant __"Mala puta!!"__, això encén en **Haleth** que es dirigeix com un llamp cap a la sala, i hauria aconseguit fer-ho si no fos que un atent **Barash** l'atrapa entre els seus forts braços aturant-lo.
+
+Dins, l'**Olwë** es comença a escalfar i comença a fer insinuacions sobre els antics companys de la **Midna**, com el nan que van trobar al mercat dels goblins, però res perturba a la sacerdotessa. Finalment el mag li espeta la veritat sobre el company que van assessinar i la **Màxima** li exigeix que torni el símbol sagrat de __Waukeen__. 
+
+Al crit de __"Ets una mala puta"__ en **Haleth** s'allibera de la presa d'en **Barash** i entra a la sala disposat a atacar a la sacerdotessa. Aquesta refent-se de la soprpresa inicial, conjura un martell, llença un projectil guiat ferint el seu antic company i diu __"servents neutralitzeu el perill"__.
+
+Els següents esdeveniments passen molt ràpid i en menys d'un minut tot queda decidit. En **Dwarf** avança i fereix lleument la sacerdotessa amb la destral. En **Haleth**, amb fúria incontenible, s'abraona aterroritzant la **Midna**, que és acorralada pel draconià fent impossible qualsevol pla de fugida. 
+En aquest moment de indefensa soletat, rodejada per mirades plenes d'odi, quan sap que ja tot és perdut, la **Midna** rep una bufetada, del que un dia havia considerat el seu amic, que li rebenta els timpans i li provoca la mort a l'acte.
+
+En **Haleth** com si estigués en èxtasis, com si ja hagués començat a transitar cap a la mort definitiva, s'ajup, agafa el su medalló i mentre murmura __"la venjança està complerta"__ es converteix en pols.
+
+Entre les seves cendres l'elf troba un mapa molt fràgil del tercer nivell del submón. Donat que està molt malmès, decideix transcriure'l. L'estona que el mag empra en les seves tasques d'escribà en Barash el dedica a fer-se un tip amb la teca que hi ha a la taula màgica, servida per uns ents invisibles. Els dos bàrbars consideren que res bo pot sortir d'una taula màgica i es neguen a fer ni un mos. En **Dwarf** es consola en un racó de la sala, els gravats de la pedra li posen.
+
+Finalitzades les diverses tasques segueixen explorant els passadissos fins que arriben a la sala dels cubs. Darrera d'una de les portes de l'oest apareix una sala amb un altar cobert d'or fos. En una inscripció hi resa __"un regal carnal entregat lliurament pot alimentar la nostra fam enterna"__.
+
+En **Dwarf** excitat per la visió de l'or atança la punta del membre fins tocar el metall preuat... però, ai las! no és or, és una gelatina ocre que crema el membre viril del nan amb el seu àcid corrosiu. Els aventurers comencen a atacar a l'estranya criatura. En **Dwarf** convoca el poder de la diadema i en **Barash** talla el moc ocre per la meitat.
+Una de les baboses d'àcid és reduïda per tres raigs abrassadors invocats pel mag, l'altra és eliminada per la morningstar d'en **Barash**.
+
+- Qui serà el darrer membre dels __Bons Homes de Daggleford__?
+- A partir d'ara en **Dwarf** haurà de pixar ajupit?
+- Hi haurà teca infinita a la taula màgica?
+
+Les respostes a la propera sessió, o no.
+
 ### 20201117 ###
 
 Arriben vuit bugbears i es sorprenen al veure la carnisseria. L'**Olwë**, disfressat de **Shunn**, els increpa indicant que persegueixin els atacants que han marxat cap al nord. Però no cola, no cola! (era una bona idea fins que els daus han decidit el contrari) Els bugbears es miren entre ells. Un silenci incòmode s'estén per la sala trencat per alguns murmuris __"voleu dir que és en Shunn?"__, __"qui és aquest paio?"__ o __"voleu dir que en Shunn no tenia tres ulls més?"__, finalment el bugbear més gros de tots fa un crit __"ataqueu, no és en Shunn!!!"__
