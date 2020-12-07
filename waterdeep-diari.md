@@ -2,6 +2,25 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201201 ###
+
+Els protagonistes d'aquesta història es troben a la sala després d'haver vençut la gelatina ocre. Amb calma miren les parets i veuen que estan plenes de relleus de dimonis amb la boca oberta i ulls sense parpelles. Encuriosits per la frase gravada a l'altar, __“un regal carnal entregat lliurament pot alimentar la nostra fam enterna”__, dediquen una bona estona a mirar de treure'n l'entrellat. Van a buscar talls de carn a sala on va morir la **Midna** (sembla que la taula sí que donava teca infinita) i els posen sobre l'altar sense aconseguir res, __"el text parla de mutilació"__ remuga l'**Olwë** quan finalment abandonen l'estança.
+
+Tornen a la sala anterior i obren la darrera porta, una tromba d'aigua surt tirant pel terra en **Dwarf** i l'elf. Arrossegat per l'aigua apareix el cos putrefacta d'un mag amb capa verda i una túnica lila. A l'habitació troben tot d'utensilis i mobles mig podrits, gairebé tot és inservible tret d'una vareta de vidre que deuria ser usada com a focus arcà (25 mo)
+
+Anant cap al sud arriben a una sala plena de material de construcció, eines i taulons, tot molt abandonat. Al fons del passadís trobem una arcada amb una pedra angular amb el relleu d'un arbre. Es tracta d'un portal, novament l'**Olwë** sent una veu familiar que li diu __"No esteu preparats pels perills que us esperen aquí"__
+
+Els exploradors segueixen encaminant-se cap a l'est i després direcció sud fins que arriben a una sala on hi ha un __Beholder Zombie__ suspès uns sis metres sobre el terra, els símbols pintats al voltant de l'ull del monstre revelen que serveix al clan dels __Xanathar__. 
+
+Una mirada es creua entre els aventurers, sense dir-se res tots saben què han de fer, la única opció possible, el que els hi demana el cos, una venjança pòstuma en honor d'en **Klaus**: matar el __Beholder__. 
+
+En **Dwarf** pren la iniciativa llançant tres raig cremadors. La **Màxima** es decideix per disparar la seva ballesta mentre que l'**Olwë** davant la mirada astorada dels seus companys, i l'enveja sana del draconià, conjura una bola de foc que impacta de forma directa en el __Beholder__.
+Els guerrers comencen a llançar javelines amb més o menys encert, el mag enllaça un raig elèctric contra el monstre deixant-lo molt malferit. Aquest clava la seva vista en el mag ignorant la resta d'enemics al considerar-los insignificants, l'únic rival a batre és el que porta túnica, i amb tota la ràbia que li donen les múltiples ferides rebudes, ataca el mag aconseguint abatre'l d'un sol raig necròtic.
+
+La resta no s'ho pensa dos cops, no és moment de plorar els caiguts, i segueix atacant al ser del submón que es mantè flotant a una distància que el protegeix dels atacs cos a cos. La lluita continua amb una sèrie d'atacs poc afortunats però mostrant una gran valor davant els encanteris de terror que irradia el __BeHolder__. A la fi en **Barash**, amb una javelina precisa, impacta la criatura atravessant-la i posant fi a la seva vida. El paladí també aconsegueix recuperar el mag que torna a la consciència però molt debilitat. 
+
+La màgia que mantenia el Beholder flotant mor amb ell i cau a terra provocant un terrible terrabastall, de lluny senten una veu femenina que crida __"Quelcom li ha passat al Nerozar. Guàrdia!! a mi!!"__
+
 ### 20201124 ###
 
 Els aventurers es troben a la sala després de destruïr els cubs.
