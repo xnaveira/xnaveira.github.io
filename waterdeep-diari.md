@@ -2,6 +2,14 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201208 ###
+
+Després d'assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s'enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
+
+Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobreixen alguns jaços, un cercle pintat amb sang al terra de la sala i...  una porta secreta! Aquesta porta els porta a una sala amb tres entrants, un per on an vingut, un al nord i un altre al sud. El del nord té un relleu del que sembla un arc, a la pedra de volta de l'arc hi ha tallada la imatge de un monstre del rovell. A en Olwë se li acudeix tocar l'arc amb un lingot de ferro i l'activa.
+A l'entrant del sud descobreixen una altra porta secreta. Aquesta porta a una sala plena de lleixes i una gran pedra circular d'esmolar al centre. Les lleixes semblen estar ocupades per armes i armadura que s'han rovellat i fet velles amb el temps. Rondant la sala i hi ha 3 bugbears buscant entre les despulles de material mirant si quelcom es pot salvar. Lògicament els protagonistes no dubten ni un segon en assassinar-los també.
+
+
 ### 20201201 ###
 
 Els protagonistes d'aquesta història es troben a la sala després d'haver vençut la gelatina ocre. Amb calma miren les parets i veuen que estan plenes de relleus de dimonis amb la boca oberta i ulls sense parpelles. Encuriosits per la frase gravada a l'altar, __“un regal carnal entregat lliurament pot alimentar la nostra fam enterna”__, dediquen una bona estona a mirar de treure'n l'entrellat. Van a buscar talls de carn a sala on va morir la **Midna** (sembla que la taula sí que donava teca infinita) i els posen sobre l'altar sense aconseguir res, __"el text parla de mutilació"__ remuga l'**Olwë** quan finalment abandonen l'estança.
