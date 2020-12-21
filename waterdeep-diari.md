@@ -2,15 +2,6 @@
 
 # Waterdeep: Diari dels aventurers
 
-<<<<<<< HEAD
-### 20201208 ###
-
-Després d'assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s'enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
-
-Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobreixen alguns jaços, un cercle pintat amb sang al terra de la sala i...  una porta secreta! Aquesta porta els porta a una sala amb tres entrants, un per on an vingut, un al nord i un altre al sud. El del nord té un relleu del que sembla un arc, a la pedra de volta de l'arc hi ha tallada la imatge de un monstre del rovell. A en Olwë se li acudeix tocar l'arc amb un lingot de ferro i l'activa.
-A l'entrant del sud descobreixen una altra porta secreta. Aquesta porta a una sala plena de lleixes i una gran pedra circular d'esmolar al centre. Les lleixes semblen estar ocupades per armes i armadura que s'han rovellat i fet velles amb el temps. Rondant la sala i hi ha 3 bugbears buscant entre les despulles de material mirant si quelcom es pot salvar. Lògicament els protagonistes no dubten ni un segon en assassinar-los també.
-
-=======
 ### 20201215 ###
 
 Els exploradors caminen cap al sud deixant enrera un reguitzell de cadàvers. En poca estona arriben a una sala allargada amb sostres fets d'arcades que s'alcen uns deu metres per sobre del terra que trepitgen. A dalt de tot, incrustades a la roca hi hi ha joies vemelloses, que brillen emetent una llum tènua que il·lumina el passadís dèbilment.
