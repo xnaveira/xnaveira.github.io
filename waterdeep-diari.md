@@ -2,13 +2,29 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20201215 ###
+
+Els exploradors caminen cap al sud deixant enrera un reguitzell de cadàvers. En poca estona arriben a una sala allargada amb sostres fets d'arcades que s'alcen uns deu metres per sobre del terra que trepitgen. A dalt de tot, incrustades a la roca hi hi ha joies vemelloses, que brillen emetent una llum tènua que il·lumina el passadís dèbilment.
+Al final, en direcció oest, hi ha una porta doble flanquejada per dues balistes que semblen animades màgicament malgrat que per ara estan reposant.
+
+Els aventurers no es volen arriscar a un combat i decideixen seguir cap al sud on despés d'obrir una porta troben un passadís llarg que avança cap a ponent, d'un metre i mig d'amplada, al final el passadís tomba cap al sud per girar tot seguit cap a l'est.
+
+Mentre el mag i el paladí avancen explorant, alguna cosa succeeix entre en Dwarf i la Màxima, això provoca una cruenta discussió entre ells amb la halfling acusant al nan de excedir-se amb ella i ell negant-t'ho tot però amb el membre tens com un garrot.
+
+Al final arriben a una altra sala, molt similar a l'anterior. Es fixen que les parets són plenes de relleus de nans empentant carretons de mines, però aquest treball ha estat profanat, segurament per goblins i bugbears de la pitjor estofa, pintant tentacles que surten dels caps. Al sostre hi ha gemmes que brillen. Al caminar els tentacles es mouen una mica de forma gairebé imperceptible.
+
+Abans de la doble portalada hi ha un porta cap al sud que mena cap a una sala amb pilars de pedra que s'alcen molt a munt. Girant al voltant dels pilars hi ha un quadrone. Els pilars no són normals, al examinar-los veuen que estan fets de marbre amb forma de una elfa femenina aguantant el sostre.
+
+A la dreta hi ha com un conjunt de petites sales, on cadascuna hi ha una figura de pedra, l'elf dedueix que tot són víctimes del mag Halester.
+
+Deixant enrere les sales arriben a una sala àmplia on hi ha dos Owlbears que els ataquen, sort té el grup que en Barash i la Màxima els maten ràpidament 
+
 ### 20201208 ###
 
-Després d'assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s'enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
+Després d’assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s’enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
 
-Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobreixen alguns jaços, un cercle pintat amb sang al terra de la sala i...  una porta secreta! Aquesta porta els porta a una sala amb tres entrants, un per on an vingut, un al nord i un altre al sud. El del nord té un relleu del que sembla un arc, a la pedra de volta de l'arc hi ha tallada la imatge de un monstre del rovell. A en Olwë se li acudeix tocar l'arc amb un lingot de ferro i l'activa.
-A l'entrant del sud descobreixen una altra porta secreta. Aquesta porta a una sala plena de lleixes i una gran pedra circular d'esmolar al centre. Les lleixes semblen estar ocupades per armes i armadura que s'han rovellat i fet velles amb el temps. Rondant la sala i hi ha 3 bugbears buscant entre les despulles de material mirant si quelcom es pot salvar. Lògicament els protagonistes no dubten ni un segon en assassinar-los també.
-
+Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobreixen alguns jaços, un cercle pintat amb sang al terra de la sala i… una porta secreta! Aquesta porta els porta a una sala amb tres entrants, un per on an vingut, un al nord i un altre al sud. El del nord té un relleu del que sembla un arc, a la pedra de volta de l’arc hi ha tallada la imatge de un monstre del rovell. A en Olwë se li acudeix tocar l’arc amb un lingot de ferro i l’activa. A l’entrant del sud descobreixen una altra porta secreta. Aquesta porta a una sala plena de lleixes i una gran pedra circular d’esmolar al centre. Les lleixes semblen estar ocupades per armes i armadura que s’han rovellat i fet velles amb el temps. Rondant la sala i hi ha 3 bugbears buscant entre les despulles de material mirant si quelcom es pot salvar. Lògicament els protagonistes no dubten ni un segon en assassinar-los també.
+>>>>>>> Sessió 20201215
 
 ### 20201201 ###
 
