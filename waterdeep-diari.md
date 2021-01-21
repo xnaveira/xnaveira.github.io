@@ -2,6 +2,30 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20210119 ###
+
+Després de derrotar els owlsbears els aventurers tenen la oportunitat d'explorar la sala on es troben, mirant al seu voltant veuen una habitació plena de runes amb les parets decorades de pintures d'elfs montats sobre wapitis (__cervus canadienses__) Pel terra de la sala l'**Olwë** troba un pot de ceràmica, dels pocs que queden sencers, decorat amb un druida descalç encapçalant la marxa d'uns arbustos caminadors (__què collons fumen aquests paios!!__)
+
+La **Màxima** troba una porta secreta a la pared nord, ajudada per en **Barash** la halfling obra la porta i troba un sarcòfeg fet d'alabastre. La **Màxima** s'adona que és un bloc sencer no pas un sarcòfeg. En **Dwarf**, perspicaç com sempre, dedueix que és una sala del tresor falsa. A la següent sala troben urnes fetes malbé i tres taules de pedra.
+
+Segueixen cap a l'est per un passadís amb una mica de pendent a escassos metres gira cap al nord. En **Dwarf** que encapçala la comitiva activa una trampa i una bola enorme que ocupa tot el passadís comença a baixar a gran velocitat. En **Barash** reacciona molt ràpid i comença a fugir. La **Màxima** i en **Dwarf** se la troben a sobre i tot just poden esquivar-la arraconant-se contra la paret in extremis. Els dos baixets del grup intenten sense èxit frenar el pas inexorable de la bola. L'**Olwë** que estava més endarrerit aconsegueix fugir cap a la sala. En el seu pas devastador la bola aixafa en Barash deixant-lo fet un nyap.
+
+Fan un descans curt per a que en **Barash** es recuperi, durant aquesta estona el mag investiga el pot de ceràmica trobat i descobreix que és màgic (__Common__): **Pot of Awakening**, permet plantar un arbust durant trenta dies i després cobra vida animada i es converteix en un servent.
+
+Segueixen endavant i trobem unes taules amb manilles, semblen taules de sacrifici on recollir la sang de les víctimes. Travessen passadissos que fan ziga-zaga que menen a una petita habitació amb una llosa en forma d'escriptori i un cadira. La paret est i oest està plena de nínxols amb urnes funeràries, la paret del fons està plena de llibres.
+
+Entre els llibres l'**Olwë** troba un llibre de conjurs:
+ - __comprehend languages__
+ - __crown of madness__
+ - __darkvision__
+ - __gaseous form__
+ - __ray of sickness__
+ - __remove curse__
+ - __Tenser’s floating disk__
+ - __unseen servant__
+
+Els exploradors desfan el camí fins arribar a la sala on hi havia el __quaudrone__. Pugen a la sala de les gemmes vermelles i obren la portalada est endinsant-se en una sala molt gran amb quatre esquelets reconstruïts de dracs. Cap a l'esquerra trobem una mena de capella amb un banc de pedra on reposa un esquelet de tielfling amb vestimentes podrides. Hi ha una vara fràgil i una motxil·la, llàstima que no tinguin cap encanteri de parlar amb els morts.
+
 ### 20201215 ###
 
 Els exploradors caminen cap al sud deixant enrera un reguitzell de cadàvers. En poca estona arriben a una sala allargada amb sostres fets d'arcades que s'alcen uns deu metres per sobre del terra que trepitgen. A dalt de tot, incrustades a la roca hi hi ha joies vemelloses, que brillen emetent una llum tènua que il·lumina el passadís dèbilment.
@@ -24,7 +48,6 @@ Deixant enrere les sales arriben a una sala àmplia on hi ha dos Owlbears que el
 Després d’assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s’enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
 
 Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobreixen alguns jaços, un cercle pintat amb sang al terra de la sala i… una porta secreta! Aquesta porta els porta a una sala amb tres entrants, un per on an vingut, un al nord i un altre al sud. El del nord té un relleu del que sembla un arc, a la pedra de volta de l’arc hi ha tallada la imatge de un monstre del rovell. A en Olwë se li acudeix tocar l’arc amb un lingot de ferro i l’activa. A l’entrant del sud descobreixen una altra porta secreta. Aquesta porta a una sala plena de lleixes i una gran pedra circular d’esmolar al centre. Les lleixes semblen estar ocupades per armes i armadura que s’han rovellat i fet velles amb el temps. Rondant la sala i hi ha 3 bugbears buscant entre les despulles de material mirant si quelcom es pot salvar. Lògicament els protagonistes no dubten ni un segon en assassinar-los també.
->>>>>>> Sessió 20201215
 
 ### 20201201 ###
 
