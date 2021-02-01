@@ -2,6 +2,29 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20210126 ###
+
+Els protagonistes de la nostra història comencen aquest episodi retrocedint fins l'altre sala, ornamentada amb cristalls vermells, que no van gosar inspeccionar. Un cop arriben veuen que les dues balistes animades segueixen flanquejant la portalada del fons. Els aventurers s'acosten lenta i sigilosament però al arribar a uns 60 peus de distància les balistes s'activen, es posen de peu i ataquen a en **Dwarf** que, estranyament, és el que està més avançat.
+
+El nan rep un sageta de foc i ràpidament contraataca llençant javelines, després s'apropa traient la gran destral fent saltar estelles de la balista nord. Aquesta torna a disparar sobre el bàrbar mentre que la sud ho fa contra la **Màxima** que s'aproximava ràpidament a salvar el seu amor secret.
+L'**Olwë** des d'una distància prudencial dirigeix una gran bola de foc ferint els dos artefactes animats. Ara és el torn del draconià que no deixarà els seus companys sols en la lluita i desde lluny fa anar la seva ballesta pesada.
+El mag conjura una sageta de foc destrossant la balista superior. La sud torna a disparar a la halfling, cosa que no es pren bé el seu barbut enamorat y ataca la màquina amb tanta fúria i precisió que trenca la seva estructura per la meitat.
+
+Després d'aquesta escaramussa els aventurers necessiten descansar una mica i recuperar forces.
+
+Amb cura i gran vigilància s'endinsen en una sala plena de tuberies i aixetes. La **Màxima** intenta obrir una però fa temps que estan seques. La següent entrada mena a un replà amb una porta que resa __"només per destil·ladors per odre d'en Garrux"__. Arriben a una sala més gran amb sis tines, els sostres alts de 10 metres permeten encabir les grans tines de coure d'on surten les tuberies. Cada tina té una aixeta.
+
+Inspeccionen les tines una a una i l'elf es troba amb un __beholder zombie__ que els ataca (__això no estava el mòdul ni per casualitat, però el DM tenia el dia graciós__)
+El primer objectiu del repugnant monstre és la **Màxima** que aguanta l'atac sense cap mena de rascada! La hafling contrataca amb la seva ballesta i una javelina. S'uneix a la baralla en **Barash** que amb dues javelines ensarta el __beholder__ com si fos una oliva. En **Dwarf** ataca dos cops amb la destral mentre el mag, amb els ulls injectats en sang, convoca una altra bola de foc. El nan travessa el foc, gràcies a les bombolles de seguretat conjurades pel mag, i li dóna dos cops més. Des de la llunyania la **Màxima** ho intenta sense gaire fortuna. Finalment, el paladí fa gala de la seva condició de mascle alfa i li fot quatre gardeles que deixen el __beholder__ mort!
+
+L'**Olwë** s'apropa i micciona llargament sobre el cadàver del __beholder zombie__.
+
+Contra la pared hi ha uns trenta barrils, els inspeccionen un a un i no troben res. Els exploradors obren la porta, la gladiadora s'avança amb alegria i cau en una trampa: un pou de 6 metres de profunditat. Després de molts minuts i un munt de càlculs la resta d'aventurers trena un pla per treure la **Màxima** del forat. L'execució és perfecte i el rescat un èxit!
+
+En un altre pla magistral agafen els barrils (de l'amplada exacte del passadís) i els van posant un darrera l'altre formant una mena de pasarel·la per la que poden passar sense activar cap trampa més. Al final del passadís que sembla un cul de sac hi ha dues portes secretes. A cada cantó hi ha una sala amb un sostre piramidal, al centre troben apilats un conjunt de barrils. La pila de la cambra sud sembla que va col·lapsar fa temps i uns quants han caigut.
+
+Examinen els barrils (n'hi ha uns 210), cada barril té una runa de conservació per a que no es faci malbé el seu contingut. Obren un i resulta ser la millor cervesa que han tastat mai.
+
 ### 20210119 ###
 
 Després de derrotar els owlsbears els aventurers tenen la oportunitat d'explorar la sala on es troben, mirant al seu voltant veuen una habitació plena de runes amb les parets decorades de pintures d'elfs montats sobre wapitis (__cervus canadienses__) Pel terra de la sala l'**Olwë** troba un pot de ceràmica, dels pocs que queden sencers, decorat amb un druida descalç encapçalant la marxa d'uns arbustos caminadors (__què collons fumen aquests paios!!__)
