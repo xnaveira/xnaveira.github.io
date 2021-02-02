@@ -2,6 +2,53 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20210126 ###
+
+Els protagonistes de la nostra història comencen aquest episodi retrocedint fins l'altre sala, ornamentada amb cristalls vermells, que no van gosar inspeccionar. Un cop arriben veuen que les dues balistes animades segueixen flanquejant la portalada del fons. Els aventurers s'acosten lenta i sigilosament però al arribar a uns 60 peus de distància les balistes s'activen, es posen de peu i ataquen a en **Dwarf** que, estranyament, és el que està més avançat.
+
+El nan rep un sageta de foc i ràpidament contraataca llençant javelines, després s'apropa traient la gran destral fent saltar estelles de la balista nord. Aquesta torna a disparar sobre el bàrbar mentre que la sud ho fa contra la **Màxima** que s'aproximava ràpidament a salvar el seu amor secret.
+L'**Olwë** des d'una distància prudencial dirigeix una gran bola de foc ferint els dos artefactes animats. Ara és el torn del draconià que no deixarà els seus companys sols en la lluita i desde lluny fa anar la seva ballesta pesada.
+El mag conjura una sageta de foc destrossant la balista superior. La sud torna a disparar a la halfling, cosa que no es pren bé el seu barbut enamorat y ataca la màquina amb tanta fúria i precisió que trenca la seva estructura per la meitat.
+
+Després d'aquesta escaramussa els aventurers necessiten descansar una mica i recuperar forces.
+
+Amb cura i gran vigilància s'endinsen en una sala plena de tuberies i aixetes. La **Màxima** intenta obrir una però fa temps que estan seques. La següent entrada mena a un replà amb una porta que resa __"només per destil·ladors per odre d'en Garrux"__. Arriben a una sala més gran amb sis tines, els sostres alts de 10 metres permeten encabir les grans tines de coure d'on surten les tuberies. Cada tina té una aixeta.
+
+Inspeccionen les tines una a una i l'elf es troba amb un __beholder zombie__ que els ataca (__això no estava el mòdul ni per casualitat, però el DM tenia el dia graciós__)
+El primer objectiu del repugnant monstre és la **Màxima** que aguanta l'atac sense cap mena de rascada! La hafling contrataca amb la seva ballesta i una javelina. S'uneix a la baralla en **Barash** que amb dues javelines ensarta el __beholder__ com si fos una oliva. En **Dwarf** ataca dos cops amb la destral mentre el mag, amb els ulls injectats en sang, convoca una altra bola de foc. El nan travessa el foc, gràcies a les bombolles de seguretat conjurades pel mag, i li dóna dos cops més. Des de la llunyania la **Màxima** ho intenta sense gaire fortuna. Finalment, el paladí fa gala de la seva condició de mascle alfa i li fot quatre gardeles que deixen el __beholder__ mort!
+
+L'**Olwë** s'apropa i micciona llargament sobre el cadàver del __beholder zombie__.
+
+Contra la pared hi ha uns trenta barrils, els inspeccionen un a un i no troben res. Els exploradors obren la porta, la gladiadora s'avança amb alegria i cau en una trampa: un pou de 6 metres de profunditat. Després de molts minuts i un munt de càlculs la resta d'aventurers trena un pla per treure la **Màxima** del forat. L'execució és perfecte i el rescat un èxit!
+
+En un altre pla magistral agafen els barrils (de l'amplada exacte del passadís) i els van posant un darrera l'altre formant una mena de pasarel·la per la que poden passar sense activar cap trampa més. Al final del passadís que sembla un cul de sac hi ha dues portes secretes. A cada cantó hi ha una sala amb un sostre piramidal, al centre troben apilats un conjunt de barrils. La pila de la cambra sud sembla que va col·lapsar fa temps i uns quants han caigut.
+
+Examinen els barrils (n'hi ha uns 210), cada barril té una runa de conservació per a que no es faci malbé el seu contingut. Obren un i resulta ser la millor cervesa que han tastat mai.
+
+### 20210119 ###
+
+Després de derrotar els owlsbears els aventurers tenen la oportunitat d'explorar la sala on es troben, mirant al seu voltant veuen una habitació plena de runes amb les parets decorades de pintures d'elfs montats sobre wapitis (__cervus canadienses__) Pel terra de la sala l'**Olwë** troba un pot de ceràmica, dels pocs que queden sencers, decorat amb un druida descalç encapçalant la marxa d'uns arbustos caminadors (__què collons fumen aquests paios!!__)
+
+La **Màxima** troba una porta secreta a la pared nord, ajudada per en **Barash** la halfling obra la porta i troba un sarcòfeg fet d'alabastre. La **Màxima** s'adona que és un bloc sencer no pas un sarcòfeg. En **Dwarf**, perspicaç com sempre, dedueix que és una sala del tresor falsa. A la següent sala troben urnes fetes malbé i tres taules de pedra.
+
+Segueixen cap a l'est per un passadís amb una mica de pendent a escassos metres gira cap al nord. En **Dwarf** que encapçala la comitiva activa una trampa i una bola enorme que ocupa tot el passadís comença a baixar a gran velocitat. En **Barash** reacciona molt ràpid i comença a fugir. La **Màxima** i en **Dwarf** se la troben a sobre i tot just poden esquivar-la arraconant-se contra la paret in extremis. Els dos baixets del grup intenten sense èxit frenar el pas inexorable de la bola. L'**Olwë** que estava més endarrerit aconsegueix fugir cap a la sala. En el seu pas devastador la bola aixafa en Barash deixant-lo fet un nyap.
+
+Fan un descans curt per a que en **Barash** es recuperi, durant aquesta estona el mag investiga el pot de ceràmica trobat i descobreix que és màgic (__Common__): **Pot of Awakening**, permet plantar un arbust durant trenta dies i després cobra vida animada i es converteix en un servent.
+
+Segueixen endavant i trobem unes taules amb manilles, semblen taules de sacrifici on recollir la sang de les víctimes. Travessen passadissos que fan ziga-zaga que menen a una petita habitació amb una llosa en forma d'escriptori i un cadira. La paret est i oest està plena de nínxols amb urnes funeràries, la paret del fons està plena de llibres.
+
+Entre els llibres l'**Olwë** troba un llibre de conjurs:
+ - __comprehend languages__
+ - __crown of madness__
+ - __darkvision__
+ - __gaseous form__
+ - __ray of sickness__
+ - __remove curse__
+ - __Tenser’s floating disk__
+ - __unseen servant__
+
+Els exploradors desfan el camí fins arribar a la sala on hi havia el __quaudrone__. Pugen a la sala de les gemmes vermelles i obren la portalada est endinsant-se en una sala molt gran amb quatre esquelets reconstruïts de dracs. Cap a l'esquerra trobem una mena de capella amb un banc de pedra on reposa un esquelet de tielfling amb vestimentes podrides. Hi ha una vara fràgil i una motxil·la, llàstima que no tinguin cap encanteri de parlar amb els morts.
+
 ### 20201215 ###
 
 Els exploradors caminen cap al sud deixant enrera un reguitzell de cadàvers. En poca estona arriben a una sala allargada amb sostres fets d'arcades que s'alcen uns deu metres per sobre del terra que trepitgen. A dalt de tot, incrustades a la roca hi hi ha joies vemelloses, que brillen emetent una llum tènua que il·lumina el passadís dèbilment.
@@ -24,7 +71,6 @@ Deixant enrere les sales arriben a una sala àmplia on hi ha dos Owlbears que el
 Després d’assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s’enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
 
 Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobreixen alguns jaços, un cercle pintat amb sang al terra de la sala i… una porta secreta! Aquesta porta els porta a una sala amb tres entrants, un per on an vingut, un al nord i un altre al sud. El del nord té un relleu del que sembla un arc, a la pedra de volta de l’arc hi ha tallada la imatge de un monstre del rovell. A en Olwë se li acudeix tocar l’arc amb un lingot de ferro i l’activa. A l’entrant del sud descobreixen una altra porta secreta. Aquesta porta a una sala plena de lleixes i una gran pedra circular d’esmolar al centre. Les lleixes semblen estar ocupades per armes i armadura que s’han rovellat i fet velles amb el temps. Rondant la sala i hi ha 3 bugbears buscant entre les despulles de material mirant si quelcom es pot salvar. Lògicament els protagonistes no dubten ni un segon en assassinar-los també.
->>>>>>> Sessió 20201215
 
 ### 20201201 ###
 
