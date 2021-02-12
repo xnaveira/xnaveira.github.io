@@ -2,6 +2,16 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20210202 ###
+
+Els aventurers retrocedeixen fins a un passadís que es desplaça cap a l'oest, sense adonar-se s'endinsen per camins fins ara inexplorats fins que arriben a una sala on es troben davant dos __rust monster__ barallant-se per un casc antic. Al detectar la **Màxima** s'acosten ensumant-la sense mostrar signes de violència, tanmateix en **Barash** li llença dues javelines iniciant un intercanvi de cops entre els exploradors i els monstres del rovell que finalitza amb la mort de les dues bèsties. Les javelines i la gran espasa de la halfling queden amb una marca de rovell que els resta part del seu poder mortífer.
+
+La sala està plena de signes de metall rovellat i sols es pot sortir per una porta que es troba al fons, just darrera troben tot ple de runes i escombreries, cap al nord està ple de teles d'aranya gegants. Arriben a una petita sala decorada amb dues làmpares, una d'elles va caure temps enrera atrapant sota seu el cos inert d'una aranya gegant. Avançant cap al sud ensopeguen amb un segon cadàver d'un altre aràcnid ple de fletjes, darrera hi ha una armadura amb casc, enganxada a la pared.
+
+Segueixen endavant a través de les teles d'aranya, el mag les va cremant poc a poc per obrir el pas. En **Dwarf** encapçala la comitiva i s'atura al veure cinc aranyes gegants, una avança ràpidament i intenta mossegar el bàrbar, l'**Olwë** surt a la seva defensa conjurant una bola de foc que mata una de les aranyes. La resta d'aràcnids es planten davant del nan que intenta treures de sobre una d'elles. La **Màxima** dispara des d'una distància segura les seves ballestes. En **Barash** entra en acció desplegant la seva fúria matant dues aranyes i posant-se al bell mig de les dues bèsties restants. Malgrat rep un dels atacs el draconià no retrocedeix ni un centímetre. Finalment la parella de bàrbars acaba amb les aranyes.
+
+En una sala contigua hi ha uns capolls i el capullo del mag obre el més petit, de dins surt una munió d'aranyes que se li enfilen i el deixen mig inconscient. Sols una successió de bufes dels seus companys acaben traient-li de sobre els petits aràcnids
+
 ### 20210126 ###
 
 Els protagonistes de la nostra història comencen aquest episodi retrocedint fins l'altre sala, ornamentada amb cristalls vermells, que no van gosar inspeccionar. Un cop arriben veuen que les dues balistes animades segueixen flanquejant la portalada del fons. Els aventurers s'acosten lenta i sigilosament però al arribar a uns 60 peus de distància les balistes s'activen, es posen de peu i ataquen a en **Dwarf** que, estranyament, és el que està més avançat.
