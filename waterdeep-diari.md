@@ -2,6 +2,21 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20210217 ###
+
+Després d'un descans llarg els aventurers retrocedeixen i enfilen cap al nord fins trobar una porta, darrera la qual descobreixen una habitació en forma de piràmide, és fosca i a la pared nord hi ha una runa nana que resplendeix tènuament. La runa significa fred, n'**Olwë** s'apunta la runa al seu diari. Suposen que pot ser una sala de conservació d'aliments, tanmateix no tenen el coratge d'entrar-hi, de tots és conegut que als __Beholders Zombies__ els encanta el fred.
+
+Tanquen la porta de la nevera darrera seu, que el fred no marxi, i van cap a les escales que descendeixen lleugerament. Als pocs metres arriben a una bifurcació amb portes a dreta i esquerra, més endavant hi ha una segona bifurcació també flanquejada per portes. En total 4 accessos, que numerem de 1 a 4 començant per les del nord, i després de oest a est:
+
+1: Habitació amb un tro antic de pedra cobert de pols, hi ha unes petjades d'un humanoide de tamany mmitjà que han estat per tota la sala, no són massa recents.
+
+2: Sala parcialment col·lapsada, plena de pols i runa.
+
+3: Sala on hi ha una taula amb una maqueta feta amb pedres (d'aquest nivell), contigua hi ha una habitació on hi ha figures dormint en uns jaços. En un racó hi ha una cadira on a la **Màxima** li sembla veure algú fugaçment, quan es fixa bé sols hi ha la cadira buida.
+Una veu els interpela sobre qui son i què fan a casa seva. L'elf dedueix que és el drow que va robar la clau als __Xanathar__, s'anomena **Rizzeryl** i és dels __Zentharim__. Després de convéncer el drow que han acabat amb els seus enemics els recompensa sent els portadors de la clau de __Slitherswamp__ (és de pedra i pesa uns quatre kilos) Segons ell obre una porta màgica, però hem de buscar en **Bosskyn Gorrb** a __Skull Port__.
+
+4: Obrim una porta màgica i ens trobem quatre monstres: són 4 __nothig__. Fan un atac necròtic a en **Barash**, i s'agolpen cap a la porta on els exploradors s'ajunten per rebutjar l'atac. El primer __nothig__ que cau abatut és sota l'espasa de la **Màxima**, en **Dwarf** li dóna un parell de cops consecutius a un enemic que el deixa mig mort, la halfling l'acaba de rematar amb una estocada. En **Barash** va repartint cops a tort i a dret. L'**Olwë** per dos cops invoca un orb cromàtic d'àcid, el primer falla però el segon acaba amb la vida d'un dels monstres. El darrer és rodejat pels guerrers i és finat per la **Màxima**.
+
 ### 20210202 ###
 
 Els aventurers retrocedeixen fins a un passadís que es desplaça cap a l'oest, sense adonar-se s'endinsen per camins fins ara inexplorats fins que arriben a una sala on es troben davant dos __rust monster__ barallant-se per un casc antic. Al detectar la **Màxima** s'acosten ensumant-la sense mostrar signes de violència, tanmateix en **Barash** li llença dues javelines iniciant un intercanvi de cops entre els exploradors i els monstres del rovell que finalitza amb la mort de les dues bèsties. Les javelines i la gran espasa de la halfling queden amb una marca de rovell que els resta part del seu poder mortífer.
