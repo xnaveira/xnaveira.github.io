@@ -2,6 +2,40 @@
 
 # Waterdeep: Diari dels aventurers
 
+### 20210224 ###
+
+Morts els __nothic__ els protagonistes d'aquesta aventura fan una mirada a les parets que els envolten, aparentment fa molt anys que aquesta era una sala on els nans hi guardaven tota mena d'equipament, ara està fet malbé i tot resta entre pols i runa. 
+
+Els exploradors segueixen endavant fins a una sala amb maquinària de bombeig d'aigua i un safareig. A la següent cambra hi troben un curiós envà de cinc metres d'alt fet d'ossos de goblin, no arriba al sostre per ben bé mig metre. L'**Olwë** fa un escataineig de gallina (__coc-coc, coc-coooc__) quan la **Màxima** es nega a escalar el mur d'ossos. Una mica mosquejada però conservant la calma, la halfling s'enfila damunt el paladí i examina el mur d'ossos. Té mig metre d'amplada, a l'altre cantó no s'hi veu res. 
+
+Deixen aquest pas sense explorar i avancen fins que senten un fressa de lluita, a corre cuita arriben a una gran estança on s'esdevé un combat entre un guerrer equipat amb armadura completa i __nothics__ encapçalats per un __mezzoloth__. 
+
+Els aventurers s'abraonen a atacar el __mezzoloth__. En **Barash** li etziba dos cops al monstre que per defensar-se llença un conjur invocant una mena de núvol pestilent que afecta en **Barash** i n'**Olwë**, el núvol es desplaça per la sala mentre en **Dwarf** llença amb molt encert dues javelines ferint l'enemic. El cavaller inspirat per la proesa del nan gairebé reventa un __nothic__ amb un atac fulgurant. Competint en destresa amb l'espadot, la **Màxima**, fa un doble atac al conjurador del núvol.
+L'elf, a punt de morir pel núvol, aconsegueix conjurar una bola de foc que acaba amb el __mezzoloth__ i un dels __nothic__. L'altre __nothic__ és eliminat entre en **Barash** i la **Màxima**.
+
+Després de la escaramussa fan un descans curt, sobretot per a què el mag pugui recuperar-se. El cavaller, un home petulant i vanidós, agraeix als aventurers l'ajuda rebuda i demana d'unir-se al grup en l'exploració del submón. 
+
+L'investigació dels passadissos no s'atura i segueixen endavant fins que la Màxima alerta d'un soroll: hi ha tres __gibbering mouther__ (criatures derivades d'experiments fallits de bruixots sense escrúpols alhora de fer servir éssers vius en les seves investigacions). En **Barash** no s'ho pensa dos cops i avança cap a ells, un paladí no pot concebre que criatures monstruoses com aquestes tinguin lloc al món.
+
+El cavaller, més cautelós, dispara de lluny tot avisant de la perillositat d'aquests éssers.
+
+Sota l'influx de las criatures el draconià perd la xaveta i corre cap a elles. El mag conjura una bola de foc espetarrant establint una bombolla de protecció pel seu company. Un dels __gibbering__ ataca en **Barash**, el mossega i li escup als ulls encegant-lo. Intentant protefgir el paladí, la **Màxima** dispara la ballesta. Ara és el torn d'en **Dwarf** que queda atontat per l'encanteri de les bèsties, incapaç de fer res, una d'elles se li acosta i li escup privant-li temporalment de visió.
+
+El paladí, en una demostració de la seva gran destresa, segueix lluitant a ulls clucs i aconsegueix acabar el monstre que l'estava assetjant. 
+
+Una segona bola de foc surt de les mans de l'elf, esclata al bell mig de la cambra malferint una de les criatures i matant-ne una altre. La halfling manté la posició, resisteix a la màgia de les bèsties i torna a ferir l'enemic.
+
+La batalla sembla decidida, dues bèsties jauen mortes i l'altre té el cos ple de nafres, però en aquest món atzarós una simple tirada de daus pot canviar el rumb d'una batalla. El cavaller cau sota l'influx de la criatura i embogeix atacant per tres vegades la **Màxima**, que queda gairebé inconscient, en **Dwarf** corre espantat, en **Barash** queda babejant en un racó i el cavaller marxa corrents de la sala.
+
+N'**Olwë** mira al seu voltant, els seus companys estan afectats per l'encanteri o molt mal ferits, aixeca el braç i quatre missils màgics surten dels seus dits impactant en el cos de la bèstia que cau abatuda.
+
+I els lectors ens preguntem:
+- Què faria n'**Olwë** sense la bola de foc?
+- En **Dwarf** babejava per la **Màxima** o per l'encanteri dels __gibbering mouther__?
+- Podrà resistir algun encanteri en **Barash**?
+- Qui la té més llarga, el cavaller o la **Màxima**?
+- I aquest cavaller, té nom?
+
 ### 20210217 ###
 
 Després d'un descans llarg els aventurers retrocedeixen i enfilen cap al nord fins trobar una porta, darrera la qual descobreixen una habitació en forma de piràmide, és fosca i a la pared nord hi ha una runa nana que resplendeix tènuament. La runa significa fred, n'**Olwë** s'apunta la runa al seu diari. Suposen que pot ser una sala de conservació d'aliments, tanmateix no tenen el coratge d'entrar-hi, de tots és conegut que als __Beholders Zombies__ els encanta el fred.
