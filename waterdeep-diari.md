@@ -4,14 +4,14 @@
 
 ### 20210224 ###
 
-Morts els __nothig__ els protagonistes d'aquesta aventura fan una mirada a les parets que els envolten, aparentment fa molt anys que aquesta era una sala on els nans hi guardaven tota mena d'equipament, ara està fet malbé i tot resta entre pols i runa. 
+Morts els __nothic__ els protagonistes d'aquesta aventura fan una mirada a les parets que els envolten, aparentment fa molt anys que aquesta era una sala on els nans hi guardaven tota mena d'equipament, ara està fet malbé i tot resta entre pols i runa. 
 
 Els exploradors segueixen endavant fins a una sala amb maquinària de bombeig d'aigua i un safareig. A la següent cambra hi troben un curiós envà de cinc metres d'alt fet d'ossos de goblin, no arriba al sostre per ben bé mig metre. L'**Olwë** fa un escataineig de gallina (__coc-coc, coc-coooc__) quan la **Màxima** es nega a escalar el mur d'ossos. Una mica mosquejada però conservant la calma, la halfling s'enfila damunt el paladí i examina el mur d'ossos. Té mig metre d'amplada, a l'altre cantó no s'hi veu res. 
 
-Deixen aquest pas sense explorar i avancen fins que senten un fressa de lluita, a corre cuita arriben a una gran estança on s'esdevé un combat entre un guerrer equipat amb armadura completa i __nothigs__ encapçalats per un __mezzoloth__. 
+Deixen aquest pas sense explorar i avancen fins que senten un fressa de lluita, a corre cuita arriben a una gran estança on s'esdevé un combat entre un guerrer equipat amb armadura completa i __nothics__ encapçalats per un __mezzoloth__. 
 
-Els aventurers s'abraonen a atacar el __mezzoloth__. En **Barash** li etziba dos cops al monstre que per defensar-se llença un conjur invocant una mena de núvol pestilent que afecta en **Barash** i n'**Olwë**, el núvol es desplaça per la sala mentre en **Dwarf** llença amb molt encert dues javelines ferint l'enemic. El cavaller inspirat per la proesa del nan gairebé reventa un __nothig__ amb un atac fulgurant. Competint en destresa amb l'espadot, la **Màxima**, fa un doble atac al conjurador del núvol.
-L'elf, a punt de morir pel núvol, aconsegueix conjurar una bola de foc que acaba amb el __mezzoloth__ i un dels __nothig__. L'altre __nothig__ és eliminat entre en **Barash** i la **Màxima**.
+Els aventurers s'abraonen a atacar el __mezzoloth__. En **Barash** li etziba dos cops al monstre que per defensar-se llença un conjur invocant una mena de núvol pestilent que afecta en **Barash** i n'**Olwë**, el núvol es desplaça per la sala mentre en **Dwarf** llença amb molt encert dues javelines ferint l'enemic. El cavaller inspirat per la proesa del nan gairebé reventa un __nothic__ amb un atac fulgurant. Competint en destresa amb l'espadot, la **Màxima**, fa un doble atac al conjurador del núvol.
+L'elf, a punt de morir pel núvol, aconsegueix conjurar una bola de foc que acaba amb el __mezzoloth__ i un dels __nothic__. L'altre __nothic__ és eliminat entre en **Barash** i la **Màxima**.
 
 Després de la escaramussa fan un descans curt, sobretot per a què el mag pugui recuperar-se. El cavaller, un home petulant i vanidós, agraeix als aventurers l'ajuda rebuda i demana d'unir-se al grup en l'exploració del submón. 
 
