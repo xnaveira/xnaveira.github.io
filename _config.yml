@@ -29,7 +29,8 @@ twitter_username: nymiro
 github_username:  xnaveira
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
