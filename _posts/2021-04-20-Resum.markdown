@@ -1,4 +1,4 @@
-**20-04-2021**
+## **20-04-2021**
 
 **RESUM**
 
@@ -20,6 +20,8 @@ espectre surt de la cassola i ataca els aventurers mentre tots els utensilis
 punxeguts o amb tall que hi ha per la cuina surten volant cap a ells. Després
 de un combat curt i efectiu, el espectre és derrotat i els utensilis
 neutralitzats.
+
+Al fons de la cuina descobreixen una porta amb la inscripció "Habitació d'en Kalabash. Prohibida la entrada excepte si el teu nom és Halaster"
 
 **PUNTS**
 
