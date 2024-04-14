@@ -17,7 +17,13 @@ jobs:
     - name: Concatenate files
       run: |
         mkdir -p archive
-        cat _posts/*.markdown > archive/concatenated.txt
+        truncate -s 0 archive/concatenated.txt
+        for file in `ls -1 _posts`; do
+          cat _posts/$file >> archive/concatenated.txt
+          echo >> archive/concatenated.txt
+          echo __SEPARADOR__ >> archive/concatenated.txt
+          echo >> archive/concatenated.txt
+        done
 
     - name: Commit changes
       run: |
