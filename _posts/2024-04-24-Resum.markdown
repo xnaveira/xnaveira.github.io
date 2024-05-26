@@ -1,0 +1,43 @@
+---
+tags: [Phandelver]
+---
+
+A la taverna, durant una nit fosca i plena de misteri, Gundran Busca Roques s'acosta a la taula dels aventurers. Amb una mirada decidida i plena de secrets, els confessa que ha fet un descobriment de gran importància, una troballa que podria canviar el destí de molts.
+
+Amb veu ferma, els ofereix una missió: protegir un carro fins a Phandalin, un poble a tres dies de viatge des de Neverwinter. La recompensa promet ser generosa: deu monedes d'or per cap, una suma que fa brillar els ulls de tots ells.
+
+Gundran els explica que ell viatjarà amb en Sildar, un guerrer que l'ha jurat protegir. Al matí següent, reben una nota de Gundran plena de paraules d'agraïment per haver acceptat la missió. La nota també inclou indicacions sobre on poden recollir el carro i on l'han de deixar: a la botiga de Barthen, a Phandalin.
+
+El viatge és llarg, unes setanta-dues milles, i calculen que poden recórrer unes vint-i-quatre milles cada dia. En Vesnot, el mig orc forçut del grup, camina al costat del carromat amb pas ferm, mentre que en Wimus i en Oreeo s'asseuen còmodament al carro, gaudint de la vista.
+
+A la tarda, comença a ploure, i quan arriba el capvespre, decideixen buscar un lloc per passar la nit. En Wimus, amb la seva intuïció aguda, troba un racó apartat de la carretera que s'ha mantingut sec. Fan un foc per preparar el sopar, mentre l'Oreeo recull una mica d'herba fresca pels bous.
+
+Després de parlar-ho, els aventurers disposen les guàrdies per a la nit. En Vesnot, amb els seus ulls de ferro, serà el primer a vigilar. En Wimus serà l'últim, mentre que el bard, amb les seves cançons tranquil·les i la seva mirada atenta, farà la guàrdia del mig.
+
+I així, amb el foc crepitant i la pluja caient suaument, els herois es preparen per afrontar una nit plena de misteris, amb la promesa d'una aventura que tot just comença.
+
+La primera guàrdia va passar sense problemes. Quan va ser el torn de l'Oreeo, va notar que els bous estaven intranquils. El bard va agafar una torxa i es va apropar al carro, espasa en mà. A la foscor, va veure uns puntets brillants i, inquiet, va intentar despertar el mig orc Vesnot.
+
+De sobte, un llop es va abalançar ràpidament cap a en Vesnot, però per sort va fallar en el seu atac. L'Oreeo va llançar una daga amb poc encert mentre cridava en Wimus. En Vesnot va alçar la maça i va colpejar amb força el llom del llop.
+
+El llop es va tornar contra ell, clavant-li les dents a la cama. L'Oreeo, veient el seu company ferit, va apunyalar el llop, matant-lo. Tot seguit, un altre llop es va apropar i va mossegar la ferida oberta d'en Vesnot. En Wimus, corrent en ajuda del seu company, va atacar el nou llop.
+
+Un tercer llop es va llençar sobre l'Oreeo, mossegant-lo greument i fent-lo perdre la consciència. Des del bosc, una quarta bèstia es va apropar per atacar en Wimus. En Vesnot va intentar un nou atac, però va fallar estrepitosament. Un dels llops es va estavellar contra l'escut del mig orc.
+
+En Wimus va alçar la destral per atacar, però la va clavar a terra en una pífia colossal. Enmig d'aquest caos, en Vesnot va tornar a errar el seu atac. Els llops contraatacaven, però sense encert, afortunadament per als herois.
+
+Un dels cànids va mossegar el braç d'en Vesnot, fent-li una nova ferida. En Wimus va brandar la seva destral, ferint un dels llops, que va ser rematat per la maça d'en Vesnot. Un altre llop es va llençar contra en Wimus, mossegant-li la cama, mentre el darrer llop picava contra l'escut.
+
+Ple de ràbia, en Vesnot va aixafar el crani del llop amb un cop devastador. Només quedava una bèstia, ferida i esgotada. Va intentar un últim atac, però en Wimus la va partir en dos amb un poderós cop de destral.
+
+Amb la batalla acabada, els herois es van quedar en silenci, el foc crepitant a prop seu i la nit tornant a la seva tranquil·litat habitual.
+
+L'Oreeo queda estabilitzat i despre´s de dormir tota la nit es recupera de les ferides, igual que els seus companys d'aventura.
+
+## XP
+
+```
+Jordi: 000xp
+Paco: 000xp
+Bernat: 000xp
+```

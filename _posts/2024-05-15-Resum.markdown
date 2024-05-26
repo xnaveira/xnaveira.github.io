@@ -1,0 +1,26 @@
+---
+tags: [Phandelver]
+---
+
+Els valents aventurers es disposen a investigar el terreny i recollir el que poden. En Vesnot, amb la seva maça encara tacada de sang, comença a regirar els cossos dels goblins caiguts. Troba una petita quantitat de monedes de coure, 1 mp per cada goblin, que recull amb cura.
+
+En el procés de registre, Oreeo descobreix una sèrie d'objectes abandonats al costat dels goblins: material d'escriptura, un pic trencat i una cartera de pell amb un escut d'armes gravat. Oreeo, amb ulls plens de reconeixement, assenyala l'escut a Vesnot i Wimus, identificant-lo com l'escut de la família de Gundran, el seu amic i patró.
+
+Mentre es preparen per moure's de nou, en Vesnot nota unes petjades seques en el fang al costat del camí. Les petjades condueixen a un sender que sospiten que ha estat transitat per goblins, potser una dotzena. Això confirma les seves sospites que hi ha més perills ocults en aquest bosc.
+
+Decideixen amagar els cossos dels goblins per no alertar altres possibles enemics i mouen el carro cap a una clariana al sud per fer un descans llarg. Distribueixen les guàrdies amb Vesnot, Wimus i Oreeo vigilant al seu torn. La nit passa sense incidents, el bosc sembla haver tornat a la seva tranquil·litat habitual.
+
+Amb els primers raigs de sol, els aventurers es preparen per continuar el seu viatge. Es posen en fila índia pel sender, amb Vesnot al davant, seguit per Oreeo i Wimus. El camí s'endinsa lentament en el bosc, i el rastre és clar, però no els dóna més informació més enllà de que és un camí molt transcorregut.
+
+De cop, Vesnot nota una part del terra coberta de pinassa que sembla endreçada amb cura, una possible trampa. Sense perdre temps, alerta els seus companys i agafa un tronc pesat d’uns quaranta centímetres, llençant-lo contra la pinassa. Com esperava, un llaç corredís s'alça cap a les copes dels arbres, revelant la trampa oculta.
+
+Avançant amb precaució, en Vesnot observa un altre indici de perill: un grup de tronquets i branques juntes, una trampa-pou. Amb els sentits aguts i la prudència com a guia, els aventurers senten que s'apropen al seu destí.
+Finalment, seguint el curs d'un petit rierol, arriben a una clariana on el riu s'endinsa dins la muntanya junt amb el sender. L'aigua clara reflecteix la llum del sol matinal, i els nostres herois es preparen per al que els espera a l'interior de la muntanya, sabent que cada pas els acosta més a la veritat i a possibles nous perills.
+
+## XP
+
+```
+Jordi: 75xp
+Paco: 75xp
+Bernat: 75xp
+```

@@ -1,3 +1,6 @@
+---
+tags: [Waterdeep]
+---
 ### 20190925 ###
 
 Aconsegueixen parlar amb el Nim, ha construit un nimblewright que se li ha

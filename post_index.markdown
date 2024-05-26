@@ -2,5 +2,9 @@
 layout: post_index
 title: Índex de resums
 permalink: /post_index/
+items:
+  - Phandelver
+  - Waterdeep
 ---
-<a href="/">Tornar</a>
+
+<h3><a href="/">Tornar</a></h3>

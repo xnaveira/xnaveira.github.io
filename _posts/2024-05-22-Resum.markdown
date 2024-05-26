@@ -1,0 +1,11 @@
+---
+tags: [Phandelver]
+---
+
+## XP
+
+```
+Jordi: 100xp
+Paco: 75xp
+Bernat: 75xp
+```
