@@ -1,18 +1,20 @@
-### 20180603 ###
+---
+tags: [Waterdeep]
+layout: post
+---
+
+### 20180603
 
 Van portar el pistoler Soluun Xibrindas a la casa per interrgoar, van establir que era un pistoler renegat membre de de una organitzacio anomenada bregan d'aerthe.
- L'albert es va trobar amb els zentharim i va arreglar la entrega a un local d'ells. La entrega es va realitzar pero els zentharim van quedar decepcionats de no rebre la pistola del pistoler. Tot i amb aixo va entregar al grup una altra missio per seguir posant a prova l afidelitat del grup. 
- En Davil Starsong, representat dels zentharim portara la oferta del grup als Zentharim consistent en entregar l'arma a canvi de 1100 po per acabar la posada. La nova missio consisteix en recollir unes pocions al apotecari gnom Skeemo weirdbottle i entregarles a una misteriosa dama anomenada Esvele Rosznar, filla modelica de familia noble de dia, presunta assassina mortal de nit. Hi ha un petit incident amb el gnom que amenaca de no fer mes tractes amb els zentharim, el grup es sobornat amb dues pocions de curacio? que te l'albert ara mateix, la entrega es fa i el Jordi rep una bossa amb 15pp per cada un, encara queda anar a tancar la missio amb en Davil.. 
- Paralelament en bernat rep una missio de la Vajra, la vara negra, investigar un drac que es diu, s'ha vist nedant a les aigues del port de Aigues Profundes. Rep 5 pocions de respirar sota l'aigua per tal de completar la missio.
-
-
-
-
-
-
+L'albert es va trobar amb els zentharim i va arreglar la entrega a un local d'ells. La entrega es va realitzar pero els zentharim van quedar decepcionats de no rebre la pistola del pistoler. Tot i amb aixo va entregar al grup una altra missio per seguir posant a prova l afidelitat del grup.
+En Davil Starsong, representat dels zentharim portara la oferta del grup als Zentharim consistent en entregar l'arma a canvi de 1100 po per acabar la posada. La nova missio consisteix en recollir unes pocions al apotecari gnom Skeemo weirdbottle i entregarles a una misteriosa dama anomenada Esvele Rosznar, filla modelica de familia noble de dia, presunta assassina mortal de nit. Hi ha un petit incident amb el gnom que amenaca de no fer mes tractes amb els zentharim, el grup es sobornat amb dues pocions de curacio? que te l'albert ara mateix, la entrega es fa i el Jordi rep una bossa amb 15pp per cada un, encara queda anar a tancar la missio amb en Davil..
+Paralelament en bernat rep una missio de la Vajra, la vara negra, investigar un drac que es diu, s'ha vist nedant a les aigues del port de Aigues Profundes. Rep 5 pocions de respirar sota l'aigua per tal de completar la missio.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20180610 ###
 
 Retornen a la casa a descansar despres d'entregar les pocimes, quan arriben a la casa descobreixen que els mobles han arribat i que el pis de baix esta gairebe llest per obrir la taberna.
@@ -26,6 +28,9 @@ Quan arriben a veure al Skeemo descobreixen que estava escapant en un carro, hi 
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190618 ###
 
 La guardia arriba a l'escenari de la batalla amb en weirdbottle, sospiten d'ells pero els deiexen marxar amb la condicio que no surtin de la ciutat.
@@ -40,6 +45,9 @@ Coneixen a alguns veins nous, en Rishaal the page-turner
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190701 ###
 
 Envien missatge amb paper bird al Weirdbottle per a reunir-se fent-se passar per Xanathar pero no es presente.
@@ -52,6 +60,9 @@ Despres de 5 dies troben un espantaocells i el maten.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190723 ###
 
 Es troben un cacador de Amends al bosc del nord est que els explica que hi ha en total 3 espantaocells. Es diu Xanril. Li demanen que faci correr la veu que un dels espantaocells esta mort.
@@ -63,6 +74,9 @@ Acampen a les tres torres del turo i durant la nit els ataquen dos espantaocells
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190730 ###
 
 Convencen als pagesos de Amend que els entrin de incognit a la ciutat per evitar la guardia, ofereixen futurs negocis amb la taverna.
@@ -86,6 +100,9 @@ Al dia seguent quan estan planejant el dia se sent una explosio fora de la taber
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190812 ### 
 
 Despres d'haver examinat els cossos troben:
@@ -108,6 +125,9 @@ Quan arriben a la Casa de les Mans inspirades, una figura que coincideix amb la 
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190925 ###
 
 Aconsegueixen parlar amb el Nim, ha construit un nimblewright que se li ha
@@ -123,6 +143,9 @@ L'Albert fa nonetes.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20190930 ###
 
 El monjo dels Zentharim els porta a parlar amb les victimes de la explosio.
@@ -136,6 +159,9 @@ En Raener ve i els explica que en Dalakhar treballava pel seu pare i que els vol
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20191015 ###
 
 Continua la batalla campal a la casa dels Gralhund
@@ -156,6 +182,9 @@ La família Gralhund i el grup seràn escortats al quarter de la guàrdia per pr
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20191119 ###
 
 En Barnibus els deixa marxar amb la condicio que no deixin la ciutat.
@@ -169,6 +198,9 @@ Troben els esquelets al cementiri i els maten.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20191126 ###
 
 Recompensa Nimblewright: 500gp per prova que esta destruit i un objecte magic
@@ -184,6 +216,9 @@ En Bernat estabilitza al Jordi que estava inconscient
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200114 ###
 
 Despres de derrotar els Xanathar contacten amb la Grinda. Accedeixen a buscar el tresor
@@ -196,6 +231,9 @@ Van cap a la Calavera del Troll a descansar.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200127 ###
 
 La Atenea porta un pin dels Arpistes. Informen a la vajra de les intencions del drac i de la presencia d'un altre drac a la ciutat. La Vajra li demana que li porti en Meloon. Van al mausoleu, troben una clau. Son atacats per 4 duergar. Albert 1 nivell de fatiga despres de la lluita. Els duergar moren i tenen marques dels xanathar.
@@ -205,6 +243,9 @@ La Atenea porta un pin dels Arpistes. Informen a la vajra de les intencions del 
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200203 ####
 
 Després d'haver acabat amb els duergar Xanathar que pretenien robar la pedra que no tenien
@@ -228,6 +269,9 @@ els avisin si es mouen d'allà.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200209 ###
 
 Van al negoci tapadera de la casa de perruques, l'Albert obre la porta.Entren al celler.
@@ -237,6 +281,9 @@ Van al negoci tapadera de la casa de perruques, l'Albert obre la porta.Entren al
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200224 ###
 
 Continua el combat amb els esquelets i el guanyen.
@@ -246,6 +293,9 @@ Continua el combat amb els esquelets i el guanyen.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200302 ###
 
 Partida cancel·lada
@@ -255,6 +305,9 @@ Partida cancel·lada
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200310 ###
 
 Maten a tot esser vivent (i no vivent) al celler, inclos el cofre assassi que entrete al
@@ -265,6 +318,9 @@ fugir, presumiblement amb la pedra. Comenca la persecucio.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200317 ###
 
 Persegueixen al kenku fugitiu fins a un pati entre cases, desapareix a una
@@ -280,6 +336,9 @@ màgiques.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200325 ###
 
 Surten al pati interior darrera de la torre. Pateixen una emboscada per part de
@@ -295,6 +354,9 @@ jordi no recupera la inteligencia.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200331 ###
 
 En Saeth i en Barnibus van a veure als aventurers. Els expliquen que han
@@ -327,6 +389,9 @@ devorador i es posen d'acord per anar a veure a la Vajra plegats.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200407 ###
 
 Van a parlar amb la Vajra. Retornen en Meloon i reben missio d'eliminar el mind
@@ -340,6 +405,9 @@ al teatre a intentar trobar el tresor.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200422 ###
 
 Descobreixen la trampilla al camerino entren, amaguen la trampilla amb una
@@ -368,6 +436,9 @@ Un parell de orelles de bugbear.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200429 ###
 
 Van a descansar, despres s'encaminen al port a buscar la escata de drac de
@@ -382,6 +453,9 @@ canvi reben la escata com promès.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200505 ###
 
 Arriben al teatre i hi ha funcio, el Wishes els posa en un palc fins que
@@ -406,6 +480,9 @@ de moure'l fracassen.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200512 ###
 
 L'Albert destrossa el fresc que havia encisat en Bernat i ell queda alliberat.
@@ -422,6 +499,9 @@ inconscient.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200519 ###
 
 Miren un altre cop d'obrir la trampilla i en Jordi es xamusca altre cop. En
@@ -437,6 +517,9 @@ de un Neverember.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200525 ###
 
 Guanyen 10 punts de vida temporals picant el martell a la enclusa. L'Albert es
@@ -449,6 +532,9 @@ collaret de la Vajra per enviar un missatge demanant ajuda.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200602 ###
 
 El Bernat lluita valentment amb els Xanathar i en aquell moment es revela el
@@ -492,6 +578,9 @@ Max i segueix la seva ronda...
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200609 ###
 
 Després del desafortunat encontre amb Ahmaergo que va acabar amb en paco
@@ -516,6 +605,9 @@ ascendent...
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200616 ###
 
 Quan descobreixen la sortida del Cau del Xanathar es troben allà en Meloon i en
@@ -535,6 +627,9 @@ L'Albert va de compres i es reequipa.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200622 ###
 
 Decideixen anar a recuperar el tresor amb en Reaner. Arriben sense problema a
@@ -553,6 +648,9 @@ rates i espanten en Emmek per a que no torni a escampar rumors.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200630 ###
 
 Obtenen les 50000 po de recompensa en 5 comptes de 10000. El compte d'en Jorard
@@ -649,6 +747,9 @@ Un troll emergeix del pou que porta al sotamón i se'l carreguen, aquest cop sen
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200722 ###
 
 Decideixen baixar al sotamón.
@@ -667,6 +768,9 @@ devorador intelectual.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200728 ###
 
 Continuen explorant el sotamón, rebenten dos devoradors intelectuals, passen per 
@@ -676,6 +780,9 @@ una sala de miralls i són atacats per dos ducplicadors i un cuc als quals derro
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200825 ###
 
 Tots els aventurers estan afectats per una apatia misteriosa que els paralitza
@@ -688,6 +795,9 @@ investiguen els voltants i troben una màscara de bronze en un racó...
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200901 ###
 
 Derroten a un grup de goblins i els dos bugbears que els comandaven. Albert un
@@ -707,6 +817,9 @@ ME*
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200915 ###
 
 Un Shield Guardian entra a la sala on estaven descansant i comença a fer gests
@@ -749,6 +862,9 @@ El vampir estava observant una sala que connecta directament al pou.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200922 ###
 
 En **Raistlin** sent com es tanca una porta darrera seu. 
@@ -781,6 +897,9 @@ La **Màxima** que s'havia mantingut a distància no es veu afectada i aconsegue
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20200929 ###
 
 En **Barash** i la **Màxima** buscan ajuda de la **Harria** per a poder tornar a la vida als seus companys de viatge **Olwë** i **Raistlin**. La **Harria** ofereix un pacte: *captureu l'**Uktarl** i els seus companys en vida per entregar-los als **Xanathar** i jo us entregaré el pergamí que podrà ajudar els vostres amics!*
@@ -813,6 +932,9 @@ Propera parada **Skullport**, per poder ressuscitar en **Raistlin**!
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201006 ###
 
 Abans de seguir els aventures van a buscar l'**Olwë** per a que se'ls uneixi.
@@ -840,6 +962,9 @@ Finalment ataquen el cub de gelatina, en **Barash** amb una bola de foc, l'**Olw
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201013 ###
 
 Després d'un llarg descans els aventurers segueixen explorant els el submón, en el gir d'un passadís del sostre cauen tres __Carrion Crawler__. __"Són peluts!"__ s'exclama en Dwarf mentre el primer ataca l'**Olwë** causant-li un parell de ferides. El mag es sobreposa a la sorpresa i contrataca amb una fletja de foc, tot seguit es teletransporta darrera els companys. Els cucs avancen implacablement i ataquen en **Dwarf** i la **Màxima**. Amb quatre estocades la **Màxima** i en **Barash** maten el primer __Carrion Crawler__. Sense cap mena de por en **Dwarf** clava un cop de destral i seguit per dos atacs de la **Màxima** el cuc queda mig mort, finalment és rematat pels misils màgics que surten dels dits de l'elf.
@@ -877,6 +1002,9 @@ Darrera d'aquesta hi ha un passadís que acaba en un atzucac, on **Olwë** desco
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201020 ###
 
 En **Haleth** intueix que els seus __"amics"__ están seguint les escales que baixen. Però entre en **Barash** i l'**Olwë** li fan entendre que han de fer un descans llarg i que abans s'ha d'assegurar que no hi ha presència d'enemics.
@@ -904,6 +1032,9 @@ Amb la batalla finalitzada el silenci s'imposa novament, els aventurers entren e
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201027 ###
 
 Els aventures exploren la sala a fons, en **Barash** va amunt i avall esperant trobar alguna cosa o secret que no arriba a revelar-se.
@@ -929,6 +1060,9 @@ Els __Stirges__ enganxades van xuclant la sang dels exploradores debilitant-los.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201103 ###
 
 Després de derrotar les __stirges__ els exploradors apilen els nombrosos cadàvers en un racó i fan un descans llarg a fi de restablir-se de les ferides.
@@ -967,6 +1101,9 @@ I mentre admiren l'antic art dels nans no deixen de fer-se algunes preguntes:
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201110 ###
 
 Els exploradors segueixen cap al nord fins que escolten el rumor d'una conversa llunyana. La **Màxima** avança poc a poc seguida de l'**Olwë** (que no es cansa mai d'anar a la vanguarda) però sense adonar-se'n activen una trampa, quatre dards enverinats surten de la paret, dos impacten en la **Màxima** i els altres dos en el malaurat mag que queda molt mal ferit. La halfling ignorant el dolor, gràcies a la seva gran resistència als verins, avança assedegada de sang buscant als bugbears o goblins propietaris de les veus. En un segon descuit activa una segona trampa rebent l'impacte de tres dards més.
@@ -1009,6 +1146,9 @@ Amb el gust acre de l'adrenalina encara a la boca els nostres aventurers esperen
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201117 ###
 
 Arriben vuit bugbears i es sorprenen al veure la carnisseria. L'**Olwë**, disfressat de **Shunn**, els increpa indicant que persegueixin els atacants que han marxat cap al nord. Però no cola, no cola! (era una bona idea fins que els daus han decidit el contrari) Els bugbears es miren entre ells. Un silenci incòmode s'estén per la sala trencat per alguns murmuris __"voleu dir que és en Shunn?"__, __"qui és aquest paio?"__ o __"voleu dir que en Shunn no tenia tres ulls més?"__, finalment el bugbear més gros de tots fa un crit __"ataqueu, no és en Shunn!!!"__
@@ -1061,6 +1201,9 @@ Ja reunits dins la sala, troben la calavera dins de la esfera vidre, en **Barash
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201124 ###
 
 Els aventurers es troben a la sala després de destruïr els cubs.
@@ -1099,6 +1242,9 @@ Les respostes a la propera sessió, o no.
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201201 ###
 
 Els protagonistes d'aquesta història es troben a la sala després d'haver vençut la gelatina ocre. Amb calma miren les parets i veuen que estan plenes de relleus de dimonis amb la boca oberta i ulls sense parpelles. Encuriosits per la frase gravada a l'altar, __“un regal carnal entregat lliurament pot alimentar la nostra fam enterna”__, dediquen una bona estona a mirar de treure'n l'entrellat. Van a buscar talls de carn a sala on va morir la **Midna** (sembla que la taula sí que donava teca infinita) i els posen sobre l'altar sense aconseguir res, __"el text parla de mutilació"__ remuga l'**Olwë** quan finalment abandonen l'estança.
@@ -1122,6 +1268,9 @@ La màgia que mantenia el Beholder flotant mor amb ell i cau a terra provocant u
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201208 ###
 
 Després d’assassinar el Beholder Zombie Nerozar que per les marques que portava estava al servei dels Xanathar els aventurers senten una veu convocant a la guàrdia del que sembla ser un altre cau Xanathar al sotamón. Na Nadia i la seva guàrdia, composada per guerrers bàrbars i bugbears s’enfronten al grup. Després de la batalla els únics que queden en peu són els aventurers, la sala on van trobar el beholder zombie és completament plena de cadàvers.
@@ -1132,6 +1281,9 @@ Investiguen la sala on el destacament Xanathar sembla que tenia la base, descobr
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20201215 ###
 
 Els exploradors caminen cap al sud deixant enrera un reguitzell de cadàvers. En poca estona arriben a una sala allargada amb sostres fets d'arcades que s'alcen uns deu metres per sobre del terra que trepitgen. A dalt de tot, incrustades a la roca hi hi ha joies vemelloses, que brillen emetent una llum tènua que il·lumina el passadís dèbilment.
@@ -1153,6 +1305,9 @@ Deixant enrere les sales arriben a una sala àmplia on hi ha dos Owlbears que el
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20210119 ###
 
 Després de derrotar els owlsbears els aventurers tenen la oportunitat d'explorar la sala on es troben, mirant al seu voltant veuen una habitació plena de runes amb les parets decorades de pintures d'elfs montats sobre wapitis (__cervus canadienses__) Pel terra de la sala l'**Olwë** troba un pot de ceràmica, dels pocs que queden sencers, decorat amb un druida descalç encapçalant la marxa d'uns arbustos caminadors (__què collons fumen aquests paios!!__)
@@ -1181,6 +1336,9 @@ Els exploradors desfan el camí fins arribar a la sala on hi havia el __quaudron
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20210126 ###
 
 Els protagonistes de la nostra història comencen aquest episodi retrocedint fins l'altre sala, ornamentada amb cristalls vermells, que no van gosar inspeccionar. Un cop arriben veuen que les dues balistes animades segueixen flanquejant la portalada del fons. Els aventurers s'acosten lenta i sigilosament però al arribar a uns 60 peus de distància les balistes s'activen, es posen de peu i ataquen a en **Dwarf** que, estranyament, és el que està més avançat.
@@ -1208,6 +1366,9 @@ Examinen els barrils (n'hi ha uns 210), cada barril té una runa de conservació
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20210202 ###
 
 Els aventurers retrocedeixen fins a un passadís que es desplaça cap a l'oest, sense adonar-se s'endinsen per camins fins ara inexplorats fins que arriben a una sala on es troben davant dos __rust monster__ barallant-se per un casc antic. Al detectar la **Màxima** s'acosten ensumant-la sense mostrar signes de violència, tanmateix en **Barash** li llença dues javelines iniciant un intercanvi de cops entre els exploradors i els monstres del rovell que finalitza amb la mort de les dues bèsties. Les javelines i la gran espasa de la halfling queden amb una marca de rovell que els resta part del seu poder mortífer.
@@ -1222,6 +1383,9 @@ En una sala contigua hi ha uns capolls i el capullo del mag obre el més petit, 
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20210217 ###
 
 Després d'un descans llarg els aventurers retrocedeixen i enfilen cap al nord fins trobar una porta, darrera la qual descobreixen una habitació en forma de piràmide, és fosca i a la pared nord hi ha una runa nana que resplendeix tènuament. La runa significa fred, n'**Olwë** s'apunta la runa al seu diari. Suposen que pot ser una sala de conservació d'aliments, tanmateix no tenen el coratge d'entrar-hi, de tots és conegut que als __Beholders Zombies__ els encanta el fred.
@@ -1241,6 +1405,9 @@ Una veu els interpela sobre qui son i què fan a casa seva. L'elf dedueix que é
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20210224 ###
 
 Morts els __nothic__ els protagonistes d'aquesta aventura fan una mirada a les parets que els envolten, aparentment fa molt anys que aquesta era una sala on els nans hi guardaven tota mena d'equipament, ara està fet malbé i tot resta entre pols i runa. 
@@ -1279,6 +1446,9 @@ I els lectors ens preguntem:
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ### 20210316 ###
 
 Els aventurers prenen un descans llarg per recuperar-se de les ferides. La **Màxima** no treu l'ull del **Rex**, no li perdona que l'hagi atacat a pesar de fer-ho sota l'influència dels __gibbering mouther__.
@@ -1296,6 +1466,9 @@ En Rex no aporta gaire, i a més es menja amb patates una mica del foc de l'elf!
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 ## **20-04-2021**
 
 **RESUM**
@@ -1331,6 +1504,9 @@ Albert: 000xp
 ```
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **27-04-2021**
 
 **RESUM**
@@ -1371,6 +1547,9 @@ Diari amb tots els resums a:https://xnaveira.github.io/waterdeep-diari.html
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **04-05-2021**
 
 **RESUM**
@@ -1423,6 +1602,9 @@ Albert: 625xp
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **11-05-2021**
 
 **RESUM**
@@ -1466,6 +1648,9 @@ Albert: 000xp
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **18-05-2021**
 
 **RESUM**
@@ -1533,6 +1718,9 @@ Albert: 000xp
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **25-05-2021**
 
 **RESUM**
@@ -1566,6 +1754,9 @@ Diari amb tots els resums a:https://xnaveira.github.io
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **01-06-2021**
 
 **RESUM**
@@ -1614,6 +1805,9 @@ Diari amb tots els resums a:https://xnaveira.github.io
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **08-06-2021**
 
 **RESUM**
@@ -1639,6 +1833,9 @@ Diari amb tots els resums a:https://xnaveira.github.io
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **15-06-2021**
 
 **RESUM**
@@ -1681,6 +1878,9 @@ Diari amb tots els resums a:https://xnaveira.github.io
 
 __SEPARADOR__
 
+---
+tags: [Waterdeep]
+---
 **22-06-2021**
 
 **RESUM**
@@ -1712,6 +1912,95 @@ Albert: 000xp
 
 Diari amb tots els resums a:https://xnaveira.github.io
 
+
+__SEPARADOR__
+
+---
+tags: [Phandelver]
+---
+
+A la taverna, durant una nit fosca i plena de misteri, Gundran Busca Roques s'acosta a la taula dels aventurers. Amb una mirada decidida i plena de secrets, els confessa que ha fet un descobriment de gran importància, una troballa que podria canviar el destí de molts.
+
+Amb veu ferma, els ofereix una missió: protegir un carro fins a Phandalin, un poble a tres dies de viatge des de Neverwinter. La recompensa promet ser generosa: deu monedes d'or per cap, una suma que fa brillar els ulls de tots ells.
+
+Gundran els explica que ell viatjarà amb en Sildar, un guerrer que l'ha jurat protegir. Al matí següent, reben una nota de Gundran plena de paraules d'agraïment per haver acceptat la missió. La nota també inclou indicacions sobre on poden recollir el carro i on l'han de deixar: a la botiga de Barthen, a Phandalin.
+
+El viatge és llarg, unes setanta-dues milles, i calculen que poden recórrer unes vint-i-quatre milles cada dia. En Vesnot, el mig orc forçut del grup, camina al costat del carromat amb pas ferm, mentre que en Wimus i en Oreeo s'asseuen còmodament al carro, gaudint de la vista.
+
+A la tarda, comença a ploure, i quan arriba el capvespre, decideixen buscar un lloc per passar la nit. En Wimus, amb la seva intuïció aguda, troba un racó apartat de la carretera que s'ha mantingut sec. Fan un foc per preparar el sopar, mentre l'Oreeo recull una mica d'herba fresca pels bous.
+
+Després de parlar-ho, els aventurers disposen les guàrdies per a la nit. En Vesnot, amb els seus ulls de ferro, serà el primer a vigilar. En Wimus serà l'últim, mentre que el bard, amb les seves cançons tranquil·les i la seva mirada atenta, farà la guàrdia del mig.
+
+I així, amb el foc crepitant i la pluja caient suaument, els herois es preparen per afrontar una nit plena de misteris, amb la promesa d'una aventura que tot just comença.
+
+La primera guàrdia va passar sense problemes. Quan va ser el torn de l'Oreeo, va notar que els bous estaven intranquils. El bard va agafar una torxa i es va apropar al carro, espasa en mà. A la foscor, va veure uns puntets brillants i, inquiet, va intentar despertar el mig orc Vesnot.
+
+De sobte, un llop es va abalançar ràpidament cap a en Vesnot, però per sort va fallar en el seu atac. L'Oreeo va llançar una daga amb poc encert mentre cridava en Wimus. En Vesnot va alçar la maça i va colpejar amb força el llom del llop.
+
+El llop es va tornar contra ell, clavant-li les dents a la cama. L'Oreeo, veient el seu company ferit, va apunyalar el llop, matant-lo. Tot seguit, un altre llop es va apropar i va mossegar la ferida oberta d'en Vesnot. En Wimus, corrent en ajuda del seu company, va atacar el nou llop.
+
+Un tercer llop es va llençar sobre l'Oreeo, mossegant-lo greument i fent-lo perdre la consciència. Des del bosc, una quarta bèstia es va apropar per atacar en Wimus. En Vesnot va intentar un nou atac, però va fallar estrepitosament. Un dels llops es va estavellar contra l'escut del mig orc.
+
+En Wimus va alçar la destral per atacar, però la va clavar a terra en una pífia colossal. Enmig d'aquest caos, en Vesnot va tornar a errar el seu atac. Els llops contraatacaven, però sense encert, afortunadament per als herois.
+
+Un dels cànids va mossegar el braç d'en Vesnot, fent-li una nova ferida. En Wimus va brandar la seva destral, ferint un dels llops, que va ser rematat per la maça d'en Vesnot. Un altre llop es va llençar contra en Wimus, mossegant-li la cama, mentre el darrer llop picava contra l'escut.
+
+Ple de ràbia, en Vesnot va aixafar el crani del llop amb un cop devastador. Només quedava una bèstia, ferida i esgotada. Va intentar un últim atac, però en Wimus la va partir en dos amb un poderós cop de destral.
+
+Amb la batalla acabada, els herois es van quedar en silenci, el foc crepitant a prop seu i la nit tornant a la seva tranquil·litat habitual.
+
+L'Oreeo queda estabilitzat i despre´s de dormir tota la nit es recupera de les ferides, igual que els seus companys d'aventura.
+
+## XP
+
+```
+Jordi: 000xp
+Paco: 000xp
+Bernat: 000xp
+```
+
+__SEPARADOR__
+
+---
+tags: [Phandelver]
+---
+
+Els valents aventurers es disposen a investigar el terreny i recollir el que poden. En Vesnot, amb la seva maça encara tacada de sang, comença a regirar els cossos dels goblins caiguts. Troba una petita quantitat de monedes de coure, 1 mp per cada goblin, que recull amb cura.
+
+En el procés de registre, Oreeo descobreix una sèrie d'objectes abandonats al costat dels goblins: material d'escriptura, un pic trencat i una cartera de pell amb un escut d'armes gravat. Oreeo, amb ulls plens de reconeixement, assenyala l'escut a Vesnot i Wimus, identificant-lo com l'escut de la família de Gundran, el seu amic i patró.
+
+Mentre es preparen per moure's de nou, en Vesnot nota unes petjades seques en el fang al costat del camí. Les petjades condueixen a un sender que sospiten que ha estat transitat per goblins, potser una dotzena. Això confirma les seves sospites que hi ha més perills ocults en aquest bosc.
+
+Decideixen amagar els cossos dels goblins per no alertar altres possibles enemics i mouen el carro cap a una clariana al sud per fer un descans llarg. Distribueixen les guàrdies amb Vesnot, Wimus i Oreeo vigilant al seu torn. La nit passa sense incidents, el bosc sembla haver tornat a la seva tranquil·litat habitual.
+
+Amb els primers raigs de sol, els aventurers es preparen per continuar el seu viatge. Es posen en fila índia pel sender, amb Vesnot al davant, seguit per Oreeo i Wimus. El camí s'endinsa lentament en el bosc, i el rastre és clar, però no els dóna més informació més enllà de que és un camí molt transcorregut.
+
+De cop, Vesnot nota una part del terra coberta de pinassa que sembla endreçada amb cura, una possible trampa. Sense perdre temps, alerta els seus companys i agafa un tronc pesat d’uns quaranta centímetres, llençant-lo contra la pinassa. Com esperava, un llaç corredís s'alça cap a les copes dels arbres, revelant la trampa oculta.
+
+Avançant amb precaució, en Vesnot observa un altre indici de perill: un grup de tronquets i branques juntes, una trampa-pou. Amb els sentits aguts i la prudència com a guia, els aventurers senten que s'apropen al seu destí.
+Finalment, seguint el curs d'un petit rierol, arriben a una clariana on el riu s'endinsa dins la muntanya junt amb el sender. L'aigua clara reflecteix la llum del sol matinal, i els nostres herois es preparen per al que els espera a l'interior de la muntanya, sabent que cada pas els acosta més a la veritat i a possibles nous perills.
+
+## XP
+
+```
+Jordi: 75xp
+Paco: 75xp
+Bernat: 75xp
+```
+
+__SEPARADOR__
+
+---
+tags: [Phandelver]
+---
+
+## XP
+
+```
+Jordi: 100xp
+Paco: 75xp
+Bernat: 75xp
+```
 
 __SEPARADOR__
 
