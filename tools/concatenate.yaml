@@ -1,0 +1,34 @@
+name: Concatenate Text Files
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  concatenate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Concatenate files
+      run: |
+        mkdir -p archive
+        truncate -s 0 archive/concatenated.txt
+        for file in `ls -1 _posts`; do
+          cat _posts/$file >> archive/concatenated.txt
+          echo >> archive/concatenated.txt
+          echo __SEPARADOR__ >> archive/concatenated.txt
+          echo >> archive/concatenated.txt
+        done
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add archive/concatenated.txt
+        git commit -m "Concatenated text files"
+        git push
