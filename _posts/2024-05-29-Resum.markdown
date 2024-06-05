@@ -1,0 +1,27 @@
+---
+tags: [Phandelver]
+---
+
+Els aventurers apilen els cossos en un racó de la cova i estiren en Sildar, que encara lluita per mantenir la consciència.
+
+En Vesnot, amb els seus sentits aguditzats, detecta en el passadís la presència de dos goblins que els vigilen. Sense perdre temps, en Wismus s'apropa al primer goblin, brandant la seva espasa, i el talla des de l'espatlla esquerra fins l'engonal amb un sol moviment fluid i precís.
+
+Ràpid com un esquirol acromegàlic, en Vesnot s'abalança sobre el segon goblin, però erra el seu cop. El goblin contraataca, amb poca traça, i colpeja la paret abans de fugir corrents.
+
+Els tres aventurers corren desesperadament per evitar que el goblin doni l'alarma. De sobte, topen amb una brigada de goblins que intenten contenir-los. El primer goblin llança una estocada que impacta contra l'escut del mig-orc. En Vesnot crida de forma intimidatòria, però els goblins romanen impassibles.
+
+En Wismus es despenja del pont i cau sorollosament. L'Oreeo s'apropa al pont i lliga una corda per anar a ajudar-lo. En Vesnot deixa anar la seva defensa i ataca amb les dues mans, però el goblin inclina l'escut fent relliscar l'arma. El darrer goblin abandona el seu company a l'estacada i fuig.
+
+L'Oreeo es despenja suaument pel pont i, invocant unes paraules màgiques, restableix la vitalitat d'en Wismus. Aquest s'aixeca d'una revolada, corre pel passadís superior i, amb la seva gran destral, ataca per l'esquena el goblin que, encarat a en Vesnot, no veu venir l'atac i cau mort als peus dels seus enemics.
+
+En Vesnot s'aboca a la carrera darrere del fugitiu. En plena cursa, es troba dins d'una sala plena de provisions, amb un foc encès al bell mig. Aquesta sala fa poc que ha estat usada. Sense aturar-se, escolta atentament si sent algunes passes. Es para just al costat d'un forat que es perd en la foscor.
+
+Però en Vesnot no està sol. És emboscat per tres goblins amb males intencions. Dos d'ells l'ataquen per sorpresa. El primer li obre una ferida a la cama, mentre que l'altre s'encalla amb un sac de provisions, perdent la cimitarrra en l'atac.
+
+## XP
+
+```
+Jordi: xp
+Paco: xp
+Bernat: xp
+```
