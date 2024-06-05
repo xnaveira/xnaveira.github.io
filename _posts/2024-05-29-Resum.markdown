@@ -21,7 +21,7 @@ Però en Vesnot no està sol. És emboscat per tres goblins amb males intencions
 ## XP
 
 ```
-Jordi: xp
-Paco: xp
-Bernat: xp
+Jordi: ??? xp
+Paco: ??? xp
+Bernat: ??? xp
 ```
