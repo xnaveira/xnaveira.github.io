@@ -1,0 +1,42 @@
+---
+tags: [Phandelver]
+---
+En un racó fosc de la sala, s'albirava un goblin corpulent amagat darrere unes caixes, acompanyat per una criatura peluda que respirava de manera pesant. Oreeo va irrompre a l'estança, buscant en Vesnot. A l'esquerra, va detectar un goblin. Amb rapidesa, va tibar l'arc i va clavar una fletxa al cap de la criatura, traspassant-la de costat a costat.
+
+Poc després, Wismus va entrar a la sala, va carregar la seva ballesta i, amb precisió, va abatre un goblin que es trobava prop de Vesnot. Però de sobte, de darrere les caixes, va emergir un llop de les tenebres que es va llançar sobre Wismus, mossegant-lo amb força i deixant-lo inconscient.
+
+Un dels goblins que envoltaven Vesnot va aprofitar la distracció i l'atacà, causant-li una ferida profunda. Enmig del caos, Clarck el bugbear, dominant la situació, va amenaçar els aventurers amb una veu roncada: "Sòmines, com goseu entrar en el meu domini!"
+
+Un altre goblin s'apropà al bard amb intenció de venjar-se, però aquest l'esquivà amb gràcia. El llop, sense donar treva, es va llançar sobre Oreeo, fent-lo caure a terra però sense causar-li ferides. Mentre a l’altre combat, el mig orc, furiós, va brandir la seva maça de guerra i va destrossar la caixa toràcica del goblin, matant-lo a l'instant. 
+
+Vesnot va avançar cap al bugbear, brandint la seva maça, i li va provocar una ferida greu. En Clark, va agafar una morningstar y féu un atac que acabà al terra, aixecant guspires. 
+
+Mentre un goblin fallava un altre atac contra el músic de la companyia aquest aixecà la veu per inspirar al seu company:"Vesnot, tros de… vull dir gran guerrer, acaba amb ells!". 
+
+Després d'un tercer intent, el goblin aconseguí ferir el bard, que es defensava amb totes les seves forces. Malgrat les ferides, el bard va travessar el cor del llop amb la seva espasa quan aquest intentava atacar-lo.
+
+"Per aquesta intrusió, morireu com porcs a l'escorxador!", va rugir Clark, colpejant Vesnot a la templa, un cop com aquest hagués deixat qualsevol estès al terra però ell va conseguir mantenir-se dret. 
+
+Vesnot tornà a atacar el bugbear, causant-li una altra ferida. El bard, amb una espasa afilada, va clavar-la en un goblin com si fos una oliva, però no va ser suficient per matar-lo. En un últim acte de desesperació, Clark va fugir cap al forat que portava a la cambra dels llops, mentre un goblin atacava el bard, fallant, i després corria cap al seu cap.
+
+Vesnot, decidit a acabar amb la batalla, va llançar una javelina que va empalar el goblin, i s'acostà al pou per veure el bugbear. Clark estava descendint pel pou, havia avançat un metre i mig però encara li quedaven set metres i mig. Vesnot, sense perdre temps, va llançar un goblin pel pou, fent que Clark perdés l’equilibri i caigués, morint pels cops rebuts.
+
+El silenci regnava a la sala i era moment d’atendre els ferits, van poder auxiliar en Wimus que va recuperar la consciència.
+
+L'habitació estava plena de subministraments, la majoria amb el blasó del lleó blau. Entre els objectes, trobaren cinc monedes de coure i un cofre en un racó que contenia 600 monedes de coure, 110 monedes de plata, dues ampolletes amb líquid curatiu, i una estàtua de jade d’una granota amb ulls d’or, valorada en 40 monedes d'or.
+
+Sildar, que els va trobar a la sala després de despertar-se de les seves feride, amb veu seriosa, els va explicar que Clark tenia ordres de l'Araña Negra per atrapar en Gundren, i se l'havien emportat al Castell Cragmaw. Li havien pres el mapa de la Cova de l’Eco. Sildar identificà el blasó del lleó blau com el de Lionshield Coster.
+
+Després d'escoltar les paraules de Sildar, Oreeo va proposar recollir totes les provisions, carregar-les al carro i dirigir-se cap a Phandalin per recuperar-se i planificar el rescat d'en Gundren. Els aventurers, decidits a obtenir més informació, interroguen Yemick, qui els proporcionà detalls sobre com arribar al Castell de Cragmaw, més enllà de Phandalin, cap al nord, enmig del bosc.
+
+Poc a poc, carregaren el carro amb els subministraments. Finalment, Sildar executà Yemick amb una ràpida decisió. Seguint pel camí, el bosc es transformà en camps de blat daurats. Al fons, s'alçava Phandalin, un poble construït sobre antigues ruïnes, un lloc habitat, reconstruït i ple de vida. Les vies amples estaven plenes de gent, vilatans fent les seves tasques diàries.
+
+Els aventurers es dirigiren cap a Stonehill, un hostal gran construït amb pedres i troncs, on esperaven recuperar-se i planificar els seus següents passos.
+
+## XP
+
+```
+Jordi: ??? xp
+Paco: ??? xp
+Bernat: ??? xp
+```
