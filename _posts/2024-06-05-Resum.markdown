@@ -36,7 +36,7 @@ Els aventurers es dirigiren cap a Stonehill, un hostal gran construït amb pedre
 ## XP
 
 ```
-Jordi: ??? xp
-Paco: ??? xp
-Bernat: ??? xp
+Jordi: 75 xp
+Paco: 75 xp
+Bernat: 75 xp
 ```
