@@ -1,0 +1,29 @@
+---
+tags: [Phandelver]
+---
+
+Els aventurers arriben a Phandalin amb en Sildar, que els suggereix d’establir-se a l’hostal Stonehill. Quan arriben a la fonda, veuen que el propietari, en Toblen Stonehill, està ocupat atenent un gnom d’aspecte misteriós. Un cop obtingudes les habitacions, es dirigeixen al saló comú a dinar.
+  
+
+Troben una taula on asseure’s, i el gnom misteriós que havien vist a l’entrada se’ls acosta i pregunta si pot seure amb ells. Accepten, una mica encuriosits. El gnom es presenta amb un nom que sembla tret d’un conte de fades: Gimble Tinkertop. Amb en Gimble fent-los companyia, la colla es troba xerrant amb la cambrera de l’establiment i alguns dels parroquians. Alguns dels fets clau que s’assabenten durant la tarda:
+
+  
+• Sembla que hi ha un grup de rufians al poble anomenats “La Marca Vermella”, que estan causant tot tipus de problemes i embolics.
+
+• La cambrera coneix un antic aventurer retirat que es queixa sovint de la situació i voldria fer fora els rufians del poble, però no pot fer-ho sol.
+
+• Quan parlen amb un grup de miners que estan dinant, aquests es queixen que els orcs els ataquen sovint i els prenen el material i les poques monedes que tenen. Sembla ser que l’alcalde del poble ha posat una recompensa per a qui elimini l’amenaça dels orcs. També mencionen que la Halia Thornton, cap del gremi de miners, pot tenir més informació sobre els orcs i sobre La Marca Vermella.
+
+• El fill de l’amo de l’hostal, en Pip, explica que el seu amic Carp, que viu a la granja Alderleaf, va trobar un túnel misteriós d’on van sortir “dos senyors lletjos amb robes vermelles”. Per sort, no el van arribar a veure.
+
+  
+La companyia, atabalada amb tant de safareig i rumors, decideix anar a entregar l’equipament que en Gundren els havia encomanat portar a la botiga de provisions Barthen. El propietari, en Elmar Barthen, els ofereix pagar-los 10 monedes d’or a cadascú per l’entrega. El gnom, en un gest sorprenentment honest i gens caòtic-neutral, refusa el pagament, doncs ell no ha estat part de l’expedició per l’entrega del material. En Elmar s’entristeix en assabentar-se de la desaparició d’en Gundren i encoratja la companyia a intentar trobar-lo. Els seus germans, en Nundro i en Tharden, estan acampats a les afores del poble fent treballs de prospecció i haurien de tornar aviat a reprovisionar-se. En Elmar s’ofereix a informar-los de la desaparició d’en Gundren.
+
+## XP
+
+```
+Jordi: 0 xp
+Paco: 75 xp
+Bernat: 75 xp
+Jaume: 75 xp
+```
