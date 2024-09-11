@@ -57,7 +57,7 @@ Llocs:
 8. **Bosc de Neverwinter** \- Prop de Thundertree, és on viu Reidoth el Druida.  
 9. **Camí del nord Triboar** \- Camí del nord on hi ha presència d’orcs.
 
-##XP
+## XP
 
 ```
 Jordi: 50xp
