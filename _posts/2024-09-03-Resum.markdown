@@ -1,3 +1,7 @@
+---
+tags: [Phandelver]
+---
+
 El grup d'aventurers es desperta a l'hostal *Stonehill*. Tenen moltes investigacions per endavant, però el seu primer pas és dirigir-se cap al *Lionshield Coster* per tornar les pertinences rescatades dels goblins. L'edifici, un magatzem de fusta robusta, és atès per una dependenta que es sobresalta en veure'ls arribar. Les paraules assossegadores de l'**Oreeo** la tranquil·litzen, i ràpidament s'estableix una conversa amb la **Linene**. La dona els explica que, darrerament, molts enviaments han desaparegut, i culpa la *Marca Vermella*. El bard aclareix que aquests enviaments en particular els van recuperar de les coves dels goblins, i tot seguit els hi lliuren. Agraïda, la Linene decideix compensar-los amb un saquet de cinquanta monedes d'or, que el bard accepta tot fent un petó a la mà de la dependenta.
 
 Amb la bossa una mica més plena, els nostres herois decideixen encaminar-se cap a la *Casa de Canvi dels Miners de Phandalin*, on tenen previst visitar la **Halia Thornton**. La *Casa de Canvi* és un edifici imponent, rivalitzant amb l'ajuntament per ser el més gran del poble. A l'interior, un saló bulliciós ple de comerciants negociant crea un ambient que recorda el d'un banc. Un buròcrata els rep amb una mirada freda i, després de fer-los esperar més del compte, finalment els fa passar. Creuen diverses estances adornades amb catifes luxoses, vitralls acolorits, i mobles de fusta noble, una ostentació evident de la riquesa de la institució.
@@ -49,4 +53,12 @@ Llocs:
 6. **Vell Pou del Mussol** \- Un lloc al nord, on un grup de miners es va trobar amb zombis; es creu que hi ha activitat nigromàntica relacionada amb una antiga torre de la civilització Netherin.  
 7. **Granja Alderleaf** \- Llar de Qelline Alderleaf i Carp, un punt d'interacció per obtenir més informació sobre els goblins i altres perills a la zona.  
 8. **Bosc de Neverwinter** \- Prop de Thundertree, és on viu Reidoth el Druida.  
-9. **Camí del nord Triboar** \- Camí del nord on hi ha presència d’orcs. 
+9. **Camí del nord Triboar** \- Camí del nord on hi ha presència d’orcs.
+
+```
+## XP
+Jordi:
+Bernat:
+Paco:
+Jaume:
+```
