@@ -1,0 +1,64 @@
+---
+tags: [Phandelver]
+---
+
+El grup d'aventurers es desperta a l'hostal *Stonehill*. Tenen moltes investigacions per endavant, però el seu primer pas és dirigir-se cap al *Lionshield Coster* per tornar les pertinences rescatades dels goblins. L'edifici, un magatzem de fusta robusta, és atès per una dependenta que es sobresalta en veure'ls arribar. Les paraules assossegadores de l'**Oreeo** la tranquil·litzen, i ràpidament s'estableix una conversa amb la **Linene**. La dona els explica que, darrerament, molts enviaments han desaparegut, i culpa la *Marca Vermella*. El bard aclareix que aquests enviaments en particular els van recuperar de les coves dels goblins, i tot seguit els hi lliuren. Agraïda, la Linene decideix compensar-los amb un saquet de cinquanta monedes d'or, que el bard accepta tot fent un petó a la mà de la dependenta.
+
+Amb la bossa una mica més plena, els nostres herois decideixen encaminar-se cap a la *Casa de Canvi dels Miners de Phandalin*, on tenen previst visitar la **Halia Thornton**. La *Casa de Canvi* és un edifici imponent, rivalitzant amb l'ajuntament per ser el més gran del poble. A l'interior, un saló bulliciós ple de comerciants negociant crea un ambient que recorda el d'un banc. Un buròcrata els rep amb una mirada freda i, després de fer-los esperar més del compte, finalment els fa passar. Creuen diverses estances adornades amb catifes luxoses, vitralls acolorits, i mobles de fusta noble, una ostentació evident de la riquesa de la institució.
+
+Al seu despatx, una dona de rostre seriós es presenta com **Halia Thornton**. Coneix de nom en **Gundren**, tot i que no és del gremi. Ràpidament, comença a relatar les penúries dels miners, assaltats en els camins i privats dels seus diners i dels materials amb què la *Casa de Canvi* s'enriqueix. **Halia** veu una clara connexió entre els orcs i la *Marca Vermella*, afirmant que sovint es reuneixen a la taverna del *Gegant Adormit* i han estat vistos amb goblins.
+
+**Gimble Tinkertop** ofereix hàbilment els serveis de la tropa, i poc a poc arriben al moll de l'os dels problemes de **Halia**. El líder de la *Marca Vermella* és un conjurador conegut com a **Vara de Vidre**, i ella estaria disposada a pagar per la seva desaparició. Segons **Halia**, es pot trobar a l'antiga mansió *Tresendar*. Després de negociar, el gnom i el bard aconsegueixen establir una recompensa de cent vint monedes d'or, més una moneda d'or per cada bandit abatut.
+
+Els aventurers surten de l'edifici amb la sensació inquietant que Halia no els ha explicat tota la veritat i que té interessos ocults. El capvespre s'acosta, però els nostres herois decideixen aprofitar les darreres hores de llum per visitar *Edermath Orchard*, una granja als afores del poble, on esperen trobar un aventurer retirat que podria donar-los informació valuosa sobre les amenaces de la regió.
+
+Un raig de llum es filtra per les finestres de la casa. El gnom pica la porta, i un home vell amb barba gris-blanca els obre. Quan expliquen el seu interès per ajudar amb els rufians que molesten els vilatans, els convida a entrar per parlar amb més calma. La casa és petita, ben cuidada i acollidora. A la paret, hi ha una gran destral i records d'aventures passades que deixen entreveure un passat de combatent. Vesnot fa servir la seva eloqüència per establir un vincle amb l'antic guerrer, qui declara que, si l'*Ordre del Guantalet* encara estigués activa, aquests lladres no rondarien per les carreteres.
+
+Tot seguit, l'ancià els fa cinc cèntims de la informació que ha anat recollint: els bandits de la *Marca Vermella* es troben a *Tresendar* i tenen goblins al seu servei; molts d'ells s'emborratxen al *Gegant de Pedra*. El líder, **Vara de Vidre**, és un mag, i es sorprèn que ja ho sàpiguen. Però hi ha una altra preocupació que el turmenta: la *Marca Vermella* i els goblins no són l'únic problema. Un grup de miners va tenir un encontre inusual al *Vell Pou del Mussol*, a dos dies al nord, mentre buscaven una entrada a la mina, van ser atacats per un grup de zombis. **Gimble** sospita que podria ser obra d'un nigromant. A prop de la zona, hi ha una antiga torre de la civilització *Netherin*, i ell creu que aquest antic poder s'ha reactivat, creant els zombis. El *Vell Pou del Mussol* està en el camí de *Triboar*, on també s'ofereix una recompensa per netejar-lo d'orcs.
+
+El gnom mostra interès per saber què s'extreu de la mina. El més comú és l'or, la plata, i en rares ocasions, el mithril, però la majoria dels buscadors busquen la *Cova de l'Eco* i l'antiga forja màgica, on, segons les llegendes, els elfs de l'antiguitat forjaven els seus artefactes llegendaris.
+
+El mag del grup encamina la conversa per esbrinar qui practica màgia al poble. A part de **Vara de Vidre**, el granger no coneix ningú més, tret d'un druida que viu als afores del poble. **Vesnot** l'anima a unir-se a la seva causa, però ell rebutja la invitació, i, fins i tot, es nega a deixar-los la seva destral de guerra. Res el farà separar-se de la seva estimada arma.
+
+La nit els atrapa mentre tornen a l'hostal. El bard delecta els parroquians amb unes cançons, i amb els diners que li paga l'hostaler, ofereix una ronda de cervesa per a tots els seus companys.
+
+L'endemà, es lleven ben d'hora per encaminar-se cap a la granja *Alderleaf*. Quan són a uns metres d'arribar, els surt a l'encontre una hobbit de mitjana edat. **Qelline Alderleaf** és una granjera de cap a peus i la mare de **Carp**. **Gimble** intenta convèncer-la perquè **Carp** els acompanyi fins als túnels d'on havia vist sortir els goblins, però ella no es mostra del tot convençuda. La vella mansió *Tresendar* té cellers plens de túnels i soterranis, que diu que són perillosos. Finalment, crida **Carp**, que assenyala als aventurers l'entrada que busquen.
+
+Abans de separar-se, **Qelline** els demana un favor: el seu amic **Reidoth el Druida**, que viu als afores del poble. Agrairia que comprovessin si està bé. Ell podria ser d'ajuda, ja que coneix pam a pam tota la regió. **Reidoth** viu a l'oest del *Bosc de Neverwinter*, prop de *Thundertree*.
+
+Personatges:
+
+1. **Linene** \- La dependenta del Lionshield Coster, agraïda amb els aventurers per recuperar els enviaments robats.  
+2. **Halia Thornton** \- Administradora de la Casa de Canvi dels Miners. Proposa una missió per eliminar el líder de la Marca Vermella, conegut com a Vara de Vidre.  
+3. **Reidoth el Druida** \- Un druida que viu a les afores del poble. Qelline Alderleaf demana als aventurers que comprovin si està bé.  
+4. **Qelline Alderleaf** \- Una hobbit granjera de cap a peus, mare de Carp. Sol·licita als aventurers que ajudin el seu amic Reidoth.  
+5. **Carp** \- El fill de Qelline Alderleaf, que ha vist túnels que podrien estar ocupats per goblins.  
+6. **L'ancià d'Edermath Orchard** \- Un vell aventurer retirat, antic membre de l'Ordre del Guantalet, que proporciona informació clau sobre els enemics a la zona.  
+7. **Vara de Vidre** \- El líder de la Marca Vermella, un mag conjurador que s'ha convertit en objectiu dels aventurers.
+
+Encàrrecs:
+
+1. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d'una recompensa. El poden trobar a la mansió Tresendar  
+2. **Inspecció del Vell Pou del Mussol** \- Investigació sobre els zombis trobats al Vell Pou del Mussol, un possible lloc on hi ha activitat nigromàntica i una recompensa per netejar la zona d'orcs.  
+3. **Netejar el camí de Triboar de orcs**  
+4. **Verificar la seguretat de Reidoth el Druida** \- Assegurar-se que Reidoth el Druida està bé, ja que és un conegut de Qelline Alderleaf i coneix bé la regió.
+
+Llocs:
+
+1. **Hostal Stonehill** \- Lloc on es desperta el grup d'aventurers, punt de partida de l'aventura.  
+2. **Lionshield Coster** \- Magatzem on Linene treballa i on els aventurers retornen les pertinences robades.  
+3. **Casa de Canvi dels Miners de Phandalin** \- Un edifici impressionant on els aventurers es reuneixen amb Halia Thornton i negocien la missió contra Vara de Vidre.  
+4. **Edermath Orchard** \- Granja a les afores del poble, on viu un vell aventurer retirat que ofereix informació sobre els bandits i altres amenaces.  
+5. **Mansió Tresendar** \- Una antiga mansió que ara és la base de la Marca Vermella i el possible amagatall de Vara de Vidre.  
+6. **Vell Pou del Mussol** \- Un lloc al nord, on un grup de miners es va trobar amb zombis; es creu que hi ha activitat nigromàntica relacionada amb una antiga torre de la civilització Netherin.  
+7. **Granja Alderleaf** \- Llar de Qelline Alderleaf i Carp, un punt d'interacció per obtenir més informació sobre els goblins i altres perills a la zona.  
+8. **Bosc de Neverwinter** \- Prop de Thundertree, és on viu Reidoth el Druida.  
+9. **Camí del nord Triboar** \- Camí del nord on hi ha presència d’orcs.
+
+```
+## XP
+Jordi:
+Bernat:
+Paco:
+Jaume:
+```
