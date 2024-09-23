@@ -41,8 +41,8 @@ Els aventurers s’encaminen cap a la sortida del darrere. En Vesnot, que es que
 ## XP
 
 ```
-Jordi: 0xp
-Bernat: 0xp
-Paco: 0xp
-Jaume: 0xp
+Jordi:  25xp
+Bernat: 25xp
+Paco:   25xp
+Jaume:  50xp
 ```
