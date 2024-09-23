@@ -1,3 +1,9 @@
+---
+tags: [Phandelver]
+---
+
+# 17-09-2024
+
 Mentre la **Qelline Alderleaf** s'allunya amb el seu fill agafat de la mà, els aventurers es queden sospesant les diferents possibilitats que tenen davant i, finalment, decideixen postposar l’assalt a *Tresendar Manor* fins que es faci fosc. 
 
 Mentre esperen que l’astre es pongui, fan un passeig pel poble en direcció a la taverna del *Gegant Adormit*. El barri es va degradant a mesura que avancen; les façanes són descuidades i les ombres es fan més llargues. Després d'una estona, arriben davant de la taverna. L’aspecte de l’edifici és gairebé ruinós; al porxo, quatre ganàpies passen l’estona bevent d’unes gerres greixoses, riure a crits que trenca el silenci del vespre. Tots quatre porten capes brutes, on amb prou feines es distingeix encara el color escarlata.
@@ -31,3 +37,12 @@ L’últim bandit, aliè a la seva inferioritat, ataca en **Wimuss**, fent-li do
 La fúria del combat deixa pas a un silenci sepulcral. El bard, després de llançar un encanteri curatiu sobre en **Gimble**, recull les quatre capes i reparteix les deu monedes de plata que troben als cadàvers. El somriure del cambrer ha desaparegut, substituït per una expressió de por. Amb veu tremolosa, confirma que la *Marca Vermella* s’ha apropiat de la taverna des de fa temps i que ell col·labora per pura supervivència.
 
 Els aventurers s’encaminen cap a la sortida del darrere. En Vesnot, que es queda enrere arrossegant els cadàvers, s’adona que està sol i surt ràpidament per reunir-se amb els seus companys abans que els altres tornin.
+
+## XP
+
+```
+Jordi: 0xp
+Bernat: 0xp
+Paco: 0xp
+Jaume: 0xp
+```
