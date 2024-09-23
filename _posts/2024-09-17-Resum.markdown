@@ -1,0 +1,48 @@
+---
+tags: [Phandelver]
+---
+
+# 17-09-2024
+
+Mentre la **Qelline Alderleaf** s'allunya amb el seu fill agafat de la mà, els aventurers es queden sospesant les diferents possibilitats que tenen davant i, finalment, decideixen postposar l’assalt a *Tresendar Manor* fins que es faci fosc. 
+
+Mentre esperen que l’astre es pongui, fan un passeig pel poble en direcció a la taverna del *Gegant Adormit*. El barri es va degradant a mesura que avancen; les façanes són descuidades i les ombres es fan més llargues. Després d'una estona, arriben davant de la taverna. L’aspecte de l’edifici és gairebé ruinós; al porxo, quatre ganàpies passen l’estona bevent d’unes gerres greixoses, riure a crits que trenca el silenci del vespre. Tots quatre porten capes brutes, on amb prou feines es distingeix encara el color escarlata.
+
+En veure arribar el grup d’aventurers, els canalles de la *Marca Vermella* s'hi encaren amb burles. El bard no es mossega la llengua i fa befa insinuant que entre ells mantenen relacions carnals, provocant ganyotes d'indignació.
+
+Un silenci tens s’estén entre els dos grups, fins que, del fons del carrer, se sent una veu burleta. El cap del grup envia un dels seus homes a investigar, però la veu continua burxant i vilipendiant els malfactors. Quan la veu menciona la mare d'un d’ells, cauen sota la provocació i tots quatre es llencen carrer avall per localitzar-ne l'autor i fer-li la pell. En **Gimble** somriu per sota el nas: el seu pla ha funcionat a la perfecció.
+
+Davant la desbandada, els protagonistes entren a la taverna. Una fortor de cervesa rància els colpeja a l’entrar, i l’aspecte interior no és millor que l’exterior. Quatre comensals amb capa carmesí beuen xupitos d’un licor transparent, probablement destil·lat a la rebotiga. Armats amb espases curtes, van molt bruts i semblen uns desgraciats que han trobat en la comunitat de malfactors l’única manera d’anar tirant. El cambrer, divertit, mira els nouvinguts mentre eixuga els gots amb un drap brut, sabent que la situació es posarà interessant.
+
+En veure’ls entrar, els bergants repassen el grup de dalt a baix, amb la confiança dels qui han sembrat el terror durant massa temps. Amb un somriure sardònic, exigeixen que els donin totes les monedes que porten a sobre.
+
+En un obrir i tancar d’ulls, en **Wimuss** treu l’arc i tensa una fletxa, el cor bategant amb intensitat. El xerric de les espases sortint de les beines trenca el silenci dins la taverna, com un cop de tambor que anuncia la batalla.
+
+En **Vesnot** fa un pas endavant, intimidant-los amb la seva veu potent i el seu aspecte ferotge. Un d’ells fa un pas enrere, dubtant, i consulta amb el seu cap, que, sense vacil·lar, l’esperona a atacar el mig orc.
+
+Tot passa en segons. En **Vesnot**, enfurit, alça l’escut i es protegeix abans de descarregar amb tota la seva força la maça sobre el més aguerrit dels **Capes Vermelles**. Aquest, malferit, es torna amb dos atacs ràpids: el primer rebota contra l’escut, però el segon fereix el mig orc, que deixa escapar un gruny de dolor.
+
+Un altre rufià s’abalança sobre el bard, ferint-lo greument. El bard contraataca amb un conjur, però amb poc efecte. En **Wimuss** i en **Gimble** s’afanyen a donar-li suport: el guerrer llença una fletxa que encerta una zona no protegida de l’armadura, causant poc dany, mentre el mag alça la mà i conjura un gas que fa tossir la seva víctima, deixant-lo momentàniament desorientat entre riallades de burla.
+
+Al flanc dret de la taverna, un *Capa Vermella* llança dos atacs seguits sobre en **Wimuss**, ferint-lo profundament, mentre a l’altre costat un bandit avança sobre en **Gimble**, deixant-lo gairebé inconscient. Amb un gran esforç, el gnom aixeca la mà i conjura flames que giravolten al voltant del seu atacant, il·luminant la taverna amb un brill intens.
+
+L’**Oreeo**, exhaust i acorralat, llança una ona de tro que fa volar els dos bandits fora del seu abast, l'impacte ressonant com un tro. Un d’ells cau prostrat als peus d’en **Vesnot**, que no perd l’oportunitat de xafar-li el crani amb un cop sonor.
+
+El líder del grup, en veure el seu company caigut, torna a atacar el bàrbar. El mig orc esquiva amb agilitat la primera escomesa i, aprofitant l’equilibri perdut del bandit, prem amb força la seva maça i descarrega un cop brutal, donant mort al seu contrincant, que s'enfonsa a terra.
+
+El gnom conjura un encanteri defensiu, una aura blavosa l'envolta, però el bandit que l’encara no es deixa impressionar i l’abat amb un cop d’espasa, deixant-lo inconscient. El bard, veient-ho de lluny, agafa l’arc i fletxa, travessant el bandit d’orella a orella amb un sol tir precís que fa caure el cos sense vida al terra.
+
+L’últim bandit, aliè a la seva inferioritat, ataca en **Wimuss**, fent-li dos talls profunds. El guerrer deixa l’arc i treu la seva temuda destral de dues mans, una arma de mort. Amb dos atacs brutals acorrala el bandit, que, espantat, falla el seu darrer intent d’atac. Serà el seu últim, perquè en **Wimuss**, amb els artells blancs de tanta força, enfonsa la destral de guerra des del coll fins a l’estèrnum, el cop de la destral ressona per la taverna.
+
+La fúria del combat deixa pas a un silenci sepulcral. El bard, després de llançar un encanteri curatiu sobre en **Gimble**, recull les quatre capes i reparteix les deu monedes de plata que troben als cadàvers. El somriure del cambrer ha desaparegut, substituït per una expressió de por. Amb veu tremolosa, confirma que la *Marca Vermella* s’ha apropiat de la taverna des de fa temps i que ell col·labora per pura supervivència.
+
+Els aventurers s’encaminen cap a la sortida del darrere. En Vesnot, que es queda enrere arrossegant els cadàvers, s’adona que està sol i surt ràpidament per reunir-se amb els seus companys abans que els altres tornin.
+
+## XP
+
+```
+Jordi: 0xp
+Bernat: 0xp
+Paco: 0xp
+Jaume: 0xp
+```
