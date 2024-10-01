@@ -2,7 +2,7 @@
 tags: [Phandelver]
 ---
 
-# 01-10-2024
+# 25-09-2024
 
 Els aventurers es retiren a *Stonehill* per descansar una estona. Mentre gaudeixen d’un àpat, el posader s’acosta per interessar-se per la seva estada. Els comenta que en **Síldar** probablement es troba a l’ajuntament amb l’alcalde, intentant mantenir l’ordre. El taverner està preocupat per la *Marca Vermella*, un grup de bandits que ha estat causant problemes, i espera que algú els doni una lliçó aviat.
 
@@ -37,8 +37,8 @@ Encàrrecs:
 ## XP
 
 ```
-Jordi:  xp
-Bernat: xp
-Paco:   xp
-Jaume:  xp
+Jordi:  50 xp
+Bernat: 50 xp
+Paco:   50 xp
+Jaume:  0 xp
 ```
