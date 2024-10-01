@@ -1,0 +1,44 @@
+---
+tags: [Phandelver]
+---
+
+# 01-10-2024
+
+Els aventurers es retiren a *Stonehill* per descansar una estona. Mentre gaudeixen d’un àpat, el posader s’acosta per interessar-se per la seva estada. Els comenta que en **Síldar** probablement es troba a l’ajuntament amb l’alcalde, intentant mantenir l’ordre. El taverner està preocupat per la *Marca Vermella*, un grup de bandits que ha estat causant problemes, i espera que algú els doni una lliçó aviat.
+
+La mansió *Tresendar*, abandonada des de fa temps, és un altre punt de preocupació. La família Tresendar, que havia estat influent en el passat, es va mudar, deixant l’edifici buit i en ruïnes.
+
+Els aventurers decideixen dirigir-se cap a l’ajuntament. L’edifici antic desprèn història amb cada maó. A una de les finestres, poden veure una figura semblant a la portera amb mala baba de l'escola que havien anat d'infants. Mentre fan plans, recorden la recompensa oferida per eliminar els orcs de *Wyvern Tor*: 100 monedes d'or.
+
+Arriben a l'ajuntament per parlar amb **Síldar**. Aquest, membre de l'*Aliança dels Lords*, els rep en el seu "despatx". Els mobles són rics però sense ostentació. Els aventurers li presenten en **Gimble** i ofereixen els seus serveis per expulsar la *Marca Vermella*. **Síldar** els informa que l’alcalde està mort de por, i afegeix que la *Marca Vermella* són només titelles; el veritable perill és el castell de *Cragmaw*. Per netejar el castell, *Síldar* ofereix 500 monedes d’or, tot i que admet que no sap on es troba exactament.
+
+Els aventurers es dirigeixen cap a un túnel que condueix a la mansió *Tresendar*. És un pas estret i humit, amb goteres, i una tènue resplendor al final. Arriben a una sala dividida per un barranc, que desprèn una forta olor de carn podrida. **Oreeo**, el bard, comenta que probablement hi ha un cadàver proper.
+
+De sobte, apareix en **Nothic**, una criatura famèlica i curiosa. El **Nothic**, famolenc, s’interessa per **Oreeo**, qui intenta calmar-lo dient que han vingut per assegurar-se que tingui menjar. Més tard, el **Nothic** demana a **Vesnot** que li reveli alguna certesa. En resposta, el migorc s'inventa que hi ha un elefant rosa, però el **Nothic** es cansa d'aquestes bromes. Abans de perdre del tot la paciència, el **Nothic** els adverteix que a les cambres inferiors hi ha goblins i bugbears.
+
+El combat esclata. **Vesnot** colpeja el **Nothic** amb la seva maça, i **Wimuss** ataca dues vegades sense èxit. **Oreeo** clava una fletxa, mentre **Gimble** s'acosta i allibera un gas pudent que afecta la criatura. El **Nothic** contraataca amb un atac mental contra **Vesnot**, però aquest el resisteix amb força.
+
+Després de diversos atacs, **Oreeo** toca unes notes discordants que destrossen la ment del **Nothic**, matant-lo.
+
+Amb la criatura derrotada, continuen explorant la mansió. Llencen el cos del **Nothic** a la fissura del barranc i avancen fins a una sala magatzem de pedra plena de barrils i caixes amb eines d’embalatge. Durant la recerca, descobreixen una porta secreta que condueix a una armeria. En **Gimble** agafa una ballesta i virots.
+
+Més endavant, troben la cripta de la família *Tresendar*. Recolzat en un dels sarcòfags, hi ha un esquelet amb cota de malla, una espasa curta i un arc. Sembla ser el guardià de la cripta, però no està actiu.
+
+Finalment, obren una porta i es troben amb uns presoners, tancats en una cel·la.
+
+Encàrrecs:
+
+1. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort)  
+2. **Inspecció del Vell Pou del Mussol** \- Investigació sobre els zombis trobats al Vell Pou del Mussol, un possible lloc on hi ha activitat nigromàntica i una recompensa per netejar la zona d’orcs.  
+3. **Netejar el camí de Triboar de orcs** (*Wyvern Tor*) \- 100 monedes d’or  
+4. **Verificar la seguretat de Reidoth el Druida** \- Assegurar-se que Reidoth el Druida està bé, ja que és un conegut de Qelline Alderleaf i coneix bé la regió.  
+5. **Netejar d’enemics el castell de Cragmaw** \- 500 monedes d’or
+
+## XP
+
+```
+Jordi:  xp
+Bernat: xp
+Paco:   xp
+Jaume:  xp
+```
