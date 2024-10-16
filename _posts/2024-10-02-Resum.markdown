@@ -64,3 +64,4 @@ Jordi:  50 xp
 Bernat: 50 xp
 Paco:   50 xp
 Jaume:  0 xp
+```
