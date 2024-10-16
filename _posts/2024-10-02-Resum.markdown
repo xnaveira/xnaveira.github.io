@@ -60,7 +60,7 @@ Després d'emmagatzemar el botí trobat (*12 m.o. 15 m.e. 28m.p. 2 granats valor
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
+Jordi:  50 xp
+Bernat: 50 xp
+Paco:   50 xp
 Jaume:  0 xp
