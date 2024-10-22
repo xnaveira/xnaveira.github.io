@@ -76,6 +76,6 @@ Lluitant amb fúria, en **Wimuss** aconsegueix partir en dos el darrer bugbear, 
 ```
 Jordi:  100 xp
 Bernat: 100 xp
-Paco:    50 xp
+Paco:   150 xp
 Jaume:    0 xp
 ```
