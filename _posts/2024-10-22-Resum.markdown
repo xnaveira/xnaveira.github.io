@@ -1,0 +1,122 @@
+---
+tags: [Phandelver]
+---
+
+# 22-10-2024
+
+Els aventurers es preparen per extreure informació del goblin, ara estabilitzat gràcies a les habilitats d’**Oreeo**. El goblin, desconcertat, s'identifica com a **Drup**. Amb recança, comença a revelar que el cap del seu poblat el va enviar per donar suport als capes vermelles, que van contractar els goblins perquè els ajudessin en una missió concreta: endarrerir qualsevol prospector que s’endinsés massa a les mines, una mesura temporal fins que la misteriosa **Aranya Negra** aconsegueixi el seu objectiu.
+
+Quan Drup parla de l’**Aranya Negra**, descriu amb por un ésser enigmàtic i poderós que es troba al castell de *Cragmaw*, situat al nord, amagat entre els arbres al peu de la muntanya. Fins i tot el mag dels capes vermelles, a qui **Drup** identifica com un home poderós, sembla tenir-li una profunda por.
+
+Després de revisar les possessions dels bugbears, els aventurers recullen les 33 monedes de plata que duien i segueixen fent preguntes a **Drup**. El goblin assegura que ja no queden més capes vermelles a la zona habitada de les catacumbes, només les runes buides. Tot i que estima que el grup en tenia entre una i dues desenes de membres, ja en porten tretze morts, de manera que la fortalesa de l’enemic és feble.
+
+Enmig d’aquest interrogatori, se n’adonen que la rata del laboratori s’ha perdut i sospiten fermament que era una transformació màgica del mateix mag. Tot i el desig del bard de continuar endavant, decideixen retrocedir per intentar trobar-la. Tot i això, no veuen cap rastre de la rata i finalment opten per dirigir-se cap a la porta del celler.
+
+Pel camí, es detenen en una escletxa estreta. L’**Oreeo** li encomana a en **Vesnot**, el més hàbil per a tasques d’exploració, que s’endinsi a investigar-la. Amb paciència, examina cada racó i troba un ganivet de fuster, una pista que els recorda la història d'una família desapareguda, el pare de la qual era fuster. De dins l'escletxa en **Vesnot** treu un cofre d’aspecte robust que conté un botí valuós: una espasa de gran qualitat (*\+1 al atac, \+1 al dany*), 160 monedes de plata, 120 d'or, cinc gemmes valorades en 15 monedes d’or cadascuna, dues pocions de curació (*2D4 \+2*), i un pergamí amb l’encateri *Auguri* (*nivell 2*). 
+
+En **Vesnot**, satisfet amb l’espasa, la incorpora a la seva col·lecció d’armes. Els aventurers ajuden a pujar-lo amb el cofre, i, amb el grup complet, decideixen que és hora de descansar. Es reuneixen a la sala dels bugbears i es disposen a fer guàrdies successives: **Vesnot**, **Wimuss**, **Gimble**, i **Oreeo**, amb el **Drup** inclòs.
+
+L’endemà, el goblin demana permís per marxar i els aventurers, compassius, li permeten anar-se'n. Sense les capes vermelles visibles, tots quatre avancen cap a la taverna del *Gegant Dormint* per assegurar-se que la zona és segura; no apareix ningú. En acabar, es dirigeixen a l'ajuntament per parlar amb en **Sildar**, a qui li entreguen la carta que revela que el desaparegut **Iarno** és el malvat **Vara de Vidre**. **Sildar**, impactat, reconeix que **Iarno** era un vell amic seu del grup de l’*Aliança dels Lords* i els adverteix que cal actuar amb urgència per trobar-lo i aturar-lo.
+
+Seguint el consell de **Sildar**, els herois decideixen buscar més respostes al nord, on habita un druida que podria ajudar-los. Abans de marxar, en **Wimuss** s’endinsa en una sessió de compres llargament ajornada i es compra una camisa de malla i un escut, tot i que l’esforç de regatejar acaba fent-lo gastar més del que esperava. Mentre **Wimuss** s’ocupa de les compres, el bard visita **Edermath** per informar-lo que han acabat amb els capes vermelles. Més tard aprofita per intercanviar les joies que han trobat arreplegant per monedes. Finalment, a l'hostal de *Stonehill*, expliquen que la família del fuster, malauradament, és morta i que els seus ossos reposen a les catacumbes de *Tresendar*, dins de l’escletxa que havien trobat.
+
+El Bard aprofita el repòs de la taverna per fer una llegida al llibre del nan **Umon** i compondre una balada de les seves darrers aventures.
+
+Amb noves pistes i aliats, els aventurers es preparen per continuar el seu camí.
+
+**La Balada de la Mansió Tresendar**
+
+Vers els camins de *Stonehill*, els herois s’encaminen,    
+quatre cors valents, en destins de lluita i espines.    
+Amb el bard **Oreeo** guiant-los amb el seu cant,    
+el bàrbar **Vesnot**, llançant fúria amb força d’elefant.  
+
+A la mansió *Tresendar*, la *Marca Vermella* els espera,    
+amb secrets amagats en la seva ombra ferotgera.    
+El guerrer **Wimuss**, destral en mà i escut alt,    
+i el bruixot **Gimble**, amb màgia que fa tremolar l’asfalt.
+
+Dins la foscor, troben portes secretes i trampes,    
+passen passadissos amb passos lleugers i ombres.    
+**Wimuss** cau, ferit, salvant companys del destí;    
+amb una corda, el treuen d’un sot de ple neguit.  
+
+Als cellers humits, hi ha tres capes i una bossa,    
+on màgia i or dansen com en una processó fosca.    
+Posseïts de coratge i empesos per voluntat,    
+el bard cura ferides, i la lluita és ja al seu cap.
+
+Als túnels troben esquelets de misteri antic,    
+esquivant trampes, al rebost, un silenci fred i ric.    
+Els bugbears bramen, però **Vesnot** amb braó,    
+els abateix amb força, guanyant tota la trobada amb ardor.  
+
+El bruixot **Gimble** llença el gas, temible i letal,    
+mentre **Oreeo** canta amb un encanteri immortal.    
+El guerrer esquiva cops, torna a alçar la destral,    
+i junts, acaben amb els malsons d’aquell casal.
+
+Quan el goblin als herois suplica pietat,    
+**Oreeo** el guareix, cercant veritat dins la foscor callat.    
+Un goblin parlà, confessant la seva missió,  
+els portà a nous camins, encenent la intuïció.
+
+La nit s’acomiada, en llums d’alba victoriós,    
+els herois tornen a *Stonehill*, com eco harmoniós.    
+Amb or, pocions i l’esperança del poble als ulls,    
+la *Mansió Tresendar* ja és sols un record d’ulls clucs.
+
+I així, el bard canta, entre vi i un foc encès,    
+les gestes dels herois, i de la por que han vençut amb encert.    
+L’espasa alçada, la màgia i el crit d’amistat,    
+aquesta és la balada de la *Mansió Tresendar*.
+
+## A destacar
+
+**Capes vermelles**: 4 (Gegant Adormit) + 2 (Guàrdies de les cel·les) + 3 (pocasoltes que no ens volien compartir habitació) + 4 (alcohòlics fent un timba)
+
+**Botí**:
+- Bescanvi de joies i gemmes per monedes:
+  
+  | Objecte | Quantitat | Valorat en | **Total** |
+  |:-----------|-----------:|-----------:|-----------:|
+  | Estàtua de jade granota amb ulls d'or | 1 | 40 mo | **40 mo** |
+  | Perla | 1 | 100 mo | **100 mo** |
+  | Rubís | 1 | 30 mo | **30 mo** |
+  | Arracada d'or | 1 | 15 mo | **15 mo** |
+  | Granats | 2 | 10 mo | **20 mo** |
+  | Gemmes | 5 | 15 mo | **75 mo** |
+  
+  **Total**: **280 monedes d'or**
+  
+- **Vesnot**: 100 monedes d'or, 49 monedes de plata, Espasa llarga (_+1 al atac, +1 al dany_)
+- **Wimuss**: 100 monedes d'or, 48 monedes de plata, Poció de curació (_2D4+2_)
+- **Gimble**: 100 monedes d'or, 48 monedes de plata, Poció de curació (_2D4+2_)
+- **Oreeo** : 100 monedes d'or, 48 monedes de plata, pergamí _Auguri_ (_nivell 2_)
+
+**Encàrrecs**:
+
+1. **Rescatar en Gundren** \- Capturat per l'_Aranya Negra_, pensem que està presoner al castell de _Cragmaw_. Els seus germans ls seus germans, **Nundro** i **Tharden**, estan acampats a les afores del poble. En **Elmar**, propietari de provisions _Barthern_ els va avisar de la desaparició d'en **Gundren**.
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort)  
+3. **Inspecció del Vell Pou del Mussol** \- Investigació sobre els zombis trobats al Vell Pou del Mussol, un possible lloc on hi ha activitat nigromàntica i una recompensa per netejar la zona d’orcs.  
+4. **Netejar el camí de Triboar de orcs** (*Wyvern Tor*) \- 100 monedes d’or  
+5. **Verificar la seguretat de Reidoth el Druida** \- Assegurar-se que Reidoth el Druida està bé, ja que és un conegut de Qelline Alderleaf i coneix bé la regió.  
+6. **Netejar d’enemics el castell de Cragmaw** \- 500 monedes d’or
+7. **Thundertree** \- Poble on vivia la Mirna Dendrar, ara infestat de morts vivents, a l'herbolari dins d'un cofre hi un valuós collaret de maragdes
+
+**Misteris**
+
+- Per saber si és un anell màgic el que va trobar en **Wimuss** en un sarcòfeg haurem de buscar algú amb l'encateri *Identificar*
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- On està el castell de _Cragmaw_, en **Yemick** els va dir que estava més enllà de _Phandalin_, cap al nord, enmig del bosc. Pensem que el druida **Reidoth** ens pot ajudar.
+- S'amaga quelcom en el llibre del nan **Umon**?
+
+## XP
+
+```
+Jordi:  200 xp
+Bernat: 175 xp
+Paco:   175 xp
+Jaume:  0 xp
+```
