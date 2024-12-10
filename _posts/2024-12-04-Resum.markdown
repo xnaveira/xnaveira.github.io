@@ -10,6 +10,8 @@ El *Wyvern Torn* s’alça com una ombra imponent entre els turons del sud, al p
 
 A l’alba, després d’un esmorzar frugal, es dirigeixen cap al sud, en direcció al campament dels orcs. A mesura que avancen, el terreny es torna més abrupte i pedregós; els turons s’alcen com gegants petrificats, i la vegetació es fa escassa. A la llunyania, una columna de fum es dibuixa al cel, indicant la presència de vida, o de mort. Els nostre herois es mouen amb sigil, però una pedra mal col·locada fa que Gimble ensopegui, deixant anar un crit que ressona com un tambor. Un orc vigia, davant d’una cova propera, es gira d’immediat, alertat pel soroll.
 
+![wyverntor](https://github.com/user-attachments/assets/eca6dcd5-4e75-41e1-9fc6-8b42c9fafb53)
+
 L’**Oreeo**, amb un moviment elegant, surt del seu amagatall i s’acosta a l’orc vigia, que de seguida es posa en guàrdia. Quan l’orc li clama l’atenció, el bard ja és prou a prop per iniciar el seu encanteri. Amb paraules persuasives i un gest calculat, li explica que ve de part de membres del clan *Horuk* i que quatre companys necessiten ajuda urgent. L’orc, desconfiat, es queda dubtant, però **Oreeo** insisteix amb fermesa, i amb un to tranquil·litzador li assegura que ell mateix vigilarà l’entrada de la cova mentre el vigia corre a ajudar els seus. Totalment enganyat, l’orc baixa cap a la vall, deixant la cova desprotegida.
 
 La cova és fosca i humida, les parets cobertes d’humitat, i el terra esquitxat d’ossos, alguns animals, altres humanoides. Al fons, senten veus: dos orcs riuen, presumint d’haver torturat i robat uns pobres granjers. En **Wimuss** avança amb cautela, comptant els enemics a l’horitzó. "Quatre... No, set\!", indica amb els dits, mentre en **Vesnot** es prepara amb una javelina a la mà.
@@ -21,6 +23,8 @@ Amb un llançament precís, la javelina del bàrbar travessa l’espatlla d’un
 Al costat, **Vesnot** ataca amb la seva espasa i, amb un moviment ràpid i precís, abateix el seu adversari d’un sol cop. Mentrestant, un orc al fons intenta calmar el seu company, que sembla pres pel pànic. Se sent el so metàl·lic d’un forrellat obrint-se, i de sobte un orc surt corrent, empentant **Gimble** pel camí. **Wimuss**, amb una rapidesa sorprenent, li fa un tall a la cama, frenant parcialment la seva fugida.
 
 **Gimble** intenta disparar una fletxa al fugitiu, però aquesta es perd en la foscor de la cova. **Oreeo**, en un moviment àgil, llança un encanteri de *thunderwave*, ferint lleument els dos orcs que té al davant i fent-los retrocedir. Un altre orc intenta atacar el bard, però només aconsegueix ferir-lo lleugerament.
+
+![image](https://github.com/user-attachments/assets/92d99e2f-7c0d-48cc-88d9-67afecb59aab)
 
 De cop, un rugit profund ressona des de les profunditats de la cova. Una ombra gegantina emergeix, i un ogre apareix amb la seva maça enorme. Amb un sol cop, aixafa un orc sota el seu pes. La bèstia, plena de ràbia, alça el garrot per atacar **Vesnot**, però el seu cop falla tan estrepitosament que l’ogre perd l’equilibri i queda postrat, oferint una oportunitat única per acabar amb ell.
 
@@ -53,8 +57,8 @@ La batalla encara no ha acabat, però el caos sembla ara un aliat. Amb un darrer
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
+Jordi:  125 xp
+Bernat: 100 xp
+Paco:   100 xp
 Jaume:  0 xp
 ```
