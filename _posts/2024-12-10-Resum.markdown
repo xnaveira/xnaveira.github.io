@@ -68,8 +68,8 @@ A causa de les ferides i la fatiga, el grup decideix fer un descans dins la cova
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  150 xp
+Bernat: 150 xp
+Paco:   150 xp
+Jaume:  150 xp
 ```
