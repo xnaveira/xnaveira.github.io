@@ -1,0 +1,75 @@
+---
+tags: [Phandelver]
+---
+
+# 10-12-2024
+
+### **Un relat de combat èpic i descobriments màgics**
+
+L’ombra massiva de l’ogre postrat es retorça enmig de la cova mentre els orcs restants, plens de fúria i por, es preparen per atacar. L’ambient és carregat: la fortor d’orc, la sang vessada i la tensió d’una batalla que no dóna treva.
+
+En **Vesnot**, sense perdre temps, s’abalança sobre l’ogre. Amb un crit que ressona per la cova, alça la seva espasa amb ambdues mans i l’enfonsa en la carn del gegant, tot just obrint-li una ferida superficial. La bèstia rugeix amb més força que mai, sacsejant la cova amb la seva fúria.
+
+En **Gimble**, situat més enrere, concentra el seu poder màgic i llança un llamp lluminós que il·lumina les parets humides de la cova amb un esclat sobtat. Tanmateix, el conjur no troba la seva diana, deixant el petit bruixot frustrat. Un orc aprofita el moment i es llança contra ell, clavant-li un cop que el fa tambalejar. Però en **Gimble** reacciona ràpidament, aixecant la mà i murmurant unes paraules arcàniques. Flames màgiques envolten l’orc, cremant-li la pell i arrencant-li un crit agònic.
+
+A prop, un altre orc ataca l’**Oreeo**, provocant-li una ferida al braç. El bard, però, no es deixa intimidar: amb un encanteri d’una bellesa sinistra, fa caure l’orc, que cau mort al terra mentre es tapa les oídes amb desesperació.
+
+En **Wimuss** avança amb la seva destral, lluitant amb tota la força d’un guerrer que sap que el pes de la batalla recau sobre ell. Amb un sol cop devastador, fereix greument un orc, acabant amb la seva vida mentre la seva arma brilla amb sang recent. El bard, a prop, li dedica una mirada d’aprovació, mentre es prepara per unir-se al combat contra l’ogre.
+
+L’**Oreeo**, amb un moviment ràpid, pronuncia un conjur de *thunderwave*. L’ona d’energia impacta l’ogre, fent-lo retrocedir una mica, però només li provoca ferides superficials. Mentrestant, en **Vesnot** torna a atacar amb la seva espasa, fent sagnar la bèstia amb més profunditat.
+
+En **Gimble**, decidit a recuperar-se, concentra la seva energia en un altre llamp. Però, per segona vegada, el raig es perd en la foscor de la cova, esclatant inútilment contra les roques.
+
+L’ogre, enfurismat, aixeca la seva massiva maça i la descarrega sobre en **Wimuss**. El guerrer cau de genolls per un instant, però l’esperit del mig-elf guerrer és indomable. L’**Oreeo**, veient la situació crítica, s’apropa als seus companys més propers i pronuncia un encanteri que els envolta amb una aura de valentia. Ara, tant en **Vesnot** com en **Wimuss** semblen infondre energia nova, les seves ferides oblidades en l’impuls de l’heroisme.
+
+En **Wimuss** contraataca amb un cop brutal, la seva destral s’endinsa profundament en l’ogre, arrencant un rugit d’agonia. En **Vesnot**, deixant caure el seu escut a terra, es prepara per un atac final. Amb un crit salvatge, salta amb tota la força del seu cos i la seva espasa traça un arc perfecte, tallant el coll de l’ogre i posant fi a la seva vida amb un cop decisiu. La bèstia cau al terra amb un estrèpit que sacseja les pedres de la cova.
+
+Amb el silenci que segueix la batalla, els companys prenen aire, encara amb l’adrenalina bategant-los a les temples. En **Vesnot**, sense dir res, surt corrent de la cova. A fora, el mig-orc es troba amb la immensitat de les muntanyes davant seu, una buidor que el calma i l’espanta alhora.
+
+![Vesnot looking for escaped orc](https://github.com/user-attachments/assets/f0aed8b6-d34a-4c28-81bd-fc79208ddaeb)
+
+Mentrestant, a l’interior, el grup comença a inspeccionar la cova. Tot i la pudor i les restes de menjar en descomposició, no troben cap riquesa acumulada. En **Gimble**, però, fent una cerca sota un dels sacs d’aliments, descobreix un llibre cobert de pols i runes. Quan comença a llegir-lo, les lletres antigues s’alineen i es revelen: *"El Llibre dels Encanteris Perduts"*. Amb emoció, el bruixot sap que aquest artefacte li permetrà aprendre encanteris fins ara més enllà del seu abast.
+
+A causa de les ferides i la fatiga, el grup decideix fer un descans dins la cova, on, sorprenentment, no hi ha cap més incident durant la nit. Amb la primera llum de l’alba, estan preparats per afrontar un nou dia, sense saber què els espera en el camí.
+
+---
+
+**Botí**:
+- Monedes 150 monedes d'or (orcs clan Horuk), 24 monedes de plata (cova dels orcs) i *El llibre dels encanteris perduts* (conté tots els encanteris de nivell 1 i et permet aprendre un encanteri d'una altra clase)
+  
+- **Vesnot**: 38 monedes d'or, 6 monedes de plata
+- **Wimuss**: 38 monedes d'or, 6 monedes de plata
+- **Gimble**: 37 monedes d'or, 6 monedes de plata, *El llibre dels encanteris perduts*
+- **Oreeo** : 37 monedes d'or, 6 monedes de plata
+
+**Encàrrecs**:
+
+1. **Rescatar en Gundren** \- Capturat per l'_Aranya Negra_, pensem que està presoner al castell de _Cragmaw_. Els seus germans ls seus germans, **Nundro** i **Tharden**, estan acampats a les afores del poble. En **Elmar**, propietari de provisions _Barthern_ els va avisar de la desaparició d'en **Gundren**.
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)  
+3. **Inspecció del Vell Pou del Mussol** \- Investigació sobre els zombis trobats al Vell Pou del Mussol, un possible lloc on hi ha activitat nigromàntica i una recompensa per netejar la zona d’orcs.  
+4. **Netejar el camí de Triboar de orcs** (*Wyvern Tor*) \- 100 monedes d’or  
+5. **Verificar la seguretat de Reidoth el Druida** \- Assegurar-se que Reidoth el Druida està bé, ja que és un conegut de Qelline Alderleaf i coneix bé la regió. El podem trobar a Thundertree 
+6. **Netejar d’enemics el castell de Cragmaw** \- 500 monedes d’or
+7. **Thundertree** \- Poble on vivia la **Mirna Dendrar**, ara infestat de morts vivents, a l'herbolari dins d'un cofre hi un valuós collaret de maragdes
+8. **Eliminar als orcs** \- En **Kosh** ens demana eliminar els orcs que el molesten en els seus experiments. Són els mateixos orcs de l'encàrrec 4.
+9. **Agatha** la *banshee* \- En **Kosh** ens demana portar una pregunta de part seva a la *banshee* del bosc de *Neverwinter*
+
+**Misteris**
+
+- A la cova dels orcs no hi havia acumulació de riqueses, en canvi els orcs que vam eliminar pel camí tenien 150 monedes d'or. On enviava, el clan _Horuk_, el botí que aconseguia? per a qui treballaven?
+- Per saber si és un anell màgic el que va trobar en **Wimuss** en un sarcòfeg haurem de buscar algú amb l'encateri *Identificar*
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- On està el castell de _Cragmaw_, en **Yemick** els va dir que estava més enllà de _Phandalin_, cap al nord, enmig del bosc. Pensem que el druida **Reidoth** ens pot ajudar.
+- S'amaga quelcom en el llibre del nan **Umon**?
+- Qui és l'**Agatha**? aquest esperit d'una antiga druida que habita al bosc de *Neverwinter* prop de *Conyberry*
+- Per què no va en **Kosh** a fer-li la pregunta a la *banshee*? correm perill si anem?
+
+## XP
+
+```
+Jordi:  150 xp
+Bernat: 150 xp
+Paco:   150 xp
+Jaume:  150 xp
+```
