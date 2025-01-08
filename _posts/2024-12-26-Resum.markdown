@@ -75,8 +75,8 @@ A l’arribar a la torre del *Pou del Vell Mussol*, en **Kosh**, misteriós com 
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  175 xp
+Bernat: 150 xp
+Paco:   150 xp
+Jaume:  150 xp
 ```
