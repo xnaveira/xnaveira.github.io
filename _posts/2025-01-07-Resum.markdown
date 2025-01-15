@@ -63,8 +63,8 @@ Els nostres herois s’enfilen al carro i comencen el camí cap a la *Gran Carre
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  225 xp
+Bernat: 200 xp
+Paco:   200 xp
+Jaume:  200 xp
 ```
