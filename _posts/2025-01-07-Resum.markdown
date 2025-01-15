@@ -1,0 +1,70 @@
+---
+tags: [Phandelver]
+---
+
+# 07-01-2024
+
+### **Retorn a Phandalin**
+
+Els nostres herois romanen al *Pou del Vell Musso*l escoltant les explicacions d'en **Kosh**: *Thundertree* era un poble molt pròsper de caçadors i llenyataires. Fa 30 anys, una erupció d’un volcà va arrasar el poble. Més tard, una invasió de zombis va envair la regió. Amb el temps, els zombis van desaparèixer, però van provocar mutacions que han deixat bèsties estranyes i desconegudes per la zona.
+
+Els aventurers inicien el viatge fins a *Phandalin*. La primera nit transcorre sense problemes, i la segona nit també és tranquil·la. No obstant això, quan ja són prop de *Phandalin*, escolten un soroll d’ales, un aleteig semblant al de ratpenats.
+
+"Amagueu-vos entre els matolls", diu en **Vesnot**. Tot seguit, s’amaga al voral del camí mentre els seus companys el segueixen. En **Tharion** opta per conjurar la invisibilitat.
+
+Sembla que les criatures, un eixam de Stirges, passaran de llarg, però en l’últim moment, una detecta en **Wimuss** i intenta picar-lo amb el fibló. L’eixam gira com un sol cos i ataca en **Wimuss**. Una de les criatures se li enganxa al braç, xuclant-li la sang. El bard, ràpidament, es posiciona i invoca un poderós *Thunderwave* que elimina l’eixam d’una vegada per totes\!
+
+![Stirge](https://github.com/user-attachments/assets/0d924266-af1e-4ada-8d02-c1a5fdf3e143)
+
+Al vespre, arriben a *Phandalin*. El primer que fan és comprar provisions a *Lionshield Coster* amb una rebaixa en agraïment a les seves gestes. A la tenda de provisions d’en **Bartheans** estan preocupats per en **Gundren** i els seus germans, ja que fa molts dies que no apareixen ni han tingut notícies d’ells.
+
+Abans d’anar a l’hostal *Stonehill*, el mig-orc, amb ganes de gresca, proposa passar pel *Gegant Adormit*. El cambrer els reconeix i els convida a quatre xupitos del pitjor licor de *Neverwinter*. Els certifica que els *Capes Vermelles* no han tornat. En **Wimuss** se sent marejat després d’un sol xupito, mentre que en **Vesnot** se’n pren dos de seguits sense problema. Quan els serveixen una segona ronda, en **Wimuss** comença a anar molt tort...
+
+Amb feines i treballs, arriben a *Stonehill*, on en **Toblen** els acull amb l’amabilitat de sempre. En **Oreeo** toca al saló comú amb gran mestratge, guanyant-se més reputació com a trobador a *Phandalin*.
+
+L’endemà, visiten la casa de la Vila per demanar la recompensa per haver eliminat els orcs. En **Sildar** els informa que encara no hi ha notícies de **Lord Albreck**. Pel que fa als germans d’en **Gundren**, sembla que estaven fent prospeccions en algun lloc inespecífic de les *Muntanyes de l’Espasa*. Els suggereix parlar amb en **Barthen**, que podria deixar-los un cavall i un carro.
+
+L’alcalde, molt atemorit i preocupat només per ell mateix, es fa el ronso per pagar-los la recompensa. Finalment, aconsegueixen que els doni dos cavalls i un carro a canvi de les 100 monedes d’or.
+
+A les afores de la cofradia troben la **Halia**. Li expliquen que han netejat el camí de *Triboar*. Quan pregunten pels germans d’en **Gundren**, ella els comenta que només en **Gundren** sap on estaven buscant, així que trobar-los passa per rescatar primer en **Gundren**.
+
+En **Wimuss** porta l’anell a la sacerdotessa **Garaele**, que li demana una ofrena de 50 monedes d’or. 
+
+Mentrestant, en **Vesnot** compra un conillet a la granja *Alderleaf*. Junts s’acosten a la *Mansió Tresendar*. Allà, en Vesnot invoca *Beast Sense* i fa entrar el conill dins la mansió. Aquesta sembla estar tal com la van deixar.
+
+![Mig-orc - conill](https://github.com/user-attachments/assets/ad46b678-389a-4770-81a9-b31a1405f417)
+
+Més tard, en **Oreeo** compra ferratge. Al vespre tornen a *Stonehill* per sopar i passar la nit. En **Toblen** es mostra una mica desagraït, i li diu a en **Oreeo** que, si vol tornar a tocar, haurà de pagar. Una mostra més de les penúries econòmiques que han patit a *Phandalin* els darrers temps.
+
+L’endemà al matí, recullen els cavalls, el carro i el ferratge. En **Wimuss** torna a buscar el seu anell; la sacerdotessa ha esbrinat informació important sobre ell.
+
+![Anell](https://github.com/user-attachments/assets/b0c413e7-5eea-430e-9024-a042e12eb8de)
+
+Els nostres herois s’enfilen al carro i comencen el camí cap a la *Gran Carretera*, amb destinació a *Neverwinter*.
+
+---
+
+**Encàrrecs**:
+
+1. **Rescatar en Gundren** \- Capturat per l'_Aranya Negra_, pensem que està presoner al castell de _Cragmaw_. Els seus germans ls seus germans, **Nundro** i **Tharden**, estan acampats a les afores del poble. En **Elmar**, propietari de provisions _Barthern_ els va avisar de la desaparició d'en **Gundren**.
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)  
+3. **Verificar la seguretat de Reidoth el Druida** \- Assegurar-se que Reidoth el Druida està bé, ja que és un conegut de Qelline Alderleaf i coneix bé la regió. El podem trobar a Thundertree 
+4. **Netejar d’enemics el castell de Cragmaw** \- 500 monedes d’or
+5. **Thundertree** \- Poble on vivia la **Mirna Dendrar**, ara infestat de morts vivents, a l'herbolari dins d'un cofre hi un valuós collaret de maragdes part seva a la *banshee* del bosc de *Neverwinter*
+
+**Misteris**
+
+- A la cova dels orcs no hi havia acumulació de riqueses, en canvi els orcs que vam eliminar pel camí tenien 150 monedes d'or. On enviava, el clan _Horuk_, el botí que aconseguia? per a qui treballaven?
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- On està el castell de _Cragmaw_, en **Yemick** els va dir que estava més enllà de _Phandalin_, cap al nord, enmig del bosc. Pensem que el druida **Reidoth** ens pot ajudar.
+- S'amaga quelcom en el llibre del nan **Umon**?
+
+## XP
+
+```
+Jordi:  225 xp
+Bernat: 200 xp
+Paco:   200 xp
+Jaume:  200 xp
+```
