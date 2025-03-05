@@ -80,8 +80,8 @@ El druida atengué els ferits, assegurant-se que, almenys per aquella nit, **Ull
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
+Jordi:  150 xp
+Bernat: 125 xp
+Paco:   125 xp
 Jaume:  0 xp
 ```
