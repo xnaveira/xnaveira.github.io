@@ -1,0 +1,87 @@
+---
+tags: [Phandelver]
+---
+
+# 05-03-2025
+
+## **Foc i fúria**
+
+El druida es gira cap al grup amb una mirada assenyada i extreu un parell de petites ampolles de vidre amb un líquid vermellós a dins. "Això us ajudarà", diu mentre ofereix les pocions curatives. Sense perdre temps, en **Vesnot** n'obre una i l'aplica amb cura al bard. L’**Oreeo** deixa anar un sospir profund mentre les forces tornen al seu cos, després es dirigeix a en **Wimuss**, les seves mans brillen suaument mentre canalitza l'energia curativa.
+
+Amb les ferides lleugerament alleujades, el grup decideix descansar a casa del druida. La nit passa amb una calma inquietant, com l'ull d'un huracà abans de la tempesta.
+
+Al matí següent, mentre discuteixen quin serà el seu proper pas, un so sec interromp la conversa. Algú pica la porta amb fermesa. "**Reidoth**, obre la porta. No em facis esbotzar-la\!" Una veu greu i imperiosa ressona des de l'exterior. En **Reidoth** s'alça amb una expressió seriosa i obre la porta amb precaució.
+
+A l'altre costat, un grup de sectaris vestits amb túniques fosques els observa amb mirades dures. "Què heu fet amb el drac? I, sobretot, amb el seu tresor?" pregunta el seu capitost. **Tharion** fa un pas endavant, amb un somriure tranquil i les paraules justes per enganyar-los. "No hem tocat res. El drac segueix dominant aquestes terres, i nosaltres només hem passat la nit refugiats."
+
+![sectaris](https://github.com/user-attachments/assets/eb6e627d-d06a-4a9e-a90c-0eb240d96bde)
+
+Un dels sectaris estreny els ulls i inspecciona la gran destral que reposa sobre l'espatlla de **Vesnot**. "Aquesta destral... deixa-me-la veure."
+
+El mig-orc somriu amb ferocitat. "Vine a veure-la d'aprop." Sense esperar resposta, alça l'arma i l'estampa amb brutalitat contra el cap del sectari. La sang esquitxa la porta mentre el cos cau pesadament a terra.
+
+La batalla esclata immediatament.
+
+**Tharion** invoca un raig d'energia que impacta al bell mig del pit d'un altre ocultista. Un fil de fum s'alça del seu cos mentre aquest es desploma. **Vesnot**, amb un rugit de fúria, fa giravoltar la seva destral i l'enfonsa al coll d'un altre atacant, fent-ne brollar un raig de sang.
+
+Un dels ocultistes es llança sobre **Vesnot** amb una cimitarra, impactant-li el braç amb una ferida lleugera. Un altre intenta atacar **Tharion**, però el bruixot esquiva l'atac amb facilitat. **Reidoth** s'acosta a **Oreeo** i li posa una mà damunt de l'espatlla. "No et resisteixis." Màgicament, la pell del bard es recobreix d'una escorça dura com la fusta.
+
+**Oreeo** tanca els ulls i invoca una melodia dissonant que ressona a l'aire. Un dels acòlits es retorç de dolor i cau sense vida. Al seu torn, **Wimuss** obre una finestra i dispara la ballesta contra un enemic, però la fletxa passa de llarg. L'acòlit aprofita l'obertura per contraatacar, però s'entrebanca i no aconsegueix ferir el guerrer.
+
+Enmig del combat, **Vesnot** es veu rodejat, però els seus adversaris fallen els atacs repetidament. El mig-orc aprofita una escletxa i despatxa un enemic amb un cop devastador. **Tharion** invoca un con de foc que engoleix dos sectaris, deixant-los carbonitzats al terra. **Reidoth**, amb una destresa sorprenent, alça la seva vara brillant i la fa descendir sobre el cap d'un enemic, deixant-lo estabornit.
+
+![Tiefling](https://github.com/user-attachments/assets/4706c10b-0f07-4fe0-8294-fba96420d372)
+
+El caos es desferma. Un dels ocultistes fereix el druida, mentre un altre aconsegueix travessar la defensa de **Vesnot**, fent-li una ferida considerable. El bard, amb un gir teatral, convoca un thunderwave que fa tremolar l'aire. Dos acòlits surten disparats i cauen morts; un tercer tambaleja, greument ferit.
+
+Un d’ells, amb una mirada de fúria, es llança sobre **Oreeo**, clamant venjança per la matança. **Vesnot**, enfurismat, s'interposa i el decapita amb un sol cop.
+
+El darrer acòlit veu com els seus companys cauen un rere l'altre i decideix fugir. Corre desesperat pel camí, però **Tharion** surt i li llença un raig que li crema el costat. **Wimuss** no deixa passar l’oportunitat: alça la ballesta, apunta amb precisió i dispara. La fletxa travessa l'aire i es clava a l'esquena del fugitiu, que cau desplomat al terra.
+
+El silenci torna, només trencat pels gemecs dels ferits. **Oreeo** s'ajup al costat de **Reidoth** i li aplica màgia curativa. El druida es reincorpora amb dificultat i els observa amb expressió greu. "No trigueu a marxar... si el drac torna i us troba aquí, no tindreu escapatòria."
+
+Amb la sang encara calenta sobre el terra, els aventurers saben que el perill no ha fet més que començar.
+
+---
+
+**Botí**:
+
+1. Collaret de maragdes de la família **Dendrar**
+2. Vella destral (battle axe) amb unes runes en idioma nan (**Vesnot**)
+3. Cofre del tresor de l'**Ullalverinós**
+   - Pergamí _Misty Step_ (**Tharion**)
+   - Pergamí _Lighning bolt_ (**Oreeo**, per usar-lo CD 10+3 (nivell encanteri) Roll Charisma)
+   - 800 monedes de plata (_mirar distribució_)
+   - 150 monedes d'or (_mirar distribució_)
+   - 4 calzes (valorats en 60 monedes d'or cada un)  
+
+**Distribució monedes del botí**
+
+- **Vesnot** : 37 monedes d'or, 200 monedes de plata
+- **Wimuss** : 39 monedes d'or, 200 monedes de plata
+- **Tharion**: 37 monedes d'or, 200 monedes de plata
+- **Oreeo**  : 37 monedes d'or, 200 monedes de plata
+
+**Encàrrecs**:
+
+1. **Rescatar en Gundren** \- Capturat per l'_Aranya Negra_, pensem que està presoner al castell de _Cragmaw_. Els seus germans ls seus germans, **Nundro** i **Tharden**, estan acampats a les afores del poble. En **Elmar**, propietari de provisions _Barthern_ els va avisar de la desaparició d'en **Gundren**.
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)  
+3. **Netejar d’enemics el castell de Cragmaw** \- 500 monedes d’or
+4. **Thundertree** \- Per petició d'en **Reidoth**, matar el drac verd que hi ha a la regió
+
+**Misteris**
+
+- A la cova dels orcs no hi havia acumulació de riqueses, en canvi els orcs que vam eliminar pel camí tenien 150 monedes d'or. On enviava, el clan _Horuk_, el botí que aconseguia? per a qui treballaven?
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- On està el castell de _Cragmaw_, en **Yemick** els va dir que estava més enllà de _Phandalin_, cap al nord, enmig del bosc. Pensem que el druida **Reidoth** ens pot ajudar.
+- S'amaga quelcom en el llibre del nan **Umon**?
+
+## XP
+
+```
+Jordi:  0 xp
+Bernat: 0 xp
+Paco:   0 xp
+Jaume:  0 xp
+```
