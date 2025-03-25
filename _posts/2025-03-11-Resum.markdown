@@ -1,0 +1,64 @@
+---
+tags: [Phandelver]
+---
+
+# 11-03-2025
+
+## **L'aliança trencada amb un sol cop d'espasa**
+
+En una pausa tranquil·la, **l'Oreeo** s'asseu amb la destral de **Vesnot** entre les mans. Amb paciència i ulls atents, desxifra les runes nanes gravades al metall, revelant el nom del seu forjador: **Hew**. La destral, més que una eina, és una herència d'una època antiga.
+
+Els aventurers consulten en **Reidoth**, el druida, demanant informació sobre el castell de *Cragmaw*. Ell els explica que els rumors parlen d’un gran rei goblin que s’ha assentat al castell. Amb un gest, els marca la ubicació al mapa. La decisió és clara: es posen en marxa amb els cavalls i el carro, seguint la *Gran Carretera* cap a *Neverwinter*. Els esperen quatre dies de viatge.
+
+Durant dues jornades tranquil·les, acampen al costat de la carretera. Es reparteixen les guàrdies: primer en **Wimuss**, després **Vesnot**, seguit d’**Oreeo** i, finalment, **Tharion**. La nit és fosca, el vent xiula entre els arbres.
+
+Quan arriba la seva guàrdia, l’**Oreeo** assaja amb el seu llaüt, tocant sense fer soroll. La son l’embaeix lentament, fins que una veu suau i distant li arriba des de la foscor. Desperta d’un bot i alerta els seus companys. Abans que puguin reaccionar del tot, dos *hobgoblins* emergeixen d’entre els arbres acompanyats d’un imponent *owlbear* encadenat.
+
+**Vesnot**, amb la seva presència imponent, parla amb els *hobgoblins*. Aconsegueix convèncer-los que ells són els aventurers que buscaven. Els goblins, confiats, expliquen que porten la seva presa a en **Barg**. Acaben compartint el campament amb el grup.
+
+Durant la nit, **Vesnot** fa ús d’un encanteri per comunicar-se amb l’*owlbear*. La bèstia li transmet una emoció dolorosa: ha estat caçada. El mig-orc li ofereix una ració de menjar, guanyant-se una petita mostra de confiança.
+
+Els *hobgoblins* parlen sense reserves. **Barg** ha rebut ordres del rei **Grol** per vigilar el camí. **Grol** és el rei que governa al **castell** de *Cragmaw*. L’endemà, els aventurers es deixen guiar pel grup cap al campament de Barg. En arribar-hi, només troben restes abandonades. Wimuss, amb el seu olfacte fi, detecta una olor reconeixible i inquietant: drac. El campament sembla haver estat atacat per una bèstia poderosa.
+
+Amb astúcia, convencen els *hobgoblins* d’anar al castell de *Cragmaw*, fent-los creure que en **Barg** s’hi ha retirat. Mentre caminen, **Vesnot** li passa la seva espasa a **Wimuss**. El mig-elf la sospesa, examinant el seu equilibri i com el fil brilla amb la llum del sol. Es creuen una mirada carregada de complicitat.
+
+![Wimuss   Vesnot](https://github.com/user-attachments/assets/a1fd4051-b11b-42ef-bd0f-0baa57664811)
+
+De sobte, **Wimuss** ataca el *hobgoblin* més proper. La seva espasa deixa una ferida profunda i el monstre grinyola de dolor. **Tharion**, sorprès, intenta llançar un encanteri però falla. El *hobgoblin* ferit es gira, amb els ulls plens de desconcert. “Per què...?”, murmura abans que **Wimuss** el remati amb una estocada neta i decidida.
+
+**Oreeo** desenfunda l’arc, buscant el moment adequat per disparar. **Vesnot**, amb la destral a les mans, avança decidit i fereix l’altre *hobgoblin*. Aquest, espantat, deixa anar la cadena de l’*owlbear*. La bèstia, en ple frenesí, es gira contra el seu antic captor i el destrossa amb un cop de les seves urpes massisses.
+
+**Tharion** intenta llançar un raig màgic contra l’*owlbear*, però falla de nou. La criatura, embogida i ferida, fuig cap al bosc, desapareixent entre els arbres.
+
+Sense perdre més temps, els aventurers es posen en camí. El castell de *Cragmaw* els espera.
+
+---
+
+**Botí**:
+
+1. Collaret de maragdes de la família **Dendrar**
+2. Cofre del tresor de l'**Ullalverinós**
+   - 4 calzes (valorats en 60 monedes d'or cada un)  
+
+**Encàrrecs**:
+
+1. **Rescatar en Gundren** \- Capturat per l'_Aranya Negra_, pensem que està presoner al castell de _Cragmaw_. Els seus germans ls seus germans, **Nundro** i **Tharden**, estan acampats a les afores del poble. En **Elmar**, propietari de provisions _Barthern_ els va avisar de la desaparició d'en **Gundren**.
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)  
+3. **Netejar d’enemics el castell de Cragmaw** \- 500 monedes d’or
+4. **Thundertree** \- Per petició d'en **Reidoth**, matar el drac verd que hi ha a la regió
+
+**Misteris**
+
+- A la cova dels orcs no hi havia acumulació de riqueses, en canvi els orcs que vam eliminar pel camí tenien 150 monedes d'or. On enviava, el clan _Horuk_, el botí que aconseguia? per a qui treballaven?
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- S'amaga quelcom en el llibre del nan **Umon**?
+
+## XP
+
+```
+Jordi:  0 xp
+Bernat: 0 xp
+Paco:   0 xp
+Jaume:  0 xp
+```
