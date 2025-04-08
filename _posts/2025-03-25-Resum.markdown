@@ -87,8 +87,8 @@ Entre els barrils, **Oreeo** troba un petit barrilet que sembla contenir un bran
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  125 xp
+Bernat: 100 xp
+Paco:   100 xp
+Jaume:  200 xp
 ```
