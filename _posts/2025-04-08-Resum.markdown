@@ -28,7 +28,7 @@ Un goblin descobreix **Vesnot** i, espantat, llença una fletxa que no troba bla
 
 **Tharion**, pel flanc oest, és atrapat per un goblin. Sagnant per l’esquena, alça les mans i invoca un vent de flames. Els raigs de foc esclaten en forma de ventall. Dos goblins són consumits en un instant, deixant només cendres i una olor acre.
 
-![Tharion Destructor](assets/Tharion%20Destructor.png)
+![Tharion Destructor](https://xnaveira.github.io/assets/TharionDestructor.png)
 
 **Vesnot** irromp a la cuina com un tifó. La destral amenaça a esquerra i dreta. Els ulls li brillen de ràbia i veu **Wimuss**, sagnant, envoltat. Avança insultant els goblins en llengua comuna i orca, ruixant-los amb paraules que són tant venjatives com provocadores. Un d’ells l’ataca i li fa un tall superficial, però ell ni se n’adona.
 
