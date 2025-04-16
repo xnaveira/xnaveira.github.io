@@ -28,11 +28,11 @@ Un goblin descobreix **Vesnot** i, espantat, llença una fletxa que no troba bla
 
 **Tharion**, pel flanc oest, és atrapat per un goblin. Sagnant per l’esquena, alça les mans i invoca un vent de flames. Els raigs de foc esclaten en forma de ventall. Dos goblins són consumits en un instant, deixant només cendres i una olor acre.
 
-![Tharion Destructor](https://xnaveira.github.io/assets/TharionDestructor.png)
+![Tharion Destructor](/assets/TharionDestructor.png)
 
 **Vesnot** irromp a la cuina com un tifó. La destral amenaça a esquerra i dreta. Els ulls li brillen de ràbia i veu **Wimuss**, sagnant, envoltat. Avança insultant els goblins en llengua comuna i orca, ruixant-los amb paraules que són tant venjatives com provocadores. Un d’ells l’ataca i li fa un tall superficial, però ell ni se n’adona.
 
-![Vesnot Heroic](https://xnaveira.github.io/assets/VesnotHeroic.png)
+![Vesnot Heroic](/assets/VesnotHeroic.png)
 
 En **Wimuss** s'alça al temps que unes noves fletxes l’impacten, però no el fan caure. Amb un rugit salvatge, s’arrenca una d’elles de l’espatlla i trenca l’altra amb el tall de la seva espasa. Tremola, però es manté. Es manté.
 
@@ -42,7 +42,7 @@ Llavors, **Oreeo** s’acosta. Ja no és el bard, sinó l’home de fe. S’ajup
 
 Una llum càlida, daurada, embolcalla en **Wimuss**. La sang s’atura. Les ferides es tanquen. El guerrer obre els ulls i inspira profundament. La força torna. La fe el reconstrueix.
 
-![Oreeo Curador](https://xnaveira.github.io/assets/OreeoCurador.png)
+![Oreeo Curador](/assets/OreeoCurador.png)
 
 **Oreeo** s’aixeca, amb la mirada encesa, i diu:
 
@@ -58,7 +58,7 @@ Una nova pluja de fletxes travessa l’aire, però **Wimuss** ja no és de carn 
 
 I per fi, dret al centre de la cuina, tacat de cendra, amb les botes damunt d’un munt de cossos, **Wimuss** somriu. No diu res. No cal.
 
-![Wimuss Victorios](https://xnaveira.github.io/assets/WimussVictorios.png)
+![Wimuss Victorios](/assets/WimussVictorios.png)
 
 ---
 
