@@ -6,7 +6,7 @@ tags: [Phandelver]
 
 ## **Indestructible**
 
-A l'altra banda de la porta, dues veus greus discuteixen. El to és sec, irritable, carregat de menyspreu envers els goblins que xisclen pel sud. **Vesnot**, amb l’orella enganxada a la fusta, frunceix el front, analitzant cada paraula. Llavors, en **Tharion** trenca el silenci amb una veu profunda com el tro:
+A l'altra banda de la porta, dues veus greus discuteixen. El to és sec, irritable, carregat de menyspreu envers els goblins que xisclen pel sud. **Vesnot**, amb l’orella enganxada a la fusta, arruga el front, analitzant cada paraula. Llavors, en **Tharion** trenca el silenci amb una veu profunda com el tro:
 
 —Veniu cap aquí, els de les espitlleres\!
 
@@ -28,11 +28,11 @@ Un goblin descobreix **Vesnot** i, espantat, llença una fletxa que no troba bla
 
 **Tharion**, pel flanc oest, és atrapat per un goblin. Sagnant per l’esquena, alça les mans i invoca un vent de flames. Els raigs de foc esclaten en forma de ventall. Dos goblins són consumits en un instant, deixant només cendres i una olor acre.
 
-![Tharion Destructor](https://github.com/user-attachments/assets/8badc976-bda5-4256-8cb2-143637974fdd)
+![Tharion Destructor](assets/Tharion%20Destructor.png)
 
 **Vesnot** irromp a la cuina com un tifó. La destral amenaça a esquerra i dreta. Els ulls li brillen de ràbia i veu **Wimuss**, sagnant, envoltat. Avança insultant els goblins en llengua comuna i orca, ruixant-los amb paraules que són tant venjatives com provocadores. Un d’ells l’ataca i li fa un tall superficial, però ell ni se n’adona.
 
-![Vesnot Heroic](https://github.com/user-attachments/assets/727ecfbe-ef48-4767-bb91-82ecbda39114)
+![Vesnot Heroic](assets/Vesnot%20Heroic.png)
 
 En **Wimuss** s'alça al temps que unes noves fletxes l’impacten, però no el fan caure. Amb un rugit salvatge, s’arrenca una d’elles de l’espatlla i trenca l’altra amb el tall de la seva espasa. Tremola, però es manté. Es manté.
 
@@ -42,7 +42,7 @@ Llavors, **Oreeo** s’acosta. Ja no és el bard, sinó l’home de fe. S’ajup
 
 Una llum càlida, daurada, embolcalla en **Wimuss**. La sang s’atura. Les ferides es tanquen. El guerrer obre els ulls i inspira profundament. La força torna. La fe el reconstrueix.
 
-![Oreeo Curador](https://github.com/user-attachments/assets/b2d46cb1-f5b2-4575-aec8-1defd5134d9f)
+![Oreeo Curador](assets/Oreeo%20Curador.png)
 
 **Oreeo** s’aixeca, amb la mirada encesa, i diu:
 
@@ -58,7 +58,7 @@ Una nova pluja de fletxes travessa l’aire, però **Wimuss** ja no és de carn 
 
 I per fi, dret al centre de la cuina, tacat de cendra, amb les botes damunt d’un munt de cossos, **Wimuss** somriu. No diu res. No cal.
 
-![Wimuss Victorios](https://github.com/user-attachments/assets/e6daacf5-46b2-4582-bb2c-d84b42622878)
+![Wimuss Victorios](assets/Wimuss%20Victorios.png)
 
 ---
 
@@ -66,14 +66,14 @@ I per fi, dret al centre de la cuina, tacat de cendra, amb les botes damunt d’
 
 1. Collaret de maragdes de la família **Dendrar**
 2. Cofre del tresor de l'**Ullalverinós**
-   – 4 calzes (valorats en 60 monedes d'or cada un)
-3. Al Castell de _Cragmaw_
-   – un calze (150 mo)  
-   – un ganivet cerimonial (60 mo)  
-   – un encenser (120 mo)
-   – Barrilet de brandy bo
-   – Vara ornamentada amb plomes gravades
-   – Espasa del **Sildar**
+   - 4 calzes (valorats en 60 monedes d'or cada un)
+4. Al Castell de _Cragmaw_
+   - un calze (150 mo)
+   - un ganivet cerimonial (60 mo)
+   - un encenser (120 mo)
+   - Barrilet de brandy bo
+   - Vara ornamentada amb plomes gravades
+   - Espasa del **Sildar**
 
 **Encàrrecs**:
 
