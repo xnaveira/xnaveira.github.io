@@ -161,8 +161,8 @@ A l’extrem nord-est, una paret mig esfondrada. Una corda penja, oscil·lant, c
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  175 xp
+Bernat: 150 xp
+Paco:   150 xp
+Jaume:  150 xp
 ```
