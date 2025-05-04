@@ -141,10 +141,10 @@ A l’extrem nord-est, una paret mig esfondrada. Una corda penja, oscil·lant, c
   | Castell de Cragmaw, Rei Grol | 0 | 160 | 220 |
   | | | **120** | **250** | **220** |  
     
-- **Vesnot**: 237 monedes d'or, 62 monedes d'electrum, 55 monedes de plata
+- **Vesnot**: 239 monedes d'or, 64 monedes d'electrum, 55 monedes de plata
 - **Wimuss**: 237 monedes d'or, 62 monedes d'electrum, 55 monedes de plata, Poció de curació (_2D4+2_)
-- **Tharion**: 237 monedes d'or, 62 monedes d'electrum, 55 monedes de plata, Poció de curació (_2D4+2_), _Silence Scroll_
-- **Oreeo** : 237 monedes d'or, 62 monedes d'electrum, 55 monedes de plata, Poció de curació (_2D4+2_)
+- **Tharion**: 237 monedes d'or, 62 monedes d'electrum, 55 monedes de plata, Poció de curació (_2D4+2_)
+- **Oreeo** : 237 monedes d'or, 62 monedes d'electrum, 55 monedes de plata, Poció de curació (_2D4+2_), _Silence Scroll_
 
 **Encàrrecs**:
 
