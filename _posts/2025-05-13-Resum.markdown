@@ -18,6 +18,8 @@ Amb un crit de guerra, el mig-orc descarrega un cop brutal amb la seva destral, 
 
 Les gelatines s’agiten i allarguen unes pseudopotes que intenten atrapar els guerrers, però fracassen. L’**Oreeo** dispara un altre projectil i veu com una de les criatures es dissol en un bassalt tremolós. —Atac contundent! —crida—. Les armes tallants només les divideixen!
 
+![Vesnot Gelatina](/assets/VesnotGelatina.png)
+
 Ignorant l’advertència, el mig-elf carrega amb l’espasa. Davant la mirada astorada del bard, la gelatina es divideix de nou. Ara són tres. L’atac que segueix deixa en **Vesnot** greument ferit, el líquid àcid li escalda la pell. **Wimuss** aguanta ferm, esquivant els tentacles.
 
 **Tharion** es col·loca rere una roca i invoca un nou raig màgic que desfà una de les criatures en una taca amorfa. El bàrbar, furiós i sagnant, descarrega un cop definitiu amb la morningstar, esclafant l’últim enemic. El silenci torna.
@@ -36,11 +38,15 @@ Quan tot és a punt, el bàrbar es capbussa i s’endinsa sota l’aigua. El cad
 
 **Oreeo** es desplaça per tenir millor angle i dispara una fletxa que travessa la cuirassa mucosa del monstre. En **Vesnot**, enfurismat, brandant la seva destral, talla el coll de la criatura d’un sol cop. L’altre _Grick_ reacciona i amb les urpes fereix el bàrbar novament. **Wimuss**, des de la riba, dispara i el fereix lleument.
 
+![Wimuss Fletja](/assets/WimussFletja.png)
+
 Amb un rugit, el mig-orc fa un darrer cop que parteix l’enemic en dues meitats flotants. Els cossos es deixen arrossegar per l’aigua mentre la tensió es dissipa. La calma torna.
 
 En **Vesnot** agafa la vara i els anells amb respecte. Els ulls brillen d’expectativa. Potser són objectes de gran poder. Decidits, decideixen acampar a la vora del llac, protegits per la foscor i el silenci de la pedra.
 
 Durant la primera guàrdia, el bard observa les relíquies. Amb paraules antigues i gestos rituals, comença el procés per identificar si les troballes d’en **Vesnot** amaguen més del que sembla. Potser, en aquella vara i aquells anells, descansa una clau per vèncer la foscor que encara plana sobre la _Cova de l’Eco de les Ones_.
+
+![Oreeo Identify](/assets/OreeoIdentify.png)
 
 ---
 
