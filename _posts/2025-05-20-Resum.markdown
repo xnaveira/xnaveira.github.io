@@ -70,8 +70,8 @@ Tot sembla tranquil… fins que en **Vesnot** s’adona, de sobte, que en **Gund
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
+Jordi:  200 xp
+Bernat: 150 xp
+Paco:   150 xp
 Jaume:  0 xp
 ```
