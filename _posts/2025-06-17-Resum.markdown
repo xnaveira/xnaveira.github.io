@@ -119,8 +119,8 @@ Enmig del caos, amb en **Tharion** malferit, en **Vesnot** i en **Wimuss** lluit
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  200 xp
+Bernat: 200 xp
+Paco:   150 xp
+Jaume:  225 xp
 ```
