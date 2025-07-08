@@ -122,8 +122,8 @@ Amb **l’Aranya Negra** derrotada i els germans **Rockseeker** alliberats, els 
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  225 xp
+Bernat: 200 xp
+Paco:   200 xp
+Jaume:  200 xp
 ```
