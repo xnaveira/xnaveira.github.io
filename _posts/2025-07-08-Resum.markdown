@@ -87,8 +87,8 @@ Dins hi ha el que sembla el cofre de pagaments dels treballadors: 600 monedes de
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
-Jaume:  0 xp
+Jordi:  500 xp
+Bernat: 500 xp
+Paco:   500 xp
+Jaume:  500 xp
 ```
