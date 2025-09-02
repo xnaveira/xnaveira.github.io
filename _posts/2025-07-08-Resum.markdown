@@ -1,0 +1,94 @@
+---
+tags: [Phandelver]
+---
+
+# 08-07-2025
+
+## **Capítol: L’assalt dels stirges i els esquelets**
+
+Amb el cap ensangonat però la mirada ferma, el nan agraeix als aventurers el seu rescat. Encara amb restes de corda al voltant dels canells, es recolza en una columna mig esberlada mentre pregunta, ansiós:
+
+—La forja... La vau veure? És segura?
+
+El bard li descriu la sala on van combatre la calavera flotant, la màgia latent que hi flota, les flames encara actives dins la caldera i el pedrís de treball. El nan arronsa el front.
+
+—No, amics meus... —diu, sorprès— Això és la forja dels metalls. Una ferreria antiga. No és la màgica.
+
+—Potser hi ha cap indici entre els teus mapes? —pregunta el guerrer.
+
+—Bé, no. No hi ha res als documents que pugui ajudar-vos a trobar-la.  
+Fa una pausa llarga. Després, alça la mirada. En **Gundren** comenta que no volen seguir més endavant i que prefereixen marxar. Tot i això, ens ofereix un tracte: si alliberem completament la cova, ens donaran un 10% de la riquesa generada per vida.
+
+—Això quant és? —diu en **Wimuss**.
+
+—Milers de monedes, guerrer, no t’ho gastaries ni en cent vides —responen els nans.
+
+—T'entenc **Gundren**, massa coses us han passat. Us acompanyarem fins a la sortida —insisteix el bard.
+
+Els aventurers acompanyen els nans pels passadissos foscos de la cova fins a l’entrada principal. Allà, sota l’aire fred i humit que entra de l’exterior, es separen amb paraules de gratitud i promeses de retrobar-se quan la cova sigui del tot alliberada.
+
+A partir d’allí, continuen explorant la cova cap a l’est. A mesura que avancen, troben esquelets de nans i orcs, utensilis rovellats i restes de batalla. El bard, encara marcat per la terrible experiència amb les aranyes, no deixa de mirar cap al sostre. Gràcies a això, descobreix una banda d’stirges que comencen a descendir per atacar-los.
+
+La primera baixa i s’enganxa al pit del bàrbar. Però ell, amb un cop sec de destral, se la treu de sobre i la destrossa. Les altres s’apropen una a una. Una es llança sobre el tiefling i li clava la trompa, però ell reacciona envoltant-se de flames. Després es desplaça i emet una flamarada que en crema moltes de cop.
+
+![ThatrionStirges](/assets/ThatrionStirges.jpg)
+
+El guerrer agafa la ballesta i dispara, però el projectil xiula sense impactar. Les criatures es van acostant. Una altra s’enganxa a en **Vesnot**, però el bard se la treu de sobre amb un hàbil cop d’espasa. No s’atura: corre cap al tiefling i el protegeix, matant una altra stirge que li volia clavar la trompa.
+
+El mig-orc fa servir la destral com un matamosques: amb un cop amb la part plana, esclafa una stirge contra la paret. En **Tharion**, després d’esquivar-ne una, convoca un raig d’energia que calcina la criatura.
+
+Es troben en una cova amb el sostre alt —uns trenta peus— i tres passadissos que se’n desprenen. Les parets són cobertes de relleus de nans i gnoms treballant a les mines. Avancen cap al sud. Hi ha dues portes. Decideixen obrir la de la dreta: sembla una antiga sala de guàrdia, però una maledicció persistent fa que alguns esquelets es comencin a aixecar i avancin cap a ells.
+
+Alguns tenen arcs. Un dispara contra el guerrer, però falla de llarg. Un altre apunta al bard i falla estrepitosament. L'**Oreeo** conjura una esfera de poder que desestabilitza alguns esquelets, però no sembla afectar-los gaire. El guerrer respon amb una fletxa que es clava en un dels morts vivents.
+
+El bàrbar entra a la sala amb fúria i, amb el martell de guerra, destrossa un dels esquelets. El tiefling convoca un altre raig d’energia que converteix un enemic en cendra.
+
+![VesnotSkeleton](/assets/VesnotSkeleton.jpg)
+
+Els morts intenten envoltar el bàrbar Alguns ataquen, però fallen. Ell enarbora el martell i també falla. 
+
+Enmig del caos l’**Oreeo** s’apropa de nou i invoca l’esfera màgica, que destrueix tres esquelets i en deixa un altre molt malferit.
+
+En **Wimuss** dispara una nova fletxa i abateix un dels no-morts. El tiefling, animat, invoca un altre raig i el redueix a pols. En **Vesnot** alça el martell amb una mà i l’ensorra al crani d’un esquelet fins a les caderes.
+
+Un darrer esquelet ataca e **Tharion**, però falla. El bard s’hi llença des del flanc i el colpeja amb l’espasa. El tiefling remata l’enemic amb un atac de ràpier. Ja no queda cap adversari.
+
+La porta del fons duu a un petit magatzem, ple d’utensilis trencats i pergamins desfets. Sota un mostrador, el mig-orc troba un cofre de ferro amb un gran pany. La clau en forma d’enclusa no hi encaixa. En **Tharion** intenta forçar-lo amb les ganzúes i ho aconsegueix a la tercera.
+
+Dins hi ha el que sembla el cofre de pagaments dels treballadors: 600 monedes de coure, 180 de plata, 90 d’electre i 60 d’or.
+
+---
+
+**Botí**:
+
+- 2 Anells de platí valorats en 75 monedes d'or cadascú.
+- 9 pedres precioses valorades en 10 monedes d'or cadascuna.
+- 1 gerra feta d'electrum valorada en 100 monedes d'or.
+- Una vara màgica
+- Clau en forma d'enclusa
+
+- **Vesnot**: 15 monedes d'or, 22 monedes d'electrum, 45 monedes de plata, 150 monedes de coure
+- **Wimuss**: 15 monedes d'or, 2 monedes d'electrum, 45 monedes de plata, 150 monedes de coure
+- **Tharion**: 15 monedes d'or, 22 monedes d'electrum, 45 monedes de plata, 150 monedes de coure
+- **Oreeo** : 15 monedes d'or, 24 monedes d'electrum, 45 monedes de plata, 150 monedes de coure
+
+**Encàrrecs**:
+
+1. **Netejar d'enemics la cova de l'Eco** \- En **Gundren** ens demana netejar la _cova de l'Eco_ a canvi del 10% de totes les ganàncies que se'n treguin
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)
+3. **Netejar d’enemics el castell de Cragmaw** \- Falta cobrar la recompensa 500 monedes d’or + 50 monedes d'or per tornar l'espasa del **Sildar**.
+
+**Misteris**
+
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- Hi serà la llegendària maça _Lightbringer_ a la _Cova de l'Eco_?
+
+## XP
+
+```
+Jordi:  0 xp
+Bernat: 0 xp
+Paco:   0 xp
+Jaume:  0 xp
+```
