@@ -1,0 +1,88 @@
+
+---
+tags: [Phandelver]
+---
+
+# 02-09-2025
+
+## **Espores i Espectres**
+
+Els aventurers retrocedeixen pel túnel i prenen el camí que es bifurca a la dreta. Aviat s’obre davant seu una estança cavernosa coberta de bolets gegantins, alguns dels quals arriben a un metre d’alçada. Les seves formes irregulars projecten ombres fantasmals sobre les parets rugoses. L’aire és humit i dens, amb una fortor de terra i floridura.
+
+El bard observa els fongs amb atenció i adverteix els altres: si són destorbats, poden alliberar espores tòxiques. Ell i el tiefling avancen amb pas cautelós, sense tocar res. Però el guerrer, amb la seva torpesa habitual, frega una de les masses carnoses. Una pols fluorescent s’aixeca en un núvol al voltant seu i del bàrbar. Mentre el primer sembla immune, el segon comença a sentir-se marejat i es veu obligat a seure contra la paret, respirant amb dificultat.
+
+Els altres tres continuen avançant i arriben a una sala ampla, distribuïda en dos nivells. Al sostre, vetes de minerals llueixen amb guspires metàl·liques, com si estrelles haguessin quedat atrapades sota terra. A la dreta s’alça un edifici de portes humanes, marcades per cremades i esquerdes que revelen antics combats màgics.
+
+Quan el mig-orc es recupera, torna a creuar la sala dels bolets. Encara marejat, ensopega amb un altre grup de fongs i un segon núvol d’espores s’alça al seu voltant. Per sort, aquesta vegada el verí no sembla afectar-lo i aconsegueix reunir-se amb els companys.
+
+Davant la porta de metall mig fosa, els guerrers hi posen espatlla. Amb un cruixit estrident, aconsegueixen obrir-la. A l’altra banda, una figura etèria es materialitza entre la penombra. El seu rostre es desdibuixa, els ulls llueixen amb un foc espectral.
+
+![EspectreMormesk](/assets/EspectreMormesk.png)
+
+—La vostra presència és ofensiva i no benvinguda. Els meus tresors no són per vosaltres —ressona la veu del fantasma.
+
+El bard fa un pas endavant:
+—Per a qui són, doncs?
+
+—Només per a mi —replica l’aparició, amb un to glaçat.
+
+—Qui ets? —pregunta el tiefling.
+
+—Sóc **Mormesk**, el mag —respon el fantasma, inflant-se com si la seva pròpia memòria l’omplís de poder.
+
+El tiefling insisteix:
+—Quant de temps portes aquí dins?
+
+—El temps no té sentit per a mi. Només els meus tresors perduren. Però si voleu guanyar-vos el meu favor, ajudeu-me a desfer-me de la fastigosa criatura que habita a la sala d’encanteris. Fins que ella no desaparegui, jo no podré complir el meu propòsit.
+
+—Quina criatura? —pregunta el tiefling.
+
+—Un espectador. —L’ombra gira el cap cap a ell—. Vine cap aquí i obre el cofre.
+
+En **Tharion** s’acosta. Dins del cofre, veu piles de monedes, diamants que brillen com gotes de llum i una pipa ornamentada. Als prestatges de pedra, polsosos i esquerdats, hi ha llibres de màgia d’un valor incalculable.
+
+—Tot això pot ser vostre —diu el fantasma amb veu seca—, però la pipa es queda amb mi.
+
+El bard, encuriosit, pregunta:
+—La maça *Lightbringer* és a la forja d’encanteris?
+
+—Les armes màgiques que restaven a mig forjar encara s’hi troben —confirma **Mormesk**.
+
+—Què passarà amb tu quan puguis complir el teu destí? —insisteix el bard.
+
+L’esperit fa una pausa, com si ni ell mateix en tingués la resposta.
+—No ho sé pas.
+
+Els aventurers intercanvien mirades. Lentament, es retiren de la sala, deixant enrere la figura espectral que roman immòbil, vigilant el seu tresor amb un zel etern.
+
+---
+
+**Botí**:
+
+- 2 Anells de platí valorats en 75 monedes d'or cadascú.
+- 9 pedres precioses valorades en 10 monedes d'or cadascuna.
+- 1 gerra feta d'electrum valorada en 100 monedes d'or.
+- Una vara màgica
+- Clau en forma d'enclusa
+
+**Encàrrecs**:
+
+1. **Netejar d'enemics la cova de l'Eco** \- En **Gundren** ens demana netejar la _cova de l'Eco_ a canvi del 10% de totes les ganàncies que se'n treguin
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)
+3. **Netejar d’enemics el castell de Cragmaw** \- Falta cobrar la recompensa 500 monedes d’or + 50 monedes d'or per tornar l'espasa del **Sildar**.
+4. **Matar l'espectador** \- L'espectre de l'antic mag **Mormesk** ens demana que matem l'espectador que està a la sala dels encanteris, si ho fem tot el que està a la seva estança menys la pipa ornamentada serà nostre.
+
+**Misteris**
+
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- Hi serà la llegendària maça _Lightbringer_ a la _Cova de l'Eco_?
+
+## XP
+
+```
+Jordi:  0 xp
+Bernat: 0 xp
+Paco:   0 xp
+Jaume:  0 xp
+```
