@@ -1,0 +1,67 @@
+---
+tags: [Phandelver]
+---
+
+# 11-09-2025
+
+## **Capítol: El Guardià dels Artefactes**
+
+En **Vesnot** demana de fer un descans curt per recuperar-se del malestar que li han deixat les espores inhalades. El grup busca un racó tranquil, però de sobte dos gricks es deixen caure del sostre. Un d’ells s’abraona sobre **Oreeo** amb els seus tentacles, però el bard, àgil com un ballarí, esquiva l’atac i respon amb la seva espasa curta, ferint la bèstia. El bàrbar, més ràpid que el seu oponent, gira la seva destral i colpeja el segon grick que cau damunt seu, encara que no pot evitar que els tentacles li lacerin la pell.
+
+En **Tharion** es col·loca en posició estratègica per no afectar els companys i invoca un raig d’energia fosca que impacta el monstre que tenia atrapat el mig-orc. En veure’l afeblit, el bàrbar aprofita l’ocasió i, amb un cop brutal de destral, parteix la criatura en dos. En **Wimuss** s’hi acosta amb l’espasa alçada, però els seus cops es perden contra l’aire. El bruixot intenta de nou invocar la seva màgia, però l’encanteri es dissipa abans d’assolir l’objectiu. Finalment, el bard executa una filigrana amb destresa i enfonsa la seva espasa dins la boca del monstre. L’acer màgic resplendeix amb una aura negra que devora el grick, deixant només restes en descomposició.
+
+Quan encara respiren accelerats, una massa amorfa i groguenca emergeix de la foscor: una gelatina ocre que avança amb pseudòpodes oscil·lants. L'**Oreeo** es retira amb un salt mentre el mig-orc deixa la destral per brandar la seva maça i assestar-hi un cop contundent. La criatura respon amb un tentacle viscós que el colpeja de ple. El guerrer, veient la fatiga del company, descarrega un tall amb la seva espasa llarga: la gelatina es divideix en dues criatures més petites. El tiefling, murmurant paraules arcàniques, llança una flamarada que consumeix les dues masses, reduint-les a una taca fumejant sobre la pedra.
+
+Després d’aquest doble ensurt, els aventurers acorden fer un descans llarg amb guàrdies establertes. La calma subterrània no és trencada i l’endemà es lleven restaurats. Després d’un mos, reprenen la marxa per l’interior de la cova.
+
+Pugen unes escales cap al nord, on les parets ennegrides i les portes mig foses recorden els combats màgics d’un passat antic. El guerrer força els batents i els obre amb esforç. Dins troben un antic taller arcà, devastat pels incendis i llamps de temps enrere. Al centre, un pedestal sosté un braser intacte amb una flama verda que crema sense consumar-se. I darrere, flotant, apareix un **espectador**.
+
+![Espectador](/assets/Espectador.png)
+
+Un dolor punxant travessa el cap del guerrer quan la criatura projecta la seva veu dins la seva ment: —Qui ets i què fas aquí?
+
+—Sóc **Wimuss**, i amb els meus companys compleixo una missió molt important, bèstia repugnant\! —brama ell.
+
+—Tu ets la bèstia. Marxeu, doncs el meu deure és protegir aquests artefactes\! —retrona la criatura amb els seus ulls lluents.
+
+El guerrer intenta tancar la porta, però els batents romanen oberts com si una força invisible els subjectés. El bard s’avança i conjura un atac ràpid abans de retirar-se. La criatura el fulmina amb la mirada i un impuls psíquic l’obliga a voler atacar el primer company que té a l’abast.
+
+Enfollit, en **Wimuss** es llança contra el guardià, colpejant dues vegades amb la seva espasa; un dels talls impacta la carn alienígena. En **Tharion**, buscant un angle net, conjura tres rajos de foc: un s’estavella contra la paret, però els altres dos cremen la pell viscosa de la bèstia. Finalment, el mig-orc irromp amb la seva espasa de gran fulla i assesta un cop devastador que deixa l’enemic malferit. Amb un segon tall, divideix el cos de l’espectador, que cau a terra com un globus desinflat, extingit. Immediatament la presència que emboirava la ment de l’**Oreeo** desapareix.
+
+En una cantonada del taller, troben encara objectes miraculosament intactes. Sobre un suport reposa la maça *Lightbringer*, el seu cap forjat amb el símbol radiant d’un sol naixent. Al seu costat, una cuirassa de metall lluent, amb la imatge d’un drac encastat en el pit.
+
+Amb gest cerimoniós, el bard s’agenolla davant les peces, les aixeca amb solemnitat i, amb paraules de lloança, lliura la maça a en **Vesnot** com si confiés a les seves mans la força del sol naixent, i col·loca la cuirassa als braços d'en **Wimuss** com qui vesteix un cavaller escollit pel drac sagrat. La llum del braser verd sembla reverberar en aquells instants, consagrant l’entrega com un moment de destí per als herois.
+
+Amb aquests nous tresors a les mans, els aventurers reprenen la seva senda cap a les profunditats desconegudes.
+
+---
+
+**Botí**:
+
+- 2 Anells de platí valorats en 75 monedes d'or cadascú.
+- 9 pedres precioses valorades en 10 monedes d'or cadascuna.
+- 1 gerra feta d'electrum valorada en 100 monedes d'or.
+- Una vara màgica
+- Clau en forma d'enclusa
+
+**Encàrrecs**:
+
+1. **Netejar d'enemics la cova de l'Eco** \- En **Gundren** ens demana netejar la _cova de l'Eco_ a canvi del 10% de totes les ganàncies que se'n treguin
+2. **Eliminació de Vara de Vidre** \- Eliminar el líder de la Marca Vermella, Vara de Vidre, per ordre de Halia Thornton, a canvi d’una recompensa. El poden trobar a la mansió Tresendar. 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)
+3. **Netejar d’enemics el castell de Cragmaw** \- Falta cobrar la recompensa 500 monedes d’or + 50 monedes d'or per tornar l'espasa del **Sildar**.
+4. **Matar l'espectador** \- Parlar amb l'espectre de l'antic mag **Mormesk** per dir-li que l'espectador ha estat destruït, i demanar la recompensa (recordar de no agafar la pipa ornamentada)
+
+**Misteris**
+
+- **Lord Albrek** és en *Vara de Cristall*. Però a quin mapa es referia l'emisor (*Aranya negra?*) d'aquella carta? Quan van rescatar en Sildar, els va explicar que **Clark** tenia ordres de l’*Aranya Negra* per atrapar en **Gundren** i que li havien pres el mapa de la _Cova de l’Eco_. Es refereixen a aquest mapa?
+- On s'amaga en **Iarno Albrek**?
+- Què obre la clau en forma d'enclusa?
+
+## XP
+
+```
+Jordi:  0 xp
+Bernat: 0 xp
+Paco:   0 xp
+Jaume:  0 xp
+```
