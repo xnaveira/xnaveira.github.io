@@ -50,8 +50,8 @@ Silenci. Només el respir accelerat dels herois i la pudor d’aràcnid cremat o
 ## XP
 
 ```
-Jordi:  0 xp
-Bernat: 0 xp
-Paco:   0 xp
+Jordi:  250 xp
+Bernat: 225 xp
+Paco:   225 xp
 Jaume:  0 xp
 ```
