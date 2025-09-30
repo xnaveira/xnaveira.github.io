@@ -1,0 +1,57 @@
+---
+tags: [Phandelver]
+---
+
+# 16-09-2025
+
+## **Capítol: Vara de vidre, el darrer enemic**
+
+Tot just abandonen la cambra del taller arcà, encara amb l’eco de la mort de l’espectador ressonant a les orelles, quan una figura emergeix de les ombres del passadís del nord. Porta una vara de vidre lluent a la mà i el seu rostre desfigurat de ràbia tremola a la llum verda que encara arriba del braser.
+
+—Aquí esteu, desgraciats\! —brama—. Ho heu espatllat tot\! Hauríem d’haver estat rics, però els vostres actes ho han destrossat\! Moriu aquí i ara... Ataqueu, filles meves\!
+
+D’un moviment sobtat, unes aranyes gegants es desplomen del sostre i els aventurers queden atrapats en la sorpresa. Una d’elles s’abraona sobre **Wimuss**, que aixeca l’escut just a temps. A la seva dreta, **Oreeo** és menys àgil: els quelícers li mosseguen l’espatlla i el verí s’estén ràpidament per les venes. Altres dues aranyes escupen teranyines: el mig-orc esquiva el fil enganxós, però **Tharion** queda atrapat de ple.
+
+Amb un crit de guerra, el guerrer aparta l’escut i enfonsa l’espasa a l’estómac d’un aràcnid. El bard respon amb un crit d’energia que sacseja els murs: l’ona atronadora fa recular dues de les bèsties, una de les quals cau morta entre espasmes. El bruixot lluita inútilment per alliberar-se de la teranyina mentre el bàrbar corre contra el mag de la vara, escut i destral en mà, i li obre una ferida al tors. Malferit, ell es transforma en fum i apareix uns metres més enllà.
+
+El guerrer segueix la pressió: amb una estocada acaba amb l’aranya que encara s’alçava. Una altra es mou pel sostre i llença teranyina, però falla. El bàrbar intenta atacar el mag, però un vel màgic bloqueja el cop: la vara vibra i s’il·lumina amb sinistra energia. El bard, atrapat però obstinat, conjura una melodia discordant que ressona dins el cap de l’aranya del sostre, que xiscla de dolor. L’altra bèstia vomita teranyina sobre el músic i el deixa immobilitzat.
+
+![WimussSpiders](/assets/WimussSpiders.png)
+
+El mag alça la seva vara i immobilitza el mig-orc amb un encanteri, després s’esmuny dins l’habitació. En **Vesnot**, alliberant-se de l’encís, s’apropa a la porta on s’ha refugiat el mag. A l’altra costat de la sala el guerrer, implacable, travessa el crani d’una altra aranya amb una estocada neta. La darrera aranya insisteix amb la seva teranyina, però el guerrer l’esquiva de nou. El bard es retorça en va dins el seu lligam.
+
+De sobte el mag surt embogit per la porta de la cambra i tres raigs màgics esclaten contra **Tharion** i **Oreeo**, encara empresonats per les fibres enganxoses. Però llavors el mig-orc apareix amb la vara a la mà i li retorna el conjur: tres projectils de pura energia màgica colpegen el cos del traïdor, però una aura radiant el protegeix. L’última aranya cau sobre el bàrbar, però ell fa un pas enrere i evita els quelícers.
+
+El guerrer, en un gir àgil, talla les teranyines que empresonaven el bard i el bruixot. L’alliberament és immediat: el tiefling convoca un llampec que cau sobre la vara i electrocuta el seu amo. El crit de l’home ressona pels corredors quan cau maleint-los. El guerrer clava encara dos talls més a l’aranya que roman, arrencant-li potes i fent-la fugir aterrorida. No arriba lluny: en **Vesnot** la persegueix i amb un cop sec de destral la divideix en dos, acabant amb la darrera de les filles.
+
+Silenci. Només el respir accelerat dels herois i la pudor d’aràcnid cremat omplen la sala. Han sobreviscut a l’emboscada, però el preu encara s’haurà de conèixer.
+
+---
+
+**Botí**:
+
+- 2 Anells de platí valorats en 75 monedes d'or cadascú.
+- 9 pedres precioses valorades en 10 monedes d'or cadascuna.
+- 1 gerra feta d'electrum valorada en 100 monedes d'or.
+- Una vara màgica
+- Clau en forma d'enclusa
+
+**Encàrrecs**:
+
+1. **Netejar d'enemics la cova de l'Eco** \- En **Gundren** ens demana netejar la _cova de l'Eco_ a canvi del 10% de totes les ganàncies que se'n treguin
+2. **Eliminació de Vara de Vidre** \- Eliminat, cobrar recompensa de **Halia Thornton**, 120 monedes d’or (+ 1 moneda d’or per bandit mort, n'hem matat 13)
+3. **Netejar d’enemics el castell de Cragmaw** \- Falta cobrar la recompensa 500 monedes d’or + 50 monedes d'or per tornar l'espasa del **Sildar**.
+4. **Matar l'espectador** \- Parlar amb l'espectre de l'antic mag **Mormesk** per dir-li que l'espectador ha estat destruït, i demanar la recompensa (recordar de no agafar la pipa ornamentada)
+
+**Misteris**
+
+- Què obre la clau en forma d'enclusa?
+
+## XP
+
+```
+Jordi:  0 xp
+Bernat: 0 xp
+Paco:   0 xp
+Jaume:  0 xp
+```
