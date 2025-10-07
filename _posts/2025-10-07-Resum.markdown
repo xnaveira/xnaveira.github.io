@@ -1,0 +1,94 @@
+---
+tags: [Congelats]
+---
+
+# Uthordun
+
+## Orígens:
+
+Quan la ciutat èlfica de Molaesmyr va desenterrar una terrible maledicció que va corrompre el Savalirwood, molts supervivents van fugir cap al nord. Després de travessar les gèlides muntanyes dels Flotket Alps, els elfs van arribar a la fortalesa subterrània dels nans d’Uthodurn, governada per la reina Judessa Fruunast, que amb certa reticència els va concedir asil.
+
+Amb el pas dels anys, es va fer evident que aquella convivència seria permanent. Les tensions culturals entre nans i elfs van créixer fins que la reina Judessa i el rei sense tron Imathan Talviel van decidir establir una diarquia, compartint el govern i el destí de la ciutat. La seva col·laboració es va convertir en una amistat profunda i en un període de prosperitat. Després de la mort de Judessa (794 PD), la seva filla Simone Fruunast va heretar el tron i va continuar fomentant la unitat i l’harmonia entre ambdós pobles.
+
+## Objectius
+
+Investigar la corrupció del Savalirwood: estudiosos i exploradors d’Uthodurn intenten descobrir l’origen de la maledicció que va destruir Molaesmyr i, si és possible, revertir-la.
+Recuperar coneixements perduts: expedicions al bosc maleït competeixen amb saquejadors de Shadycreek Run, que roben relíquies per vendre-les.
+Expandir-se cap al nord:
+
+
+Uraliss va ser un intent fallit de crear terres de conreu mitjançant màgia per descongelar les planures del Rime Plains, però el sòl rocós ho va impedir.
+**Palebank Village** va ser fundada com a poble pesquer, proporcionant aliments i una base comercial costanera.
+Explorar **Eiselcross**: els exploradors uthodurnians van descobrir restes d’artefactes màgics anteriors al Calamity, despertant l’interès dels monarques i dels estudiosos.
+
+
+
+## Relacions
+
+Uthodurn es manté aïllada dels conflictes del sud.
+Els estrangers són rebuts amb escepticisme; qualsevol persona procedent de Shadycreek Run és capturada i interrogada.
+La majoria de contactes externs són aventurers, comerciants o investigadors.
+
+
+## Figures destacades
+
+
+### Queen Simone Fruunast (Legal bona, nansa)
+
+Líder carismàtica, compassiva i de cor noble, amb gran esperit de lluita.
+Sovint actua segons els sentiments més que no pas l’estratègia.
+Confia en Imathan per obtenir claredat i saviesa.
+Diplomàtica, però capaç d’empunyar la destral si cal.
+
+
+
+### King Imathan Talviel (Legal bo, elf)
+
+Antic sacerdot de Corellon, ara rei dels elfs refugiats.
+Saviesa, paciència i serenor defineixen el seu lideratge.
+Manté viva la fe en l’Arch Heart i promou la convivència espiritual amb els nans.
+
+
+
+### Professor Gulrim Shalebrow (Legal bo, nan)
+
+Explorador i erudit valent que va convèncer la reina Fruunast d’autoritzar l’expedició cap a Eiselcross.
+Fundador del Syrinlya Outpost.
+Dirigeix els esforços d’Uthodurn per estudiar les ruïnes i els secrets enterrats sota la neu.
+
+
+
+## Tema
+
+Uthodurn representa la cooperació i la perseverança: una civilització nascuda de la unió entre dues cultures que van sobreviure a la tragèdia. Enmig del fred i les ombres del nord d’Exandria, els seus habitants lluiten per construir un futur millor i comprendre els misteris que encara envolten el passat dels elfs de Molaesmyr.
+
+
+# Palebank Village
+
+**Població**: 690 habitants (61% nans, 32% elfs, 3% gnoms, 4% altres races)
+**Govern**: L’elf explorador Elro Aldataur és el líder designat del poble. Confia en amics i aliats de confiança per delegar tasques.
+**Defensa**: Elro dirigeix una petita força de Glassblades errants, soldats que patrullen la zona. En moments de crisi, alguns civils també prenen les armes per defensar la comunitat.
+**Comerç**: Els subministraments bàsics es poden comprar o intercanviar a petites tavernes o botigues de queviures.
+**Organitzacions**: Hi ha dos temples modestos dedicats a Moradin i Corellon. Uthodurn governa el poble a distància, mentre que les Tribes of Shadycreek envien agents per investigar sobre Eiselcross.
+
+
+
+## Descripció general
+
+
+Situat a la costa gèlida dels Frigid Depths, Palebank Village és el primer assentament d’Uthodurn que va prosperar més enllà de les muntanyes. Es troba al peu dels penya-segats baixos de la Crystalsands Tundra, al nord dels Flotket Alps.
+Els habitants viuen principalment de la pesca al gel, la caça i el trampeig, i sovint tornen a Uthodurn en petites caravanes per vendre els productes i reposar subministraments. Les criatures salvatges i territorials són una amenaça constant, per això grups rotatius de Glassblades protegeixen el poble.
+Els molls han estat recentment ampliats per donar cabuda a l’augment d’expedicions cap al nord-oest, en direcció a Eiselcross. Això ha convertit Palebank en un punt de partida per a exploradors i comerciants, generant prosperitat i la necessitat d’obrir noves tavernes i allotjaments.
+
+## Govern
+
+**Elro Aldataur**, un elf explorador veterà que va ajudar a fundar el poble fa uns seixanta anys, lidera la comunitat. De caràcter seriós i poc donat a l’humor, va demostrar la seva vàlua durant els primers anys, quan el petit assentament vivia sota constants amenaces. Gràcies a la seva fermesa, els vilatans el van convèncer perquè acceptés el càrrec de governador. Actualment dirigeix entre seixanta i noranta Glassblades, mantenint l’ordre i la seguretat.
+
+## Criminalitat
+
+A Palebank, la supervivència depèn de la cooperació. Els delictes són rars i, quan es produeixen, solen néixer de la necessitat més que de la malícia. Elro s’encarrega personalment d’impartir justícia, adaptant el càstig a les circumstàncies.
+
+## Geografia
+
+El poble està envoltat per quatre torres de vigilància i una palisada de troncs de tres metres d’alçada. Les seves més de cent cabanes i barraques formen un laberint improvisat, construït sense un pla previ.
+Cap al nord, un penya-segat de cinc metres baixa fins a una petita platja de sorra i neu, on els molls acullen una dotzena de vaixells, des de barques de pesca fins a petits mercants que transporten expedicions cap a **Eiselcross**.
