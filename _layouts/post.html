@@ -2,15 +2,54 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }} {{ page.tags }}</h1>
-    <h2 class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</h2>
+    <h1 class="post-title" itemprop="name headline">{{ page.title }} {{ page.tags }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {% if page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">{{ page.author }}</span>
+        </span>
+      {% endif %}
+    </p>
   </header>
 
-  <div class="post-content">
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-    <p><a href="{{ site.baseurl }}/post_index">Tornar al índex</a></p>
+  <p><a href="{{ site.baseurl }}/post_index">Tornar al índex</a></p>
+
+  <!-- Structured Data for Telegram Instant View and Search Engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ page.title | escape }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ page.author | default: site.author | default: site.title }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.logo | default: '/assets/default-og-image.png' | absolute_url }}"
+      }
+    },
+    "description": "{{ page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }{% if page.image %},
+    "image": "{{ page.image | absolute_url }}"
+    {% endif %}
+  }
+  </script>
 </article>

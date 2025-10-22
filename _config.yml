@@ -28,6 +28,12 @@ twitter_username: nymiro
 github_username: xnaveira
 repository: xnaveira/xnaveira.github.io
 
+# Additional metadata for social sharing and Telegram Instant View
+author: Diari de Rol
+lang: ca
+locale: ca_ES
+og_image: /assets/VesnotHeroic.png
+
 # Build settings
 #theme: minima
 theme: jekyll-theme-slate
