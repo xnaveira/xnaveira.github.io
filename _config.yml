@@ -29,10 +29,23 @@ github_username: xnaveira
 repository: xnaveira/xnaveira.github.io
 
 # Additional metadata for social sharing and Telegram Instant View
-author: Diari de Rol
+author:
+  name: Diari de Rol
+  twitter: nymiro
 lang: ca
-locale: ca_ES
-og_image: /assets/VesnotHeroic.png
+
+# Social sharing defaults (used by jekyll-seo-tag)
+social:
+  name: Diari de Rol
+  links:
+    - https://twitter.com/nymiro
+    - https://github.com/xnaveira
+
+# Default SEO image for Open Graph/Twitter Cards
+logo: /assets/VesnotHeroic.png
+
+# Timezone for proper date formatting
+timezone: Europe/Madrid
 
 # Build settings
 #theme: minima
@@ -40,6 +53,7 @@ theme: jekyll-theme-slate
 remote_theme: pages-themes/slate
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
