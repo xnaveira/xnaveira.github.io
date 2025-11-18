@@ -128,8 +128,8 @@ L'heterogeni grup va anar a l'única fonda del poble, on la tavernera, amb press
 
 ```
 Borin  : 0 xp
-Mythiel: 0 xp
-Pep    : 0 xp
-Rhys   : 0 xp
-Walo   : 0 xp
+Mythiel: 50 xp
+Pep    : 50 xp
+Rhys   : 50 xp
+Walo   : 50 xp
 ```
