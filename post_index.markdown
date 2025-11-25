@@ -3,6 +3,7 @@ layout: post_index
 title: Índex de resums
 permalink: /post_index/
 items:
+  - Congelats
   - Phandelver
   - Waterdeep
 ---
