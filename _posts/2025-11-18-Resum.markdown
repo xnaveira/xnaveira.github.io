@@ -121,9 +121,9 @@ Els aventurers decideixen sortir de casa de la Tulgi i encaminar-se a trobar la 
 ## XP
 
 ```
-Borin  : 0 xp
-Mythiel: 0 xp
+Borin  : 50 xp
+Mythiel: 50 xp
 Pep    : 0 xp
-Rhys   : 0 xp
-Walo   : 0 xp
+Rhys   : 50 xp
+Walo   : 50 xp
 ```
