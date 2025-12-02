@@ -128,7 +128,7 @@ Quina serà la reacció del grup davant d'aquesta situació desesperada? Toca ut
 ## XP
 
 ```
-Borin  : 50 xp
+Borin  : 60 xp
 Mythiel: 75 xp
 Pep    : 0 xp
 Rhys   : 80 xp
