@@ -79,7 +79,7 @@ Les dues figures, un elf i una nana, estaven en posició meditativa. L'elf estav
 
 —Hem transcendit aquesta animositat —va replicar la **Utolott**—. Ara ens rendim al culte del drac **Thiel**.
 
-**Mythiel** va recordar immediatament el nom: **Thiel** és conegut com un drac al servei del déu maligne **Tiamap**.
+**Mythiel** va recordar immediatament el nom: **Thiel** és conegut com un drac al servei del déu maligne **Tiamat**.
 
 —Ens has de tornar tot el que vau robar a la tenda de la *Pelk* —va exigir **Rhys Rierol**.
 
@@ -87,7 +87,7 @@ Les dues figures, un elf i una nana, estaven en posició meditativa. L'elf estav
 
 —Boja, has posat en perill la ciutat\! —va cridar **Mythiel**, la veu ofegada per la indignació. — L'allau d'infectats i la mort de **Tulgi Lutant** podrien recaure sobre *Palebank Village*. 
 
-—Sols s’emmalaltirà qui **Tiamap** vulgui castigar amb la seva gèlida mà —va replicar **Hulil** amb indiferència, el fanatisme vidriós als seus ulls.
+—Sols s’emmalaltirà qui **Tiamat** vulgui castigar amb la seva gèlida mà —va replicar **Hulil** amb indiferència, el fanatisme vidriós als seus ulls.
 
 **Mythiel**, desesperada en veure el fanatisme als ulls de la nana, va recórrer a la seva màgia més subtil. Va estendre una mà i, murmurant paraules èlfiques d'il·lusió, una forma tènue i brillant es va materialitzar sobre el jaç de **Hulil**. Era la seva germana, **Tulgi Lutant**, amb el rostre lívid de la malaltia, però amb una llum de súplica als ulls.
 
@@ -101,7 +101,7 @@ Les dues figures, un elf i una nana, estaven en posició meditativa. L'elf estav
 
 —De debò has contagiat al meu company? —va cridar **Rhys Rierol**. 
 
-—Sols s’emmalaltirà si **Tiamap** ho vol —va dir **Hulil Lutant** amb posat seriós—. Ara teniu una bona motivació.
+—Sols s’emmalaltirà si **Tiamat** ho vol —va dir **Hulil Lutant** amb posat seriós—. Ara teniu una bona motivació.
 
 Dins del cofre, van trobar els objectes robats que els quedaven:
 
@@ -112,7 +112,7 @@ Dins del cofre, van trobar els objectes robats que els quedaven:
 * Una Bossa amb 100 mo  
 * El rebut del **Liel**.
 
-El camí per la *Cova Croadora* ha estat banyat en sang, però el misteri s'ha revelat. **Walo Oavutheg** ha estat infectat directament amb la pols congeladora dels artefactes. **Hulil Lutant** està al servei del drac **Thiel** (un servent de **Tiamap**), i el rastre dels vials els torna a *Palebank Village*, directes al comerciant **Liel**, un assidu de la fonda *El Nan Feliç*.
+El camí per la *Cova Croadora* ha estat banyat en sang, però el misteri s'ha revelat. **Walo Oavutheg** ha estat infectat directament amb la pols congeladora dels artefactes. **Hulil Lutant** està al servei del drac **Thiel** (un servent de **Tiamat**), i el rastre dels vials els torna a *Palebank Village*, directes al comerciant **Liel**, un assidu de la fonda *El Nan Feliç*.
 
 Quin serà l’impacte d'aquesta malaltia sobre **Walo Oavutheg**? Tindran els **nostres herois** prou temps per trobar la cura abans que la malaltia l'atrapi? Els vials estaran ben guardats? I quantes víctimes més causarà el culte del drac abans que la *Malaurança Frígida* sigui aturada?
 
@@ -123,7 +123,7 @@ Quin serà l’impacte d'aquesta malaltia sobre **Walo Oavutheg**? Tindran els *
 * **Urgon Wenth (Nan Explorador):** Mort i Congelat. (Primera víctima de la *Malaurança Frígida*).  
 * **Verla Pelc (Propietària de ‘Pelk’s Curiosities’):** Morta i Congelada.  
 * **Tulgi Lutant (Nana Caçadora):** Viva, però **Infectada**.  
-* **Hulil Lutant (Nana Cultista):** **Infectada** i servidora del **Drac Thiel** (servent de **Tiamap**). Actualment sense els artefactes clau i intenta fugir a *Shadycreek*.  
+* **Hulil Lutant (Nana Cultista):** **Infectada** i servidora del **Drac Thiel** (servent de **Tiamat**). Actualment sense els artefactes clau i intenta fugir a *Shadycreek*.  
 * **Elf Mut (Company de Hulil):** Cultista silenciosa al servei de **Hulil Lutant**.  
 * **Liel (Comerciant):** Nou objectiu. Va comprar els vials de vidre blau que contenen el focus de la malaltia. És un assidu de la fonda *'El Nan Feliç'*.  
 * **Arl Bortock (Propietari de la Fonda):** Propietari de la fonda *'El Nan Feliç'*.  
@@ -149,10 +149,22 @@ Quin serà l’impacte d'aquesta malaltia sobre **Walo Oavutheg**? Tindran els *
    * Esbrinar què buscava **Urgon Wenth** exactament a l’illa gèlida d'*Eiselcross* que el va portar a contreure la malaltia i trobar el valuós botí (1.000 mo).  
 3. **Artefactes i Iconografia del Drac Thiel:**  
    * **Vials de Vidre Blau:** Venuts a **Liel** i dispersats. Són la font probable d'infecció.  
-   * **Iconografia:** El culte es centra en el drac **Thiel**, servent del déu maligne **Tiamap** (Drac de Cinc Caps).  
+   * **Iconografia:** El culte es centra en el drac **Thiel**, servent del déu maligne **Tiamat** (Drac de Cinc Caps).  
 4. **Botí i Objectes Recuperats:**  
    * **Pep Llimona** ha trobat una ampolla de whisky *El Nan Calb* (25 mo).  
    * **Artefactes recuperats:** Mapa del Multivers (15 mo), Estàtua de jade (25 mo), Carcaix amb fletxes (+1), Anell de plata (50 mo), Bossa amb 100 mo, i el rebut de **Liel**.  
+
+## Apèndix: Deesa Tiamat
+
+Tiamat és la deessa dracònica del mal, l'avarícia i els dracs cromàtics (vermells, blaus, verds, negres i blancs).
+
+**Aparença:** Un drac massiu amb cinc caps, un de cada color cromàtic, cadascun amb els seus propis poders i personalitat.
+
+**Domini:** Resideix a Avernus, el primer nivell dels Nou Inferns, on conspira per escapar i dominar el món material.
+j
+**Culte:** Els seus seguidors inclouen dracs cromàtics, cultistes i aquells que busquen poder a través de la destrucció. El seu símbol és un drac de cinc caps o una estrella de cinc puntes amb caps de drac.
+
+**Rivalitat:** És l'eterna enemiga de Bahamut, el déu dels dracs metàl·lics i la justícia.
 
 ---
 
@@ -160,8 +172,8 @@ Quin serà l’impacte d'aquesta malaltia sobre **Walo Oavutheg**? Tindran els *
 
 ```
 Borin  : 0 xp
-Mythiel: 0 xp
+Mythiel: 150 xp
 Pep    : 0 xp
-Rhys   : 0 xp
-Walo   : 0 xp
+Rhys   : 170 xp
+Walo   : 160 xp
 ```
