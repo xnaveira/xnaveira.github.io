@@ -1,6 +1,6 @@
 ---
 layout: post_index
-title: Índex de resums
+title: Sessions
 permalink: /post_index/
 items:
   - Congelats
@@ -8,4 +8,4 @@ items:
   - Waterdeep
 ---
 
-<h3><a href="/">Tornar</a></h3>
+<a class="back-link" href="/">&#8592; Tornar a l'inici</a>
