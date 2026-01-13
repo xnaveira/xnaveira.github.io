@@ -1,6 +1,5 @@
-
 ---
-tags: [Congelats]
+tags:[Congelats]
 ---
 # **CAPÍTOL V: EL DESTÍ D'EISELCROSS**
 
@@ -150,8 +149,8 @@ Tiamat és la deessa dracònica del mal, l'avarícia i els dracs cromàtics (ver
 
 ```
 Borin  : 0 xp
-Mythiel: 0 xp
+Mythiel: 80 xp
 Pep    : 0 xp
-Rhys   : 0 xp
-Walo   : 0 xp
+Rhys   : 100 xp
+Walo   : 80 xp
 ```
