@@ -126,7 +126,7 @@ Tiamat és la deessa dracònica del mal, l'avarícia i els dracs cromàtics (ver
 ## XP
 
 ```
-Borin  : 0 xp
+Borin  : 190 xp
 Mythiel: 120 xp
 Rhys   : 125 xp
 Walo   : 110 xp
